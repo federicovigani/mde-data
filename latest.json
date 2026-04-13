@@ -1,36 +1,25 @@
 {
   "meta": {
     "date": "2026-04-13",
-    "generated_at": "2026-04-13T20:19:03.505923",
+    "generated_at": "2026-04-13T20:31:45.474897",
     "n_tickers": 22,
     "n_flagged": 0,
     "n_approaching": 0,
     "n_deep_value": 1,
     "panic_signal": false,
     "panic_grade": null,
-    "oracle_run": false,
-    "deep_value_oracle_run": true
+    "oracle_run": false
   },
   "regime": {
     "regime": "CALM",
     "description": "Low volatility, spreads contained \u2014 watch for complacency",
-    "credit_z": -1.0,
-    "vix_level": 19.15,
+    "credit_z": 0,
+    "vix_level": 19.12,
     "vix_ratio": 0.78,
     "pct_equity_stressed": 0.0,
     "n_equity_stressed": 0
   },
   "credit": {
-    "hy_oas": {
-      "latest": 2.871,
-      "date": "2026-04-10",
-      "zscore": -1.0,
-      "percentile": 13.2,
-      "pct_1y": 32.5,
-      "pct_3y": 22.0,
-      "pct_5y": 13.2,
-      "_etf_adjusted": true
-    },
     "ig_oas": {
       "latest": 0.795,
       "date": "2026-04-10",
@@ -41,78 +30,15 @@
       "pct_5y": 9.0,
       "_etf_adjusted": true
     },
-    "hy_bb_oas": {
-      "latest": 1.77,
-      "date": "2026-04-10",
-      "zscore": -1.01,
-      "percentile": 14.6,
-      "pct_1y": 42.1,
-      "pct_3y": 24.3,
-      "pct_5y": 14.6
-    },
-    "yield_10y": {
-      "latest": 4.297,
-      "date": "2026-04-10",
-      "zscore": 0.74,
-      "percentile": 77.9,
-      "pct_1y": 66.3,
-      "pct_3y": 63.2,
-      "pct_5y": 77.9,
-      "_etf_adjusted": true
-    },
-    "yield_2y": {
-      "latest": 3.81,
-      "date": "2026-04-10",
-      "zscore": 0.29,
-      "percentile": 45.9,
-      "pct_1y": 71.4,
-      "pct_3y": 27.4,
-      "pct_5y": 45.9
-    },
-    "curve_10y2y": {
-      "latest": 0.487,
-      "date": "2026-04-10",
-      "zscore": 0.53,
-      "percentile": 64.4,
-      "pct_1y": 9.9,
-      "pct_3y": 70.0,
-      "pct_5y": 64.4,
-      "_etf_adjusted": true
-    },
     "_composite": {
-      "credit_stress_z": -1.0,
+      "credit_stress_z": 0,
       "credit_is_calm": true,
-      "hy_z": -1.0,
+      "hy_z": 0,
       "ig_z": -1.09
     }
   },
   "fred_staleness": {
-    "hy_oas": {
-      "lag_days": 1,
-      "as_of": "2026-04-10",
-      "stale": false
-    },
     "ig_oas": {
-      "lag_days": 1,
-      "as_of": "2026-04-10",
-      "stale": false
-    },
-    "hy_bb_oas": {
-      "lag_days": 1,
-      "as_of": "2026-04-10",
-      "stale": false
-    },
-    "yield_10y": {
-      "lag_days": 1,
-      "as_of": "2026-04-10",
-      "stale": false
-    },
-    "yield_2y": {
-      "lag_days": 1,
-      "as_of": "2026-04-10",
-      "stale": false
-    },
-    "curve_10y2y": {
       "lag_days": 1,
       "as_of": "2026-04-10",
       "stale": false
@@ -124,12 +50,12 @@
   },
   "vix": {
     "vix": {
-      "latest": 19.15,
+      "latest": 19.12,
       "avg_20d": 24.59,
       "ratio_vs_20d": 0.78,
-      "percentile_10y": 54.2,
+      "percentile_10y": 54.0,
       "percentile_1y": 65.5,
-      "percentile": 54.2,
+      "percentile": 54.0,
       "elevated": false,
       "spiking": false,
       "date": "2026-04-13"
@@ -139,23 +65,23 @@
       "date": "2026-04-13"
     },
     "term_structure": {
-      "spread": -2.19,
+      "spread": -2.22,
       "inverted": false,
-      "spread_vs_3d_ago": -0.55,
+      "spread_vs_3d_ago": -0.58,
       "spread_narrowing": true
     }
   },
   "credit_equity_basis": {
     "HYG": {
       "return_5d": 0.7,
-      "spy_return_5d": 4.13,
-      "divergence": 3.43,
+      "spy_return_5d": 4.12,
+      "divergence": 3.42,
       "rolling_corr_60d": null,
       "implied_spread_chg": -11.9
     },
     "LQD": {
       "return_5d": 0.61,
-      "spy_return_5d": 4.13,
+      "spy_return_5d": 4.12,
       "divergence": 3.51,
       "rolling_corr_60d": null,
       "implied_spread_chg": -6.2
@@ -207,14 +133,14 @@
       "description": "XLE (Energy) -4.3% vs SPY +4.1% (beta 0.65, expected +2.7%) \u2014 excess move: -7.0%"
     }
   ],
-  "macro_narrative": "Market regime: CALM. Low volatility, spreads contained \u2014 watch for complacency. HY spreads tight at 287bps (13th pct vs 5y, z=-1.00) \u2014 credit complacent. Yield curve positive at 0.49%.",
+  "macro_narrative": "Market regime: CALM. Low volatility, spreads contained \u2014 watch for complacency.",
   "macro_score": {
-    "score": 22.7,
-    "label": "CALM",
+    "score": 35.6,
+    "label": "CAUTIOUS",
     "components": {
-      "vix_pct_10y": 54.2,
+      "vix_pct_10y": 54.0,
       "vix_term_inverted": false,
-      "hy_pct_5y": 13.2,
+      "hy_pct_5y": 50.0,
       "ig_pct_5y": 9.0
     },
     "oracle_adjusted": false
@@ -223,29 +149,29 @@
     "flag": false,
     "grade": null,
     "conditions_met": [
-      "Deceleration (3/3): credit 5d=-0.19 vs 10d=-0.48; SPY 5d=4.1% vs 10d=8.2%; VIX spread narrowing=True"
+      "Deceleration (2/3): credit 5d=None vs 10d=None; SPY 5d=4.1% vs 10d=8.2%; VIX spread narrowing=True"
     ],
     "conditions_failed": [
-      "Credit not extreme: HY 13th pct (needs >=70)",
+      "Credit not extreme: HY 50th pct (needs >=70)",
       "VIX: VIX 54th pct (needs >=70); term not inverted"
     ],
-    "credit_plateauing": true,
+    "credit_plateauing": false,
     "supporting_data": {
-      "hy_pct_5y": 13.2,
-      "hy_z": -1.0,
-      "hy_5d": -0.19,
-      "hy_10d": -0.48,
-      "vix_level": 19.15,
-      "vix_pct_10y": 54.2,
+      "hy_pct_5y": 50.0,
+      "hy_z": 0.0,
+      "hy_5d": null,
+      "hy_10d": null,
+      "vix_level": 19.12,
+      "vix_pct_10y": 54.0,
       "vix_inverted": false,
-      "vix_spread_vs_3d": -0.55,
-      "spy_5d": 4.13,
-      "spy_10d": 8.21
+      "vix_spread_vs_3d": -0.58,
+      "spy_5d": 4.12,
+      "spy_10d": 8.2
     },
-    "decel_credit": true,
+    "decel_credit": false,
     "decel_equity": true,
     "decel_vix": true,
-    "decel_count": 3,
+    "decel_count": 2,
     "cond1_credit_extreme": false,
     "cond2_vix_panic": false,
     "cond3_deceleration": true,
@@ -256,8 +182,8 @@
     "label": "BUSINESS AS USUAL",
     "equity_stressed": false,
     "credit_stressed": false,
-    "vix_pct_10y": 54.2,
-    "spy_5d": 4.13,
+    "vix_pct_10y": 54.0,
+    "spy_5d": 4.12,
     "credit_calm": true
   },
   "a2_signal": {
@@ -272,16 +198,16 @@
     "em_red": 0,
     "em_total": 8,
     "sector_returns": {
-      "XLF": 3.5,
+      "XLF": 3.6,
       "XLE": -4.3,
       "XLK": 6.5,
       "XLV": 1.2,
-      "XLI": 5.0,
+      "XLI": 4.9,
       "XLU": 0.5,
       "XLB": 3.9,
       "XLRE": 3.0,
       "XLY": 4.5,
-      "XLP": -1.4,
+      "XLP": -1.3,
       "XLC": 2.7
     },
     "em_returns": {
@@ -309,14 +235,8 @@
       "current_price": 25.61,
       "pct_from_high": -11.1,
       "regime": "CALM",
-      "credit_z_at_scan": -1.0,
-      "reason": "\u2014",
-      "sentiment_phase": "\u2014",
-      "entry_verdict": "\u2014",
-      "entry_thesis": "\u2014",
-      "selloff_stage": "\u2014",
-      "news_is_stale": false,
-      "fundamental_broken": false
+      "credit_z_at_scan": 0.0,
+      "reason": null
     }
   ],
   "all_tickers": [
@@ -324,13 +244,13 @@
       "ticker": "XLE",
       "name": "Energy",
       "asset_class": "sector",
-      "return_1d": 0.33,
-      "return_5d": -4.27,
-      "return_10d": -8.68,
-      "return_20d": -0.34,
+      "return_1d": 0.3,
+      "return_5d": -4.31,
+      "return_10d": -8.71,
+      "return_20d": -0.38,
       "momentum": "continuation",
-      "zscore": -1.38,
-      "current_price": 57.13,
+      "zscore": -1.39,
+      "current_price": 57.11,
       "high_252d": 62.56,
       "pct_from_high": -8.7,
       "lookback_days": 1260,
@@ -342,13 +262,13 @@
       "ticker": "XLP",
       "name": "Cons Staples",
       "asset_class": "sector",
-      "return_1d": -1.02,
-      "return_5d": -1.37,
-      "return_10d": -0.31,
-      "return_20d": -3.25,
+      "return_1d": -1.0,
+      "return_5d": -1.34,
+      "return_10d": -0.28,
+      "return_20d": -3.22,
       "momentum": null,
-      "zscore": -0.89,
-      "current_price": 81.53,
+      "zscore": -0.87,
+      "current_price": 81.55,
       "high_252d": 89.51,
       "pct_from_high": -8.9,
       "lookback_days": 1260,
@@ -486,15 +406,15 @@
       "ticker": "XLF",
       "name": "Financials",
       "asset_class": "sector",
-      "return_1d": 1.71,
-      "return_5d": 3.53,
-      "return_10d": 8.01,
-      "return_20d": 6.17,
+      "return_1d": 1.75,
+      "return_5d": 3.57,
+      "return_10d": 8.05,
+      "return_20d": 6.21,
       "momentum": null,
-      "zscore": 1.33,
-      "current_price": 51.64,
+      "zscore": 1.35,
+      "current_price": 51.66,
       "high_252d": 56.11,
-      "pct_from_high": -8.0,
+      "pct_from_high": -7.9,
       "lookback_days": 1260,
       "dislocation_score": 0,
       "dislocation_type": null,
@@ -577,12 +497,12 @@
       "name": "IWM",
       "asset_class": "index",
       "return_1d": 1.44,
-      "return_5d": 5.03,
-      "return_10d": 9.03,
-      "return_20d": 7.68,
+      "return_5d": 5.04,
+      "return_10d": 9.04,
+      "return_20d": 7.69,
       "momentum": null,
       "zscore": 1.65,
-      "current_price": 265.06,
+      "current_price": 265.07,
       "high_252d": 269.31,
       "pct_from_high": -1.6,
       "lookback_days": 1260,
@@ -595,12 +515,12 @@
       "name": "SPY",
       "asset_class": "index",
       "return_1d": 0.98,
-      "return_5d": 4.13,
-      "return_10d": 8.21,
+      "return_5d": 4.12,
+      "return_10d": 8.2,
       "return_20d": 3.88,
       "momentum": null,
       "zscore": 1.81,
-      "current_price": 686.13,
+      "current_price": 686.1,
       "high_252d": 693.6,
       "pct_from_high": -1.1,
       "lookback_days": 1260,
@@ -648,13 +568,13 @@
       "ticker": "XLI",
       "name": "Industrials",
       "asset_class": "sector",
-      "return_1d": 0.73,
-      "return_5d": 4.96,
-      "return_10d": 8.52,
-      "return_20d": 5.23,
+      "return_1d": 0.71,
+      "return_5d": 4.93,
+      "return_10d": 8.5,
+      "return_20d": 5.2,
       "momentum": null,
-      "zscore": 2.01,
-      "current_price": 172.77,
+      "zscore": 2.0,
+      "current_price": 172.73,
       "high_252d": 178.4,
       "pct_from_high": -3.2,
       "lookback_days": 1260,
