@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-05-07",
-    "generated_at": "2026-05-07T06:53:53.840529",
+    "generated_at": "2026-05-07T08:14:32.699025",
     "n_tickers": 22,
     "n_flagged": 0,
     "n_approaching": 0,
@@ -14,8 +14,8 @@
     "regime": "CALM",
     "description": "Low volatility, spreads contained \u2014 watch for complacency",
     "credit_z": -1.02,
-    "vix_level": 17.39,
-    "vix_ratio": 0.95,
+    "vix_level": 17.51,
+    "vix_ratio": 0.96,
     "pct_equity_stressed": 0.0,
     "n_equity_stressed": 0
   },
@@ -123,22 +123,22 @@
   },
   "vix": {
     "vix": {
-      "latest": 17.39,
-      "avg_20d": 18.33,
-      "ratio_vs_20d": 0.95,
-      "percentile_10y": 41.8,
-      "percentile_1y": 51.6,
-      "percentile": 41.8,
+      "latest": 17.51,
+      "avg_20d": 18.24,
+      "ratio_vs_20d": 0.96,
+      "percentile_10y": 42.5,
+      "percentile_1y": 53.6,
+      "percentile": 42.5,
       "elevated": false,
       "spiking": false,
-      "date": "2026-05-06"
+      "date": "2026-05-07"
     },
     "vix3m": {
       "latest": 20.57,
       "date": "2026-05-06"
     },
     "term_structure": {
-      "spread": -3.18,
+      "spread": -3.06,
       "inverted": false,
       "spread_vs_3d_ago": 0.2,
       "spread_narrowing": false
@@ -168,8 +168,8 @@
     },
     "DX-Y.NYB": {
       "name": "Dollar (DXY)",
-      "return_5d": -0.1,
-      "current_price": 97.98
+      "return_5d": -0.19,
+      "current_price": 97.89
     },
     "IBIT": {
       "name": "Bitcoin ETF",
@@ -193,10 +193,10 @@
   ],
   "macro_narrative": "Market regime: CALM. Low volatility, spreads contained \u2014 watch for complacency. HY spreads tight at 274bps (9th pct vs 5y, z=-1.07) \u2014 credit complacent. Yield curve positive at 0.43%.",
   "macro_score": {
-    "score": 17.2,
+    "score": 17.4,
     "label": "CALM",
     "components": {
-      "vix_pct_10y": 41.8,
+      "vix_pct_10y": 42.5,
       "vix_term_inverted": false,
       "hy_pct_5y": 9.0,
       "ig_pct_5y": 7.5
@@ -225,7 +225,7 @@
     "label": "BUSINESS AS USUAL",
     "equity_stressed": false,
     "credit_stressed": false,
-    "vix_pct_10y": 41.8,
+    "vix_pct_10y": 42.5,
     "spy_5d": 3.13,
     "spy_5d_z": 1.29,
     "credit_calm": true
