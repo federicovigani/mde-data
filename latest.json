@@ -1,20 +1,20 @@
 {
   "meta": {
     "date": "2026-05-13",
-    "generated_at": "2026-05-13T06:52:22.331622",
+    "generated_at": "2026-05-13T10:42:14.474938",
     "n_tickers": 22,
     "n_flagged": 0,
     "n_approaching": 0,
     "n_deep_value": 0,
-    "panic_signal": true,
-    "panic_grade": "ENTER",
+    "panic_signal": false,
+    "panic_grade": null,
     "oracle_run": false
   },
   "regime": {
     "regime": "CALM",
     "description": "Low volatility, spreads contained \u2014 watch for complacency",
     "credit_z": -0.97,
-    "vix_level": 17.99,
+    "vix_level": 17.96,
     "vix_ratio": 1.0,
     "pct_equity_stressed": 0.0,
     "n_equity_stressed": 0
@@ -123,22 +123,22 @@
   },
   "vix": {
     "vix": {
-      "latest": 17.99,
-      "avg_20d": 18.06,
+      "latest": 17.96,
+      "avg_20d": 18.05,
       "ratio_vs_20d": 1.0,
-      "percentile_10y": 46.3,
+      "percentile_10y": 45.9,
       "percentile_1y": 60.3,
-      "percentile": 46.3,
+      "percentile": 45.9,
       "elevated": false,
       "spiking": false,
-      "date": "2026-05-12"
+      "date": "2026-05-13"
     },
     "vix3m": {
       "latest": 21.04,
       "date": "2026-05-12"
     },
     "term_structure": {
-      "spread": -3.05,
+      "spread": -3.08,
       "inverted": false,
       "spread_vs_3d_ago": 0.22,
       "spread_narrowing": false
@@ -168,8 +168,8 @@
     },
     "DX-Y.NYB": {
       "name": "Dollar (DXY)",
-      "return_5d": 0.38,
-      "current_price": 98.39
+      "return_5d": 0.52,
+      "current_price": 98.53
     },
     "IBIT": {
       "name": "Bitcoin ETF",
@@ -201,24 +201,6 @@
       "commodity_ret": 0.1,
       "divergence": -3.6,
       "description": "CVX (CVX) -3.5% while Crude Oil +0.1% \u2014 equity selloff not commodity-driven"
-    },
-    {
-      "type": "dollar_em",
-      "severity": "watch",
-      "etf": "EWZ",
-      "etf_name": "Brazil",
-      "etf_ret": -3.7,
-      "dxy_ret": 0.4,
-      "description": "EWZ (Brazil) -3.7% while DXY +0.4% \u2014 not capital flight, likely positioning unwind"
-    },
-    {
-      "type": "dollar_em",
-      "severity": "watch",
-      "etf": "INDA",
-      "etf_name": "India",
-      "etf_ret": -3.3,
-      "dxy_ret": 0.4,
-      "description": "INDA (India) -3.3% while DXY +0.4% \u2014 not capital flight, likely positioning unwind"
     },
     {
       "type": "sector_vs_index",
@@ -259,10 +241,10 @@
   ],
   "macro_narrative": "Market regime: CALM. Low volatility, spreads contained \u2014 watch for complacency. HY spreads tight at 279bps (12th pct vs 5y, z=-0.97) \u2014 credit complacent. Yield curve positive at 0.51%.",
   "macro_score": {
-    "score": 19.3,
+    "score": 19.2,
     "label": "CALM",
     "components": {
-      "vix_pct_10y": 46.3,
+      "vix_pct_10y": 45.9,
       "vix_term_inverted": false,
       "hy_pct_5y": 12.4,
       "ig_pct_5y": 5.6
@@ -270,28 +252,28 @@
     "oracle_adjusted": false
   },
   "panic_signal": {
-    "flag": true,
-    "grade": "ENTER",
-    "hy_accel_ratio": 0.0,
+    "flag": false,
+    "grade": null,
+    "hy_accel_ratio": null,
     "hy_c5d_bps": 1.0,
     "hy_c10d_bps": -5.0,
     "credit_plateauing": true,
     "supporting_data": {
       "hy_5d": 0.01,
       "hy_10d": -0.05,
-      "hy_accel_ratio": 0.0
+      "hy_accel_ratio": null
     },
-    "decel_credit": true,
+    "decel_credit": false,
     "decel_equity": false,
     "decel_vix": false,
-    "decel_count": 1
+    "decel_count": 0
   },
   "quadrant": {
     "quadrant": "CALM",
     "label": "BUSINESS AS USUAL",
     "equity_stressed": false,
     "credit_stressed": false,
-    "vix_pct_10y": 46.3,
+    "vix_pct_10y": 45.9,
     "spy_5d": 1.99,
     "spy_5d_z": 0.74,
     "credit_calm": true
