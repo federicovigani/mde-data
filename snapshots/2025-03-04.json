@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "date": "2025-03-04",
+    "n_flagged": 0,
+    "n_deep_value": 5,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -2.92,
+    "spy_5d_z": -1.89
+  },
+  "macro_score": {
+    "score": 44.6,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.405,
+    "hy_c5d_bps": 15.0,
+    "hy_c10d_bps": 37.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0299,
+      "pct_5y": 22.9,
+      "pct_3y": 22.9,
+      "zscore": -0.79
+    },
+    "ig_oas": {
+      "latest": 0.0089,
+      "pct_5y": 27.2,
+      "zscore": -0.75
+    },
+    "curve_10y2y": {
+      "latest": 0.26
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.75
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 23.51,
+      "percentile_10y": 82.6
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -0.73
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLY",
+        "name": "XLY",
+        "return_5d": -3.78,
+        "return_10d": -8.01,
+        "return_20d": -9.11,
+        "zscore": -1.6,
+        "pct_from_high": -12.9,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLB",
+        "name": "XLB",
+        "return_5d": -3.21,
+        "return_10d": -5.7,
+        "return_20d": -3.47,
+        "zscore": -1.52,
+        "pct_from_high": -11.7,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "C",
+      "name": "C",
+      "zscore": -3.74,
+      "return_1d": -6.25,
+      "return_5d": -7.41,
+      "return_10d": -14.51,
+      "return_20d": -9.12,
+      "return_40d": 4.16,
+      "pct_from_high": -14.5,
+      "pct_vs_40d_low": 2.6,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "MS",
+      "name": "MS",
+      "zscore": -3.45,
+      "return_1d": -5.74,
+      "return_5d": -6.08,
+      "return_10d": -13.5,
+      "return_20d": -11.26,
+      "return_40d": -1.8,
+      "pct_from_high": -13.7,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "BA",
+      "name": "BA",
+      "zscore": -3.33,
+      "return_1d": -6.56,
+      "return_5d": -10.87,
+      "return_10d": -14.09,
+      "return_20d": -9.65,
+      "return_40d": -7.55,
+      "pct_from_high": -21.7,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "WFC",
+      "name": "WFC",
+      "zscore": -2.75,
+      "return_1d": -4.84,
+      "return_5d": -3.55,
+      "return_10d": -9.26,
+      "return_20d": -5.73,
+      "return_40d": 4.95,
+      "pct_from_high": -9.5,
+      "pct_vs_40d_low": 5.3,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "AXP",
+      "name": "AXP",
+      "zscore": -2.75,
+      "return_1d": -4.07,
+      "return_5d": -3.36,
+      "return_10d": -9.39,
+      "return_20d": -10.44,
+      "return_40d": -4.79,
+      "pct_from_high": -13.0,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 10,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

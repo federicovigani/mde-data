@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "date": "2025-03-11",
+    "n_flagged": 1,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -3.63,
+    "spy_5d_z": -2.23
+  },
+  "macro_score": {
+    "score": 58.7,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.605,
+    "hy_c5d_bps": 23.0,
+    "hy_c10d_bps": 38.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0322,
+      "pct_5y": 45.9,
+      "pct_3y": 45.9,
+      "zscore": -0.35
+    },
+    "ig_oas": {
+      "latest": 0.0094,
+      "pct_5y": 43.4,
+      "zscore": -0.47
+    },
+    "curve_10y2y": {
+      "latest": 0.34
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.35
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 26.92,
+      "percentile_10y": 89.7
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -1.58
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLY",
+        "name": "XLY",
+        "return_5d": -5.69,
+        "return_10d": -9.26,
+        "return_20d": -13.24,
+        "zscore": -2.28,
+        "pct_from_high": -17.8,
+        "dislocation_score": 85.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ],
+    "approaching": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -4.62,
+        "return_10d": -8.8,
+        "return_20d": -11.78,
+        "zscore": -1.73,
+        "pct_from_high": -13.9,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLF",
+        "name": "XLF",
+        "return_5d": -4.63,
+        "return_10d": -6.57,
+        "return_20d": -7.39,
+        "zscore": -2.16,
+        "pct_from_high": -8.8,
+        "dislocation_score": 55.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLC",
+        "name": "XLC",
+        "return_5d": -3.82,
+        "return_10d": -5.25,
+        "return_20d": -6.64,
+        "zscore": -2.11,
+        "pct_from_high": -8.5,
+        "dislocation_score": 55.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "ABT",
+      "name": "ABT",
+      "zscore": -2.86,
+      "return_1d": -3.42,
+      "return_5d": -3.58,
+      "return_10d": -2.33,
+      "return_20d": 1.03,
+      "return_40d": 18.74,
+      "pct_from_high": -5.4,
+      "pct_vs_40d_low": 19.4,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 10,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

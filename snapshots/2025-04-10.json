@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "date": "2025-04-10",
+    "n_flagged": 4,
+    "n_deep_value": 5,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "PANIC MODE",
+    "quadrant": "PANIC",
+    "spy_5d": -2.26,
+    "spy_5d_z": -1.28
+  },
+  "macro_score": {
+    "score": 86.0,
+    "label": "CRISIS"
+  },
+  "panic_signal": {
+    "grade": "ENTER",
+    "hy_accel_ratio": 0.357,
+    "hy_c5d_bps": 41.0,
+    "hy_c10d_bps": 115.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0442,
+      "pct_5y": 96.2,
+      "pct_3y": 96.2,
+      "zscore": 1.9
+    },
+    "ig_oas": {
+      "latest": 0.0118,
+      "pct_5y": 73.1,
+      "zscore": 0.88
+    },
+    "curve_10y2y": {
+      "latest": 0.56
+    },
+    "_composite": {
+      "credit_is_calm": false,
+      "credit_stress_z": 1.9
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 40.72,
+      "percentile_10y": 98.6
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -5.01
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLV",
+        "name": "XLV",
+        "return_5d": -5.76,
+        "return_10d": -6.95,
+        "return_20d": -5.85,
+        "zscore": -3.3,
+        "pct_from_high": -13.2,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLE",
+        "name": "XLE",
+        "return_5d": -11.25,
+        "return_10d": -17.11,
+        "return_20d": -11.01,
+        "zscore": -3.55,
+        "pct_from_high": -19.6,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLRE",
+        "name": "XLRE",
+        "return_5d": -5.98,
+        "return_10d": -7.36,
+        "return_20d": -5.0,
+        "zscore": -2.46,
+        "pct_from_high": -13.6,
+        "dislocation_score": 75.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLB",
+        "name": "XLB",
+        "return_5d": -5.9,
+        "return_10d": -9.76,
+        "return_20d": -7.44,
+        "zscore": -2.6,
+        "pct_from_high": -19.1,
+        "dislocation_score": 75.0,
+        "dislocation_type": "MIXED"
+      }
+    ],
+    "approaching": [
+      {
+        "ticker": "XLP",
+        "name": "XLP",
+        "return_5d": -3.26,
+        "return_10d": -1.81,
+        "return_20d": 0.56,
+        "zscore": -2.25,
+        "pct_from_high": -4.6,
+        "dislocation_score": 45.0,
+        "dislocation_type": "MIXED"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "CVX",
+      "name": "CVX",
+      "zscore": -5.25,
+      "return_1d": -7.57,
+      "return_5d": -13.54,
+      "return_10d": -19.0,
+      "return_20d": -12.13,
+      "return_40d": -11.89,
+      "pct_from_high": -19.9,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "COP",
+      "name": "COP",
+      "zscore": -5.15,
+      "return_1d": -8.98,
+      "return_5d": -12.56,
+      "return_10d": -18.99,
+      "return_20d": -13.41,
+      "return_40d": -14.67,
+      "pct_from_high": -35.5,
+      "pct_vs_40d_low": 0.8,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "XOM",
+      "name": "XOM",
+      "zscore": -3.93,
+      "return_1d": -5.55,
+      "return_5d": -11.12,
+      "return_10d": -15.23,
+      "return_20d": -8.04,
+      "return_40d": -6.91,
+      "pct_from_high": -18.9,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "TMO",
+      "name": "TMO",
+      "zscore": -3.88,
+      "return_1d": -5.76,
+      "return_5d": -9.06,
+      "return_10d": -16.46,
+      "return_20d": -15.94,
+      "return_40d": -20.48,
+      "pct_from_high": -31.4,
+      "pct_vs_40d_low": 1.9,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "MRK",
+      "name": "MRK",
+      "zscore": -3.84,
+      "return_1d": -5.32,
+      "return_5d": -10.23,
+      "return_10d": -11.47,
+      "return_20d": -17.41,
+      "return_40d": -8.7,
+      "pct_from_high": -40.3,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 11,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

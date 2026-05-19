@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "date": "2025-03-03",
+    "n_flagged": 1,
+    "n_deep_value": 3,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -2.25,
+    "spy_5d_z": -1.52
+  },
+  "macro_score": {
+    "score": 43.5,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.5,
+    "hy_c5d_bps": 16.0,
+    "hy_c10d_bps": 32.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0294,
+      "pct_5y": 21.4,
+      "pct_3y": 21.4,
+      "zscore": -0.89
+    },
+    "ig_oas": {
+      "latest": 0.0089,
+      "pct_5y": 27.0,
+      "zscore": -0.75
+    },
+    "curve_10y2y": {
+      "latest": 0.2
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.75
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 22.78,
+      "percentile_10y": 80.4
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -0.6
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -5.55,
+        "return_10d": -8.88,
+        "return_20d": -5.26,
+        "zscore": -2.09,
+        "pct_from_high": -9.7,
+        "dislocation_score": 70.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "COP",
+      "name": "COP",
+      "zscore": -4.13,
+      "return_1d": -6.58,
+      "return_5d": -6.26,
+      "return_10d": -3.77,
+      "return_20d": -5.51,
+      "return_40d": -5.84,
+      "pct_from_high": -28.6,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVDA",
+      "zscore": -2.79,
+      "return_1d": -8.69,
+      "return_5d": -12.45,
+      "return_10d": -17.85,
+      "return_20d": -5.01,
+      "return_40d": -15.06,
+      "pct_from_high": -23.7,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "CVX",
+      "name": "CVX",
+      "zscore": -2.67,
+      "return_1d": -3.49,
+      "return_5d": -3.04,
+      "return_10d": -1.45,
+      "return_20d": 3.75,
+      "return_40d": 6.87,
+      "pct_from_high": -4.8,
+      "pct_vs_40d_low": 5.5,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 6,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

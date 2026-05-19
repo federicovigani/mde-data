@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2026-02-25",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 1.0,
+    "spy_5d_z": 0.31
+  },
+  "macro_score": {
+    "score": 33.2,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.8,
+    "hy_c5d_bps": 8.0,
+    "hy_c10d_bps": 10.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0294,
+      "pct_5y": 31.2,
+      "pct_3y": 31.2,
+      "zscore": -0.69
+    },
+    "ig_oas": {
+      "latest": 0.008,
+      "pct_5y": 20.9,
+      "zscore": -0.9
+    },
+    "curve_10y2y": {
+      "latest": 0.6
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.69
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 17.93,
+      "percentile_10y": 58.9
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 2.43
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "LOW",
+      "name": "LOW",
+      "zscore": -3.76,
+      "return_1d": -5.59,
+      "return_5d": -6.77,
+      "return_10d": -7.61,
+      "return_20d": -3.99,
+      "return_40d": 8.06,
+      "pct_from_high": -8.5,
+      "pct_vs_40d_low": 9.6,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 1,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

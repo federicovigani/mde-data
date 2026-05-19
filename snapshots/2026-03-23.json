@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "date": "2026-03-23",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -1.77,
+    "spy_5d_z": -1.0
+  },
+  "macro_score": {
+    "score": 61.3,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": null,
+    "hy_c5d_bps": -8.0,
+    "hy_c10d_bps": 0.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0319,
+      "pct_5y": 55.1,
+      "pct_3y": 55.1,
+      "zscore": -0.19
+    },
+    "ig_oas": {
+      "latest": 0.0088,
+      "pct_5y": 42.4,
+      "zscore": -0.45
+    },
+    "curve_10y2y": {
+      "latest": 0.51
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.19
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 26.15,
+      "percentile_10y": 88.2
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -0.05
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLP",
+        "name": "XLP",
+        "return_5d": -3.93,
+        "return_10d": -5.04,
+        "return_20d": -8.24,
+        "zscore": -2.34,
+        "pct_from_high": -9.3,
+        "dislocation_score": 55.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLU",
+        "name": "XLU",
+        "return_5d": -4.59,
+        "return_10d": -3.75,
+        "return_20d": -3.4,
+        "zscore": -2.41,
+        "pct_from_high": -5.5,
+        "dislocation_score": 55.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLB",
+        "name": "XLB",
+        "return_5d": -3.32,
+        "return_10d": -4.46,
+        "return_20d": -9.82,
+        "zscore": -1.41,
+        "pct_from_high": -10.9,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 9,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

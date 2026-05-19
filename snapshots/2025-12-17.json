@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2025-12-17",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -2.35,
+    "spy_5d_z": -1.35
+  },
+  "macro_score": {
+    "score": 32.1,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.8,
+    "hy_c5d_bps": 8.0,
+    "hy_c10d_bps": 10.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0299,
+      "pct_5y": 30.6,
+      "pct_3y": 30.6,
+      "zscore": -0.66
+    },
+    "ig_oas": {
+      "latest": 0.0081,
+      "pct_5y": 20.4,
+      "zscore": -0.93
+    },
+    "curve_10y2y": {
+      "latest": 0.67
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.66
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 17.62,
+      "percentile_10y": 56.1
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 2.46
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "CAT",
+      "name": "CAT",
+      "zscore": -2.57,
+      "return_1d": -4.59,
+      "return_5d": -8.69,
+      "return_10d": -5.0,
+      "return_20d": 2.74,
+      "return_40d": 7.1,
+      "pct_from_high": -10.2,
+      "pct_vs_40d_low": 9.3,
+      "consecutive_down_days": 4,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 4,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

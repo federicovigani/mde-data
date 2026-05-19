@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "date": "2026-03-10",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -0.46,
+    "spy_5d_z": -0.39
+  },
+  "macro_score": {
+    "score": 47.5,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.167,
+    "hy_c5d_bps": -2.0,
+    "hy_c10d_bps": 12.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0306,
+      "pct_5y": 38.9,
+      "pct_3y": 38.9,
+      "zscore": -0.45
+    },
+    "ig_oas": {
+      "latest": 0.0084,
+      "pct_5y": 36.1,
+      "zscore": -0.67
+    },
+    "curve_10y2y": {
+      "latest": 0.58
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.45
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 24.93,
+      "percentile_10y": 85.9
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.58
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 9,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

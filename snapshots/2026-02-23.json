@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2026-02-23",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": 0.09,
+    "spy_5d_z": -0.13
+  },
+  "macro_score": {
+    "score": 38.2,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.091,
+    "hy_c5d_bps": 1.0,
+    "hy_c10d_bps": 11.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0295,
+      "pct_5y": 32.8,
+      "pct_3y": 32.8,
+      "zscore": -0.67
+    },
+    "ig_oas": {
+      "latest": 0.008,
+      "pct_5y": 20.8,
+      "zscore": -0.9
+    },
+    "curve_10y2y": {
+      "latest": 0.6
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.67
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 21.01,
+      "percentile_10y": 73.9
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.13
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "AXP",
+      "name": "AXP",
+      "zscore": -4.06,
+      "return_1d": -7.2,
+      "return_5d": -4.82,
+      "return_10d": -10.56,
+      "return_20d": -11.18,
+      "return_40d": -15.76,
+      "pct_from_high": -16.4,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 5,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

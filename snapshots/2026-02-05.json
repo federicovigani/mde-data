@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "date": "2026-02-05",
+    "n_flagged": 1,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -2.37,
+    "spy_5d_z": -1.34
+  },
+  "macro_score": {
+    "score": 35.6,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.586,
+    "hy_c5d_bps": 17.0,
+    "hy_c10d_bps": 29.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0297,
+      "pct_5y": 32.6,
+      "pct_3y": 32.6,
+      "zscore": -0.64
+    },
+    "ig_oas": {
+      "latest": 0.0076,
+      "pct_5y": 5.9,
+      "zscore": -1.14
+    },
+    "curve_10y2y": {
+      "latest": 0.74
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.64
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 21.77,
+      "percentile_10y": 77.0
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.68
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -7.65,
+        "return_10d": -6.38,
+        "return_20d": -7.44,
+        "zscore": -2.43,
+        "pct_from_high": -10.7,
+        "dislocation_score": 85.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "MSFT",
+      "name": "MSFT",
+      "zscore": -3.31,
+      "return_1d": -4.95,
+      "return_5d": -9.19,
+      "return_10d": -12.74,
+      "return_20d": -18.57,
+      "return_40d": -19.83,
+      "pct_from_high": -27.2,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 6,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

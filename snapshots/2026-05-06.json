@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "date": "2026-05-06",
+    "n_flagged": 0,
+    "n_deep_value": 2,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 3.13,
+    "spy_5d_z": 1.28
+  },
+  "macro_score": {
+    "score": 22.2,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.778,
+    "hy_c5d_bps": -7.0,
+    "hy_c10d_bps": -9.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0275,
+      "pct_5y": 10.6,
+      "pct_3y": 10.8,
+      "zscore": -1.05
+    },
+    "ig_oas": {
+      "latest": 0.0078,
+      "pct_5y": 10.6,
+      "zscore": -0.99
+    },
+    "curve_10y2y": {
+      "latest": 0.49
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.99
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 17.39,
+      "percentile_10y": 54.3
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 3.18
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "XOM",
+      "name": "XOM",
+      "zscore": -2.74,
+      "return_1d": -4.0,
+      "return_5d": -3.87,
+      "return_10d": -0.54,
+      "return_20d": -4.82,
+      "return_40d": 0.38,
+      "pct_from_high": -13.3,
+      "pct_vs_40d_low": 1.5,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "CVX",
+      "name": "CVX",
+      "zscore": -2.68,
+      "return_1d": -3.88,
+      "return_5d": -3.67,
+      "return_10d": -0.62,
+      "return_20d": -4.01,
+      "return_40d": -0.61,
+      "pct_from_high": -12.3,
+      "pct_vs_40d_low": 1.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 2,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

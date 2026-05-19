@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2025-10-31",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.71,
+    "spy_5d_z": 0.08
+  },
+  "macro_score": {
+    "score": 29.1,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.6,
+    "hy_c5d_bps": 6.0,
+    "hy_c10d_bps": -10.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0294,
+      "pct_5y": 26.5,
+      "pct_3y": 26.5,
+      "zscore": -0.78
+    },
+    "ig_oas": {
+      "latest": 0.008,
+      "pct_5y": 15.0,
+      "zscore": -1.03
+    },
+    "curve_10y2y": {
+      "latest": 0.51
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.78
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 17.44,
+      "percentile_10y": 55.3
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 3.05
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "ABBV",
+      "name": "ABBV",
+      "zscore": -2.98,
+      "return_1d": -4.45,
+      "return_5d": -4.36,
+      "return_10d": -5.02,
+      "return_20d": -6.11,
+      "return_40d": 3.32,
+      "pct_from_high": -10.1,
+      "pct_vs_40d_low": 4.7,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 7,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2025-10-22",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.4,
+    "spy_5d_z": -0.04
+  },
+  "macro_score": {
+    "score": 31.8,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.353,
+    "hy_c5d_bps": 6.0,
+    "hy_c10d_bps": 17.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0301,
+      "pct_5y": 29.4,
+      "pct_3y": 29.4,
+      "zscore": -0.65
+    },
+    "ig_oas": {
+      "latest": 0.008,
+      "pct_5y": 14.0,
+      "zscore": -1.04
+    },
+    "curve_10y2y": {
+      "latest": 0.52
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.65
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 18.6,
+      "percentile_10y": 61.6
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.71
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "NFLX",
+      "name": "NFLX",
+      "zscore": -4.94,
+      "return_1d": -10.07,
+      "return_5d": -7.22,
+      "return_10d": -8.06,
+      "return_20d": -7.27,
+      "return_40d": -8.95,
+      "pct_from_high": -16.6,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 3,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

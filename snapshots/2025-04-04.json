@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "date": "2025-04-04",
+    "n_flagged": 9,
+    "n_deep_value": 5,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "PANIC MODE",
+    "quadrant": "PANIC",
+    "spy_5d": -9.07,
+    "spy_5d_z": -5.07
+  },
+  "macro_score": {
+    "score": 86.3,
+    "label": "CRISIS"
+  },
+  "panic_signal": {
+    "grade": "WATCH",
+    "hy_accel_ratio": 0.79,
+    "hy_c5d_bps": 98.0,
+    "hy_c10d_bps": 124.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0445,
+      "pct_5y": 96.9,
+      "pct_3y": 96.9,
+      "zscore": 2.0
+    },
+    "ig_oas": {
+      "latest": 0.0114,
+      "pct_5y": 72.4,
+      "zscore": 0.66
+    },
+    "curve_10y2y": {
+      "latest": 0.33
+    },
+    "_composite": {
+      "credit_is_calm": false,
+      "credit_stress_z": 2.0
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 45.31,
+      "percentile_10y": 99.1
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -8.6
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -11.63,
+        "return_10d": -14.61,
+        "return_20d": -16.4,
+        "zscore": -3.97,
+        "pct_from_high": -24.6,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLV",
+        "name": "XLV",
+        "return_5d": -6.39,
+        "return_10d": -7.36,
+        "return_20d": -9.03,
+        "zscore": -3.85,
+        "pct_from_high": -12.9,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLF",
+        "name": "XLF",
+        "return_5d": -10.18,
+        "return_10d": -10.31,
+        "return_20d": -9.69,
+        "zscore": -4.87,
+        "pct_from_high": -15.0,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLE",
+        "name": "XLE",
+        "return_5d": -14.79,
+        "return_10d": -14.21,
+        "return_20d": -9.21,
+        "zscore": -5.11,
+        "pct_from_high": -17.7,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLI",
+        "name": "XLI",
+        "return_5d": -9.38,
+        "return_10d": -10.55,
+        "return_20d": -11.88,
+        "zscore": -4.74,
+        "pct_from_high": -17.4,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLC",
+        "name": "XLC",
+        "return_5d": -8.89,
+        "return_10d": -10.36,
+        "return_20d": -12.76,
+        "zscore": -4.36,
+        "pct_from_high": -16.9,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLB",
+        "name": "XLB",
+        "return_5d": -8.43,
+        "return_10d": -8.79,
+        "return_20d": -10.9,
+        "zscore": -4.04,
+        "pct_from_high": -19.4,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLY",
+        "name": "XLY",
+        "return_5d": -7.23,
+        "return_10d": -7.17,
+        "return_20d": -10.88,
+        "zscore": -2.77,
+        "pct_from_high": -23.3,
+        "dislocation_score": 75.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLRE",
+        "name": "XLRE",
+        "return_5d": -5.92,
+        "return_10d": -5.54,
+        "return_20d": -7.68,
+        "zscore": -2.58,
+        "pct_from_high": -12.3,
+        "dislocation_score": 75.0,
+        "dislocation_type": "MIXED"
+      }
+    ],
+    "approaching": [
+      {
+        "ticker": "XLU",
+        "name": "XLU",
+        "return_5d": -4.42,
+        "return_10d": -4.69,
+        "return_20d": -2.89,
+        "zscore": -2.01,
+        "pct_from_high": -8.7,
+        "dislocation_score": 45.0,
+        "dislocation_type": "MIXED"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "HON",
+      "name": "HON",
+      "zscore": -6.34,
+      "return_1d": -7.59,
+      "return_5d": -9.2,
+      "return_10d": -9.1,
+      "return_20d": -10.97,
+      "return_40d": -8.49,
+      "pct_from_high": -18.6,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "CVX",
+      "name": "CVX",
+      "zscore": -5.98,
+      "return_1d": -8.22,
+      "return_5d": -13.73,
+      "return_10d": -13.03,
+      "return_20d": -8.35,
+      "return_40d": -4.63,
+      "pct_from_high": -15.0,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 3,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "COP",
+      "name": "COP",
+      "zscore": -5.62,
+      "return_1d": -9.41,
+      "return_5d": -15.71,
+      "return_10d": -15.34,
+      "return_20d": -4.79,
+      "return_40d": -12.96,
+      "pct_from_high": -33.5,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "BLK",
+      "name": "BLK",
+      "zscore": -5.38,
+      "return_1d": -7.33,
+      "return_5d": -13.11,
+      "return_10d": -13.57,
+      "return_20d": -13.13,
+      "return_40d": -17.83,
+      "pct_from_high": -23.1,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPM",
+      "zscore": -5.26,
+      "return_1d": -7.48,
+      "return_5d": -12.88,
+      "return_10d": -12.44,
+      "return_20d": -12.67,
+      "return_40d": -23.59,
+      "pct_from_high": -24.4,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 11,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "date": "2025-04-01",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -2.52,
+    "spy_5d_z": -1.62
+  },
+  "macro_score": {
+    "score": 58.4,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 1.519,
+    "hy_c5d_bps": 41.0,
+    "hy_c10d_bps": 27.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.035,
+      "pct_5y": 64.1,
+      "pct_3y": 64.1,
+      "zscore": 0.19
+    },
+    "ig_oas": {
+      "latest": 0.0098,
+      "pct_5y": 56.1,
+      "zscore": -0.23
+    },
+    "curve_10y2y": {
+      "latest": 0.3
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": 0.19
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 21.77,
+      "percentile_10y": 76.6
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.05
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -4.74,
+        "return_10d": -1.79,
+        "return_20d": -4.64,
+        "zscore": -1.75,
+        "pct_from_high": -14.0,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLY",
+        "name": "XLY",
+        "return_5d": -3.11,
+        "return_10d": 3.39,
+        "return_20d": -3.92,
+        "zscore": -1.29,
+        "pct_from_high": -16.3,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "JNJ",
+      "name": "JNJ",
+      "zscore": -7.11,
+      "return_1d": -7.59,
+      "return_5d": -4.83,
+      "return_10d": -6.7,
+      "return_20d": -7.36,
+      "return_40d": 1.72,
+      "pct_from_high": -8.6,
+      "pct_vs_40d_low": 0.9,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 7,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

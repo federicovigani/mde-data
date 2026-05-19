@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2025-04-17",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": 0.35,
+    "spy_5d_z": 0.02
+  },
+  "macro_score": {
+    "score": 79.7,
+    "label": "DISTRESSED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 40.0,
+    "hy_c5d_bps": -40.0,
+    "hy_c10d_bps": 1.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0402,
+      "pct_5y": 84.4,
+      "pct_3y": 84.4,
+      "zscore": 1.13
+    },
+    "ig_oas": {
+      "latest": 0.0111,
+      "pct_5y": 70.1,
+      "zscore": 0.48
+    },
+    "curve_10y2y": {
+      "latest": 0.53
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": 1.13
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 29.65,
+      "percentile_10y": 93.5
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -0.3
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "UNH",
+      "name": "UNH",
+      "zscore": -11.74,
+      "return_1d": -22.38,
+      "return_5d": -23.6,
+      "return_10d": -15.97,
+      "return_20d": -11.19,
+      "return_40d": -9.23,
+      "pct_from_high": -26.8,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 3,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

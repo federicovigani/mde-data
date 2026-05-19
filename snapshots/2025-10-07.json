@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "date": "2025-10-07",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.44,
+    "spy_5d_z": -0.03
+  },
+  "macro_score": {
+    "score": 22.1,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.182,
+    "hy_c5d_bps": 2.0,
+    "hy_c10d_bps": 11.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0282,
+      "pct_5y": 15.9,
+      "pct_3y": 15.9,
+      "zscore": -1.02
+    },
+    "ig_oas": {
+      "latest": 0.0075,
+      "pct_5y": 2.2,
+      "zscore": -1.34
+    },
+    "curve_10y2y": {
+      "latest": 0.57
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.02
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 17.24,
+      "percentile_10y": 54.3
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 2.47
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 6,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

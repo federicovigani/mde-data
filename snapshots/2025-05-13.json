@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "date": "2025-05-13",
+    "n_flagged": 0,
+    "n_deep_value": 3,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 5.02,
+    "spy_5d_z": 2.18
+  },
+  "macro_score": {
+    "score": 36.5,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.877,
+    "hy_c5d_bps": -57.0,
+    "hy_c10d_bps": -65.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 0.0309,
+      "pct_5y": 26.1,
+      "pct_3y": 26.1,
+      "zscore": -0.64
+    },
+    "ig_oas": {
+      "latest": 0.0094,
+      "pct_5y": 42.1,
+      "zscore": -0.49
+    },
+    "curve_10y2y": {
+      "latest": 0.47
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.49
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 18.22,
+      "percentile_10y": 59.2
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.87
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "UNH",
+      "name": "UNH",
+      "zscore": -8.5,
+      "return_1d": -17.79,
+      "return_5d": -21.07,
+      "return_10d": -23.91,
+      "return_20d": -46.96,
+      "return_40d": -37.6,
+      "pct_from_high": -49.8,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 6,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "JNJ",
+      "zscore": -3.38,
+      "return_1d": -3.7,
+      "return_5d": -3.9,
+      "return_10d": -4.79,
+      "return_20d": -3.84,
+      "return_40d": -8.84,
+      "pct_from_high": -11.5,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 4,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "MRK",
+      "name": "MRK",
+      "zscore": -3.22,
+      "return_1d": -4.72,
+      "return_5d": -3.05,
+      "return_10d": -9.54,
+      "return_20d": -3.21,
+      "return_40d": -19.16,
+      "pct_from_high": -41.0,
+      "pct_vs_40d_low": 0.9,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 4,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}
