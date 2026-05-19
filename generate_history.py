@@ -37,7 +37,8 @@ FRED_API_KEY   = os.getenv("FRED_API_KEY", "")
 SNAPSHOTS_DIR  = "snapshots"
 
 # How far back to download (needed for accurate 10yr VIX percentile)
-HISTORY_START  = "2015-01-01"
+# 2010 start ensures 2020 dates have a full 10yr lookback window
+HISTORY_START  = "2010-01-01"
 
 # Tickers
 SPY_TICKER     = "SPY"
@@ -119,13 +120,13 @@ def trading_days(start: date, end: date) -> list[date]:
     return days
 
 
-def missing_dates(start: date, end: date) -> list[date]:
-    """Return trading days in range that don't yet have a snapshot file."""
+def missing_dates(start: date, end: date, overwrite: bool = False) -> list[date]:
+    """Return trading days in range that need a snapshot generated."""
     today = date.today()
     return [
         d for d in trading_days(start, end)
         if d <= today
-        and not os.path.exists(os.path.join(SNAPSHOTS_DIR, f"{d.isoformat()}.json"))
+        and (overwrite or not os.path.exists(os.path.join(SNAPSHOTS_DIR, f"{d.isoformat()}.json")))
     ]
 
 
@@ -483,10 +484,12 @@ def generate_snapshot(
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--year",    type=int, choices=list(range(2015, 2030)))
-    parser.add_argument("--start",   help="YYYY-MM-DD")
-    parser.add_argument("--end",     help="YYYY-MM-DD")
-    parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--year",      type=int, choices=list(range(2015, 2030)))
+    parser.add_argument("--start",     help="YYYY-MM-DD")
+    parser.add_argument("--end",       help="YYYY-MM-DD")
+    parser.add_argument("--overwrite", action="store_true",
+                        help="Regenerate snapshots that already exist")
+    parser.add_argument("--dry-run",   action="store_true")
     args = parser.parse_args()
 
     today = date.today()
@@ -495,23 +498,24 @@ def main() -> None:
         start = date(args.year, 1, 2)
         end   = min(date(args.year, 12, 31), today)
     elif args.start or args.end:
-        start = date.fromisoformat(args.start) if args.start else date(2025, 1, 2)
+        start = date.fromisoformat(args.start) if args.start else date(2020, 1, 2)
         end   = date.fromisoformat(args.end)   if args.end   else today
     else:
-        start = date(2025, 1, 2)
+        start = date(2020, 1, 2)
         end   = today
 
     os.makedirs(SNAPSHOTS_DIR, exist_ok=True)
 
-    targets = missing_dates(start, end)
+    targets = missing_dates(start, end, overwrite=args.overwrite)
     if not targets:
         print("Nothing to generate — all dates already have snapshots.")
         sys.exit(0)
 
+    mode = "OVERWRITE" if args.overwrite else "MISSING ONLY"
     print(f"\n{'='*60}")
-    print(f"  MDE Historical Backfill")
+    print(f"  MDE Historical Backfill  [{mode}]")
     print(f"  Range    : {start} to {end}")
-    print(f"  Missing  : {len(targets)} dates")
+    print(f"  Targets  : {len(targets)} dates")
     print(f"{'='*60}\n")
 
     if args.dry_run:
