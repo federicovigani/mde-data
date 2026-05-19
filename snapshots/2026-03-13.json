@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "date": "2026-03-13",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -1.5,
+    "spy_5d_z": -0.88
+  },
+  "macro_score": {
+    "score": 62.6,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.938,
+    "hy_c5d_bps": 15.0,
+    "hy_c10d_bps": 16.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.28,
+      "pct_5y": 64.0,
+      "pct_3y": 64.0,
+      "zscore": -0.01
+    },
+    "ig_oas": {
+      "latest": 0.93,
+      "pct_5y": 57.8,
+      "zscore": -0.17
+    },
+    "curve_10y2y": {
+      "latest": 0.55
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.01
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 27.19,
+      "percentile_10y": 89.8
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.09
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLF",
+        "name": "XLF",
+        "return_5d": -3.32,
+        "return_10d": -4.94,
+        "return_20d": -5.42,
+        "zscore": -1.52,
+        "pct_from_high": -13.3,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLY",
+        "name": "XLY",
+        "return_5d": -3.13,
+        "return_10d": -5.13,
+        "return_20d": -4.54,
+        "zscore": -1.2,
+        "pct_from_high": -11.0,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "ADBE",
+      "name": "ADBE",
+      "zscore": -3.42,
+      "return_1d": -7.58,
+      "return_5d": -12.09,
+      "return_10d": -4.99,
+      "return_20d": -5.02,
+      "return_40d": -18.11,
+      "pct_from_high": -40.7,
+      "pct_vs_40d_low": 1.1,
+      "consecutive_down_days": 5,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 9,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

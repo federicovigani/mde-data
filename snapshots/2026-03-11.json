@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "date": "2026-03-11",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -1.28,
+    "spy_5d_z": -0.78
+  },
+  "macro_score": {
+    "score": 49.5,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 1.091,
+    "hy_c5d_bps": 12.0,
+    "hy_c10d_bps": 11.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.09,
+      "pct_5y": 41.7,
+      "pct_3y": 41.7,
+      "zscore": -0.39
+    },
+    "ig_oas": {
+      "latest": 0.88,
+      "pct_5y": 42.6,
+      "zscore": -0.45
+    },
+    "curve_10y2y": {
+      "latest": 0.57
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.39
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 24.23,
+      "percentile_10y": 84.2
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.74
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLF",
+        "name": "XLF",
+        "return_5d": -3.61,
+        "return_10d": -4.3,
+        "return_20d": -7.3,
+        "zscore": -1.66,
+        "pct_from_high": -12.0,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 9,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

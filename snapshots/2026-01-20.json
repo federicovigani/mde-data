@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2026-01-20",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -2.53,
+    "spy_5d_z": -1.43
+  },
+  "macro_score": {
+    "score": 24.4,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.333,
+    "hy_c5d_bps": -2.0,
+    "hy_c10d_bps": -6.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.73,
+      "pct_5y": 9.3,
+      "pct_3y": 9.3,
+      "zscore": -1.14
+    },
+    "ig_oas": {
+      "latest": 0.75,
+      "pct_5y": 2.7,
+      "zscore": -1.23
+    },
+    "curve_10y2y": {
+      "latest": 0.7
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.14
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 20.09,
+      "percentile_10y": 69.5
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.19
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "MMM",
+      "name": "MMM",
+      "zscore": -3.52,
+      "return_1d": -6.96,
+      "return_5d": -7.04,
+      "return_10d": -4.54,
+      "return_20d": -3.49,
+      "return_40d": -6.28,
+      "pct_from_high": -9.8,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 6,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

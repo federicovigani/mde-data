@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "date": "2025-11-18",
+    "n_flagged": 1,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -3.36,
+    "spy_5d_z": -1.87
+  },
+  "macro_score": {
+    "score": 56.2,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 2.571,
+    "hy_c5d_bps": 18.0,
+    "hy_c10d_bps": 7.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.2,
+      "pct_5y": 51.7,
+      "pct_3y": 51.7,
+      "zscore": -0.26
+    },
+    "ig_oas": {
+      "latest": 0.85,
+      "pct_5y": 30.2,
+      "zscore": -0.73
+    },
+    "curve_10y2y": {
+      "latest": 0.54
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.26
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 24.69,
+      "percentile_10y": 84.9
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -0.15
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLY",
+        "name": "XLY",
+        "return_5d": -6.28,
+        "return_10d": -5.74,
+        "return_20d": -6.13,
+        "zscore": -2.41,
+        "pct_from_high": -7.3,
+        "dislocation_score": 70.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "HD",
+      "name": "HD",
+      "zscore": -4.48,
+      "return_1d": -6.02,
+      "return_5d": -10.09,
+      "return_10d": -12.16,
+      "return_20d": -13.92,
+      "return_40d": -18.11,
+      "pct_from_high": -20.6,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 5,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 10,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

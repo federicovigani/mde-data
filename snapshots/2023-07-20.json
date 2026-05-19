@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2023-07-20",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.58,
+    "spy_5d_z": 0.18
+  },
+  "macro_score": {
+    "score": 15.0,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.35,
+    "hy_c5d_bps": -7.0,
+    "hy_c10d_bps": -20.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.9,
+      "pct_5y": 9.1,
+      "pct_3y": 9.1,
+      "zscore": -1.48
+    },
+    "ig_oas": {
+      "latest": 1.27,
+      "pct_5y": 6.8,
+      "zscore": -1.41
+    },
+    "curve_10y2y": {
+      "latest": -0.95
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.41
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 13.99,
+      "percentile_10y": 34.6
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 2.67
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "TSLA",
+      "name": "TSLA",
+      "zscore": -2.55,
+      "return_1d": -9.74,
+      "return_5d": -5.4,
+      "return_10d": -4.93,
+      "return_20d": 1.33,
+      "return_40d": 39.2,
+      "pct_from_high": -15.0,
+      "pct_vs_40d_low": 43.7,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 6,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

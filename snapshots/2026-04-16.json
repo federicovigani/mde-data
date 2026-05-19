@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2026-04-16",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 3.2,
+    "spy_5d_z": 1.34
+  },
+  "macro_score": {
+    "score": 30.5,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.129,
+    "hy_c5d_bps": -4.0,
+    "hy_c10d_bps": -31.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.86,
+      "pct_5y": 21.5,
+      "pct_3y": 21.7,
+      "zscore": -0.85
+    },
+    "ig_oas": {
+      "latest": 0.81,
+      "pct_5y": 25.0,
+      "zscore": -0.83
+    },
+    "curve_10y2y": {
+      "latest": 0.54
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.83
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 17.94,
+      "percentile_10y": 58.1
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 2.83
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "ABT",
+      "name": "ABT",
+      "zscore": -4.33,
+      "return_1d": -6.0,
+      "return_5d": -6.47,
+      "return_10d": -6.16,
+      "return_20d": -11.45,
+      "return_40d": -15.2,
+      "pct_from_high": -29.4,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 5,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

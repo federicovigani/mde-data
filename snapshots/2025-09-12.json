@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2025-09-12",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 1.57,
+    "spy_5d_z": 0.54
+  },
+  "macro_score": {
+    "score": 14.6,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.8,
+    "hy_c5d_bps": -4.0,
+    "hy_c10d_bps": -5.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.79,
+      "pct_5y": 11.2,
+      "pct_3y": 11.2,
+      "zscore": -1.12
+    },
+    "ig_oas": {
+      "latest": 0.77,
+      "pct_5y": 2.0,
+      "zscore": -1.29
+    },
+    "curve_10y2y": {
+      "latest": 0.5
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.12
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 14.76,
+      "percentile_10y": 34.8
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 3.3
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "PFE",
+      "name": "PFE",
+      "zscore": -2.52,
+      "return_1d": -3.98,
+      "return_5d": -4.06,
+      "return_10d": -2.97,
+      "return_20d": -4.94,
+      "return_40d": -1.21,
+      "pct_from_high": -15.4,
+      "pct_vs_40d_low": 2.5,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 2,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

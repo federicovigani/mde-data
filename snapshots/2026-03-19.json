@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "date": "2026-03-19",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -0.94,
+    "spy_5d_z": -0.6
+  },
+  "macro_score": {
+    "score": 58.3,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.37,
+    "hy_c5d_bps": 10.0,
+    "hy_c10d_bps": 27.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.27,
+      "pct_5y": 63.9,
+      "pct_3y": 63.9,
+      "zscore": -0.03
+    },
+    "ig_oas": {
+      "latest": 0.9,
+      "pct_5y": 47.4,
+      "zscore": -0.34
+    },
+    "curve_10y2y": {
+      "latest": 0.46
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.03
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 24.06,
+      "percentile_10y": 83.5
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.48
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLB",
+        "name": "XLB",
+        "return_5d": -3.9,
+        "return_10d": -6.08,
+        "return_20d": -9.63,
+        "zscore": -1.67,
+        "pct_from_high": -11.0,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 7,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

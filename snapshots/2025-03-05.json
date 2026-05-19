@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "date": "2025-03-05",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -1.93,
+    "spy_5d_z": -1.33
+  },
+  "macro_score": {
+    "score": 40.6,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.35,
+    "hy_c5d_bps": 7.0,
+    "hy_c10d_bps": 20.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.88,
+      "pct_5y": 19.0,
+      "pct_3y": 19.0,
+      "zscore": -1.0
+    },
+    "ig_oas": {
+      "latest": 0.87,
+      "pct_5y": 22.2,
+      "zscore": -0.86
+    },
+    "curve_10y2y": {
+      "latest": 0.29
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.86
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 21.93,
+      "percentile_10y": 77.3
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -0.21
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLE",
+        "name": "XLE",
+        "return_5d": -3.85,
+        "return_10d": -6.87,
+        "return_20d": -4.82,
+        "zscore": -1.37,
+        "pct_from_high": -11.2,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 8,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

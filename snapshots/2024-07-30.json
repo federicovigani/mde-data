@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2024-07-30",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -2.13,
+    "spy_5d_z": -1.2
+  },
+  "macro_score": {
+    "score": 34.0,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 1.5,
+    "hy_c5d_bps": 18.0,
+    "hy_c10d_bps": 12.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.2,
+      "pct_5y": 24.0,
+      "pct_3y": 24.0,
+      "zscore": -0.99
+    },
+    "ig_oas": {
+      "latest": 0.96,
+      "pct_5y": 34.5,
+      "zscore": -0.84
+    },
+    "curve_10y2y": {
+      "latest": -0.2
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.84
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 17.69,
+      "percentile_10y": 59.4
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.32
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "MRK",
+      "name": "MRK",
+      "zscore": -7.77,
+      "return_1d": -9.81,
+      "return_5d": -7.34,
+      "return_10d": -8.12,
+      "return_20d": -9.89,
+      "return_40d": -7.65,
+      "pct_from_high": -13.3,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 3,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

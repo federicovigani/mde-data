@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "date": "2026-04-08",
+    "n_flagged": 0,
+    "n_deep_value": 3,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": 3.95,
+    "spy_5d_z": 1.74
+  },
+  "macro_score": {
+    "score": 39.6,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.957,
+    "hy_c5d_bps": -22.0,
+    "hy_c10d_bps": -23.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.94,
+      "pct_5y": 30.0,
+      "pct_3y": 30.0,
+      "zscore": -0.69
+    },
+    "ig_oas": {
+      "latest": 0.83,
+      "pct_5y": 31.9,
+      "zscore": -0.72
+    },
+    "curve_10y2y": {
+      "latest": 0.5
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.69
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 21.04,
+      "percentile_10y": 73.1
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.64
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLE",
+        "name": "XLE",
+        "return_5d": -5.24,
+        "return_10d": -4.59,
+        "return_20d": 5.09,
+        "zscore": -1.74,
+        "pct_from_high": -7.2,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "XOM",
+      "name": "XOM",
+      "zscore": -3.27,
+      "return_1d": -4.69,
+      "return_5d": -7.92,
+      "return_10d": -5.54,
+      "return_20d": 5.46,
+      "return_40d": 4.0,
+      "pct_from_high": -8.9,
+      "pct_vs_40d_low": 6.9,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "CVX",
+      "name": "CVX",
+      "zscore": -3.01,
+      "return_1d": -4.29,
+      "return_5d": -6.77,
+      "return_10d": -6.72,
+      "return_20d": 3.54,
+      "return_40d": 6.67,
+      "pct_from_high": -8.6,
+      "pct_vs_40d_low": 6.9,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "COP",
+      "name": "COP",
+      "zscore": -2.64,
+      "return_1d": -4.97,
+      "return_5d": -5.14,
+      "return_10d": -3.19,
+      "return_20d": 9.7,
+      "return_40d": 16.09,
+      "pct_from_high": -6.4,
+      "pct_vs_40d_low": 17.4,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 1,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

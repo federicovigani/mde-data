@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "date": "2025-06-20",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -1.28,
+    "spy_5d_z": -0.76
+  },
+  "macro_score": {
+    "score": 36.6,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 1.25,
+    "hy_c5d_bps": -5.0,
+    "hy_c10d_bps": 4.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.13,
+      "pct_5y": 29.7,
+      "pct_3y": 29.7,
+      "zscore": -0.56
+    },
+    "ig_oas": {
+      "latest": 0.88,
+      "pct_5y": 22.9,
+      "zscore": -0.8
+    },
+    "curve_10y2y": {
+      "latest": 0.48
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.56
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 20.62,
+      "percentile_10y": 70.5
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.86
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLV",
+        "name": "XLV",
+        "return_5d": -3.08,
+        "return_10d": -0.38,
+        "return_20d": 0.78,
+        "zscore": -1.71,
+        "pct_from_high": -14.6,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 10,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2026-02-06",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -0.2,
+    "spy_5d_z": -0.28
+  },
+  "macro_score": {
+    "score": 30.3,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.056,
+    "hy_c5d_bps": -1.0,
+    "hy_c10d_bps": 18.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.87,
+      "pct_5y": 22.6,
+      "pct_3y": 22.6,
+      "zscore": -0.84
+    },
+    "ig_oas": {
+      "latest": 0.76,
+      "pct_5y": 6.0,
+      "zscore": -1.14
+    },
+    "curve_10y2y": {
+      "latest": 0.72
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.84
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 20.37,
+      "percentile_10y": 70.9
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.0
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "AMZN",
+      "name": "AMZN",
+      "zscore": -2.83,
+      "return_1d": -5.55,
+      "return_5d": -12.11,
+      "return_10d": -12.06,
+      "return_20d": -14.6,
+      "return_40d": -7.72,
+      "pct_from_high": -17.2,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 4,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 3,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

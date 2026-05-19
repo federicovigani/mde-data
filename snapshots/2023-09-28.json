@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2023-09-28",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -0.67,
+    "spy_5d_z": -0.27
+  },
+  "macro_score": {
+    "score": 50.9,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.645,
+    "hy_c5d_bps": 20.0,
+    "hy_c10d_bps": 31.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 4.09,
+      "pct_5y": 67.0,
+      "pct_3y": 67.0,
+      "zscore": 0.14
+    },
+    "ig_oas": {
+      "latest": 1.23,
+      "pct_5y": 42.6,
+      "zscore": -0.71
+    },
+    "curve_10y2y": {
+      "latest": -0.45
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": 0.14
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 17.34,
+      "percentile_10y": 58.5
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.04
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "NEE",
+      "name": "NEE",
+      "zscore": -2.78,
+      "return_1d": -4.8,
+      "return_5d": -14.69,
+      "return_10d": -17.61,
+      "return_20d": -14.92,
+      "return_40d": -20.07,
+      "pct_from_high": -33.2,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 4,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 8,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

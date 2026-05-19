@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "date": "2024-09-03",
+    "n_flagged": 0,
+    "n_deep_value": 4,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -1.55,
+    "spy_5d_z": -0.92
+  },
+  "macro_score": {
+    "score": 43.8,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 3.0,
+    "hy_c5d_bps": 12.0,
+    "hy_c10d_bps": 4.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.31,
+      "pct_5y": 37.2,
+      "pct_3y": 37.2,
+      "zscore": -0.71
+    },
+    "ig_oas": {
+      "latest": 0.98,
+      "pct_5y": 39.2,
+      "zscore": -0.69
+    },
+    "curve_10y2y": {
+      "latest": -0.04
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.69
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 20.72,
+      "percentile_10y": 72.8
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.98
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -4.95,
+        "return_10d": -6.59,
+        "return_20d": 6.22,
+        "zscore": -1.71,
+        "pct_from_high": -11.6,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "BA",
+      "name": "BA",
+      "zscore": -3.48,
+      "return_1d": -7.32,
+      "return_5d": -7.18,
+      "return_10d": -10.37,
+      "return_20d": -3.6,
+      "return_40d": -13.36,
+      "pct_from_high": -39.1,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "GS",
+      "name": "GS",
+      "zscore": -3.01,
+      "return_1d": -4.47,
+      "return_5d": -3.45,
+      "return_10d": -2.84,
+      "return_20d": 6.82,
+      "return_40d": 5.49,
+      "pct_from_high": -4.5,
+      "pct_vs_40d_low": 6.8,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVDA",
+      "zscore": -2.94,
+      "return_1d": -9.53,
+      "return_5d": -14.6,
+      "return_10d": -16.92,
+      "return_20d": 7.52,
+      "return_40d": -15.76,
+      "pct_from_high": -20.3,
+      "pct_vs_40d_low": 9.2,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "CAT",
+      "name": "CAT",
+      "zscore": -2.59,
+      "return_1d": -4.45,
+      "return_5d": -3.11,
+      "return_10d": -1.28,
+      "return_20d": 7.4,
+      "return_40d": 3.82,
+      "pct_from_high": -9.6,
+      "pct_vs_40d_low": 7.4,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 6,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

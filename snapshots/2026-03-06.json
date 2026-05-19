@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "date": "2026-03-06",
+    "n_flagged": 1,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -1.98,
+    "spy_5d_z": -1.13
+  },
+  "macro_score": {
+    "score": 58.3,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.056,
+    "hy_c5d_bps": 1.0,
+    "hy_c10d_bps": 18.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.13,
+      "pct_5y": 46.5,
+      "pct_3y": 46.5,
+      "zscore": -0.31
+    },
+    "ig_oas": {
+      "latest": 0.84,
+      "pct_5y": 36.1,
+      "zscore": -0.67
+    },
+    "curve_10y2y": {
+      "latest": 0.59
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.31
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 29.49,
+      "percentile_10y": 93.4
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -1.93
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLB",
+        "name": "XLB",
+        "return_5d": -6.65,
+        "return_10d": -5.85,
+        "return_20d": -1.27,
+        "zscore": -2.87,
+        "pct_from_high": -7.0,
+        "dislocation_score": 70.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ],
+    "approaching": [
+      {
+        "ticker": "XLV",
+        "name": "XLV",
+        "return_5d": -4.68,
+        "return_10d": -2.63,
+        "return_20d": -1.38,
+        "zscore": -2.39,
+        "pct_from_high": -4.7,
+        "dislocation_score": 55.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLI",
+        "name": "XLI",
+        "return_5d": -4.06,
+        "return_10d": -4.11,
+        "return_20d": 0.93,
+        "zscore": -2.03,
+        "pct_from_high": -5.0,
+        "dislocation_score": 55.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLP",
+        "name": "XLP",
+        "return_5d": -4.7,
+        "return_10d": -2.4,
+        "return_20d": -1.31,
+        "zscore": -2.89,
+        "pct_from_high": -4.7,
+        "dislocation_score": 55.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "BLK",
+      "name": "BLK",
+      "zscore": -4.6,
+      "return_1d": -7.17,
+      "return_5d": -9.64,
+      "return_10d": -12.15,
+      "return_20d": -8.91,
+      "return_40d": -10.63,
+      "pct_from_high": -19.7,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 4,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 10,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

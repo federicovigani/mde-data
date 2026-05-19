@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2025-07-24",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 1.02,
+    "spy_5d_z": 0.3
+  },
+  "macro_score": {
+    "score": 16.9,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.9,
+    "hy_c5d_bps": -9.0,
+    "hy_c10d_bps": -10.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.82,
+      "pct_5y": 13.0,
+      "pct_3y": 13.0,
+      "zscore": -1.12
+    },
+    "ig_oas": {
+      "latest": 0.79,
+      "pct_5y": 2.6,
+      "zscore": -1.27
+    },
+    "curve_10y2y": {
+      "latest": 0.52
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.12
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 15.39,
+      "percentile_10y": 39.7
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 3.17
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "HON",
+      "name": "HON",
+      "zscore": -4.66,
+      "return_1d": -6.18,
+      "return_5d": -5.83,
+      "return_10d": -5.19,
+      "return_20d": 1.21,
+      "return_40d": -0.87,
+      "pct_from_high": -6.6,
+      "pct_vs_40d_low": 1.2,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 0,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

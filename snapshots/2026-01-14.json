@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2026-01-14",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.11,
+    "spy_5d_z": -0.15
+  },
+  "macro_score": {
+    "score": 20.1,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.375,
+    "hy_c5d_bps": -3.0,
+    "hy_c10d_bps": -8.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.76,
+      "pct_5y": 11.1,
+      "pct_3y": 11.1,
+      "zscore": -1.09
+    },
+    "ig_oas": {
+      "latest": 0.77,
+      "pct_5y": 5.5,
+      "zscore": -1.13
+    },
+    "curve_10y2y": {
+      "latest": 0.64
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.09
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 16.75,
+      "percentile_10y": 50.6
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 2.62
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "WFC",
+      "name": "WFC",
+      "zscore": -2.59,
+      "return_1d": -4.61,
+      "return_5d": -5.35,
+      "return_10d": -5.37,
+      "return_20d": -3.93,
+      "return_40d": 4.94,
+      "pct_from_high": -7.4,
+      "pct_vs_40d_low": 8.3,
+      "consecutive_down_days": 3,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 4,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

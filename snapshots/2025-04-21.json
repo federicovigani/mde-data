@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "date": "2025-04-21",
+    "n_flagged": 1,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -3.76,
+    "spy_5d_z": -1.96
+  },
+  "macro_score": {
+    "score": 82.6,
+    "label": "DISTRESSED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.345,
+    "hy_c5d_bps": -10.0,
+    "hy_c10d_bps": -29.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 4.16,
+      "pct_5y": 89.2,
+      "pct_3y": 89.2,
+      "zscore": 1.38
+    },
+    "ig_oas": {
+      "latest": 1.12,
+      "pct_5y": 70.6,
+      "zscore": 0.54
+    },
+    "curve_10y2y": {
+      "latest": 0.67
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": 1.38
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 33.82,
+      "percentile_10y": 97.2
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -1.99
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -5.28,
+        "return_10d": 3.02,
+        "return_20d": -12.04,
+        "zscore": -1.74,
+        "pct_from_high": -22.3,
+        "dislocation_score": 60.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ],
+    "approaching": [
+      {
+        "ticker": "XLV",
+        "name": "XLV",
+        "return_5d": -3.14,
+        "return_10d": -2.0,
+        "return_20d": -9.22,
+        "zscore": -1.81,
+        "pct_from_high": -14.7,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLY",
+        "name": "XLY",
+        "return_5d": -4.89,
+        "return_10d": -1.28,
+        "return_20d": -8.36,
+        "zscore": -1.82,
+        "pct_from_high": -24.3,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      },
+      {
+        "ticker": "XLC",
+        "name": "XLC",
+        "return_5d": -3.39,
+        "return_10d": 1.09,
+        "return_20d": -9.38,
+        "zscore": -1.67,
+        "pct_from_high": -16.0,
+        "dislocation_score": 45.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ]
+  },
+  "deep_value": [
+    {
+      "ticker": "UNH",
+      "name": "UNH",
+      "zscore": -3.29,
+      "return_1d": -6.34,
+      "return_5d": -29.05,
+      "return_10d": -18.99,
+      "return_20d": -17.71,
+      "return_40d": -8.42,
+      "pct_from_high": -31.4,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 8,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

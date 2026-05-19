@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "date": "2023-10-24",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -2.84,
+    "spy_5d_z": -1.08
+  },
+  "macro_score": {
+    "score": 68.2,
+    "label": "DISTRESSED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 1.067,
+    "hy_c5d_bps": 16.0,
+    "hy_c10d_bps": 15.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 4.41,
+      "pct_5y": 89.4,
+      "pct_3y": 89.4,
+      "zscore": 1.25
+    },
+    "ig_oas": {
+      "latest": 1.31,
+      "pct_5y": 73.5,
+      "zscore": 0.39
+    },
+    "curve_10y2y": {
+      "latest": -0.19
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": 1.25
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 18.97,
+      "percentile_10y": 65.8
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.24
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 11,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "date": "2025-04-15",
+    "n_flagged": 0,
+    "n_deep_value": 0,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": 8.28,
+    "spy_5d_z": 3.89
+  },
+  "macro_score": {
+    "score": 81.3,
+    "label": "DISTRESSED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.814,
+    "hy_c5d_bps": -48.0,
+    "hy_c10d_bps": 59.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 4.09,
+      "pct_5y": 87.6,
+      "pct_3y": 87.6,
+      "zscore": 1.26
+    },
+    "ig_oas": {
+      "latest": 1.14,
+      "pct_5y": 71.6,
+      "zscore": 0.65
+    },
+    "curve_10y2y": {
+      "latest": 0.51
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": 1.26
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 30.12,
+      "percentile_10y": 94.1
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -1.12
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [],
+  "breadth": {
+    "sectors_red": 0,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

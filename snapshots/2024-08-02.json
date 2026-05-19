@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "date": "2024-08-02",
+    "n_flagged": 1,
+    "n_deep_value": 5,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "EQUITY DISLOCATION",
+    "quadrant": "DISLOCATION",
+    "spy_5d": -2.12,
+    "spy_5d_z": -1.2
+  },
+  "macro_score": {
+    "score": 60.8,
+    "label": "ELEVATED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.984,
+    "hy_c5d_bps": 62.0,
+    "hy_c10d_bps": 63.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.72,
+      "pct_5y": 52.8,
+      "pct_3y": 52.8,
+      "zscore": 0.16
+    },
+    "ig_oas": {
+      "latest": 1.06,
+      "pct_5y": 50.9,
+      "zscore": -0.24
+    },
+    "curve_10y2y": {
+      "latest": -0.08
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": 0.16
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 23.39,
+      "percentile_10y": 82.5
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -0.05
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -5.34,
+        "return_10d": -7.31,
+        "return_20d": -12.09,
+        "zscore": -1.89,
+        "pct_from_high": -13.9,
+        "dislocation_score": 60.0,
+        "dislocation_type": "PURE DISLOCATION"
+      }
+    ],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "C",
+      "name": "C",
+      "zscore": -4.37,
+      "return_1d": -7.14,
+      "return_5d": -9.85,
+      "return_10d": -9.79,
+      "return_20d": -8.23,
+      "return_40d": -4.87,
+      "pct_from_high": -13.1,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 3,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMZN",
+      "zscore": -4.07,
+      "return_1d": -8.78,
+      "return_5d": -8.0,
+      "return_10d": -8.32,
+      "return_20d": -16.05,
+      "return_40d": -7.38,
+      "pct_from_high": -16.1,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "AXP",
+      "name": "AXP",
+      "zscore": -4.04,
+      "return_1d": -6.59,
+      "return_5d": -5.53,
+      "return_10d": -4.17,
+      "return_20d": -1.42,
+      "return_40d": -0.73,
+      "pct_from_high": -8.2,
+      "pct_vs_40d_low": 4.9,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "GS",
+      "name": "GS",
+      "zscore": -3.98,
+      "return_1d": -5.89,
+      "return_5d": -5.69,
+      "return_10d": -2.95,
+      "return_20d": 1.27,
+      "return_40d": 1.94,
+      "pct_from_high": -7.5,
+      "pct_vs_40d_low": 5.9,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "WFC",
+      "name": "WFC",
+      "zscore": -3.78,
+      "return_1d": -6.36,
+      "return_5d": -11.81,
+      "return_10d": -10.08,
+      "return_20d": -10.67,
+      "return_40d": -9.24,
+      "pct_from_high": -14.6,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 3,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 6,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

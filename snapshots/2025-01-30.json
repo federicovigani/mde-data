@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "date": "2025-01-30",
+    "n_flagged": 0,
+    "n_deep_value": 2,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -0.77,
+    "spy_5d_z": -0.69
+  },
+  "macro_score": {
+    "score": 17.6,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 1.0,
+    "hy_c5d_bps": 6.0,
+    "hy_c10d_bps": -6.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.67,
+      "pct_5y": 5.8,
+      "pct_3y": 5.8,
+      "zscore": -1.49
+    },
+    "ig_oas": {
+      "latest": 0.81,
+      "pct_5y": 8.3,
+      "zscore": -1.25
+    },
+    "curve_10y2y": {
+      "latest": 0.34
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.25
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 15.84,
+      "percentile_10y": 46.1
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 2.07
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "MSFT",
+      "name": "MSFT",
+      "zscore": -4.39,
+      "return_1d": -6.18,
+      "return_5d": -7.1,
+      "return_10d": -2.66,
+      "return_20d": -2.32,
+      "return_40d": -2.0,
+      "pct_from_high": -10.9,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "CAT",
+      "name": "CAT",
+      "zscore": -2.72,
+      "return_1d": -4.64,
+      "return_5d": -7.73,
+      "return_10d": 0.39,
+      "return_20d": 3.68,
+      "return_40d": -7.33,
+      "pct_from_high": -9.7,
+      "pct_vs_40d_low": 7.2,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 4,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "date": "2025-04-07",
+    "n_flagged": 11,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "PANIC MODE",
+    "quadrant": "PANIC",
+    "spy_5d": -9.83,
+    "spy_5d_z": -5.33
+  },
+  "macro_score": {
+    "score": 87.9,
+    "label": "CRISIS"
+  },
+  "panic_signal": {
+    "grade": "WATCH",
+    "hy_accel_ratio": 0.679,
+    "hy_c5d_bps": 106.0,
+    "hy_c10d_bps": 156.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 4.61,
+      "pct_5y": 99.4,
+      "pct_3y": 99.4,
+      "zscore": 2.29
+    },
+    "ig_oas": {
+      "latest": 1.2,
+      "pct_5y": 75.4,
+      "zscore": 1.0
+    },
+    "curve_10y2y": {
+      "latest": 0.42
+    },
+    "_composite": {
+      "credit_is_calm": false,
+      "credit_stress_z": 2.29
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 46.98,
+      "percentile_10y": 99.2
+    },
+    "term_structure": {
+      "inverted": true,
+      "spread": -10.1
+    }
+  },
+  "dislocations": {
+    "flagged": [
+      {
+        "ticker": "XLK",
+        "name": "XLK",
+        "return_5d": -11.15,
+        "return_10d": -15.7,
+        "return_20d": -12.17,
+        "zscore": -3.75,
+        "pct_from_high": -24.1,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLV",
+        "name": "XLV",
+        "return_5d": -7.9,
+        "return_10d": -8.62,
+        "return_20d": -8.59,
+        "zscore": -4.64,
+        "pct_from_high": -13.4,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLF",
+        "name": "XLF",
+        "return_5d": -11.48,
+        "return_10d": -12.08,
+        "return_20d": -7.85,
+        "zscore": -5.3,
+        "pct_from_high": -15.2,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLE",
+        "name": "XLE",
+        "return_5d": -16.27,
+        "return_10d": -15.72,
+        "return_20d": -10.47,
+        "zscore": -5.48,
+        "pct_from_high": -18.2,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLI",
+        "name": "XLI",
+        "return_5d": -10.44,
+        "return_10d": -12.58,
+        "return_20d": -10.9,
+        "zscore": -5.12,
+        "pct_from_high": -17.8,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLY",
+        "name": "XLY",
+        "return_5d": -8.52,
+        "return_10d": -11.58,
+        "return_20d": -8.67,
+        "zscore": -3.21,
+        "pct_from_high": -24.2,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLU",
+        "name": "XLU",
+        "return_5d": -6.92,
+        "return_10d": -6.11,
+        "return_20d": -5.41,
+        "zscore": -3.05,
+        "pct_from_high": -10.1,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLRE",
+        "name": "XLRE",
+        "return_5d": -9.15,
+        "return_10d": -9.09,
+        "return_20d": -9.03,
+        "zscore": -3.88,
+        "pct_from_high": -14.5,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLC",
+        "name": "XLC",
+        "return_5d": -9.43,
+        "return_10d": -11.49,
+        "return_20d": -10.41,
+        "zscore": -4.52,
+        "pct_from_high": -16.8,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLB",
+        "name": "XLB",
+        "return_5d": -10.87,
+        "return_10d": -11.45,
+        "return_20d": -10.46,
+        "zscore": -5.07,
+        "pct_from_high": -20.7,
+        "dislocation_score": 90.0,
+        "dislocation_type": "MIXED"
+      },
+      {
+        "ticker": "XLP",
+        "name": "XLP",
+        "return_5d": -5.04,
+        "return_10d": -2.33,
+        "return_20d": -5.71,
+        "zscore": -3.56,
+        "pct_from_high": -6.7,
+        "dislocation_score": 75.0,
+        "dislocation_type": "MIXED"
+      }
+    ],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "HD",
+      "name": "HD",
+      "zscore": -2.7,
+      "return_1d": -3.5,
+      "return_5d": -6.82,
+      "return_10d": -6.12,
+      "return_20d": -8.27,
+      "return_40d": -15.64,
+      "pct_from_high": -20.3,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 3,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 11,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

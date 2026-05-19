@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2024-12-12",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -0.38,
+    "spy_5d_z": -0.47
+  },
+  "macro_score": {
+    "score": 10.7,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.0,
+    "hy_c5d_bps": 0.0,
+    "hy_c10d_bps": -6.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.66,
+      "pct_5y": 3.2,
+      "pct_3y": 3.2,
+      "zscore": -1.68
+    },
+    "ig_oas": {
+      "latest": 0.79,
+      "pct_5y": 1.7,
+      "zscore": -1.49
+    },
+    "curve_10y2y": {
+      "latest": 0.14
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.49
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 13.92,
+      "percentile_10y": 31.2
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 3.43
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "ADBE",
+      "name": "ADBE",
+      "zscore": -6.33,
+      "return_1d": -13.69,
+      "return_5d": -11.81,
+      "return_10d": -7.6,
+      "return_20d": -10.87,
+      "return_40d": -5.55,
+      "pct_from_high": -25.2,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 9,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

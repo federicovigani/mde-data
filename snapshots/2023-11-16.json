@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2023-11-16",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 3.78,
+    "spy_5d_z": 1.4
+  },
+  "macro_score": {
+    "score": 29.6,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.154,
+    "hy_c5d_bps": -2.0,
+    "hy_c10d_bps": -13.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 4.02,
+      "pct_5y": 46.9,
+      "pct_3y": 46.9,
+      "zscore": -0.34
+    },
+    "ig_oas": {
+      "latest": 1.21,
+      "pct_5y": 10.0,
+      "zscore": -1.11
+    },
+    "curve_10y2y": {
+      "latest": -0.38
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -0.34
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 14.32,
+      "percentile_10y": 36.4
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.82
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "WMT",
+      "name": "WMT",
+      "zscore": -5.8,
+      "return_1d": -8.09,
+      "return_5d": -4.81,
+      "return_10d": -5.73,
+      "return_20d": -2.94,
+      "return_40d": -3.63,
+      "pct_from_high": -8.1,
+      "pct_vs_40d_low": 0.1,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 0,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}
