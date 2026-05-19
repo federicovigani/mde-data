@@ -431,13 +431,13 @@ def generate_snapshot(
         },
         "credit": {
             "hy_oas": {
-                "latest":  round(hy_latest / 100, 4),   # store as decimal (3.50% -> 0.0350)
+                "latest":  round(hy_latest, 4),   # raw FRED percent (2.79 = 279 bps); display code does *100
                 "pct_5y":  round(hy_pct_5y, 1),
                 "pct_3y":  round(hy_pct_3y, 1),
                 "zscore":  round(hy_z, 2),
             },
             "ig_oas": {
-                "latest": round(ig_latest / 100, 4),
+                "latest": round(ig_latest, 4),
                 "pct_5y": round(ig_pct_5y, 1),
                 "zscore": round(ig_z, 2),
             },
