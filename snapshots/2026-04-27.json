@@ -1,312 +1,54 @@
 {
   "meta": {
     "date": "2026-04-27",
-    "generated_at": "2026-04-27T08:04:56.717874",
-    "n_tickers": 22,
     "n_flagged": 0,
-    "n_approaching": 0,
-    "n_deep_value": 2,
-    "panic_signal": false,
-    "panic_grade": null,
-    "oracle_run": false
+    "n_deep_value": 1,
+    "source": "historical_backfill"
   },
-  "regime": {
-    "regime": "CALM",
-    "description": "Low volatility, spreads contained \u2014 watch for complacency",
-    "credit_z": -0.78,
-    "vix_level": 19.17,
-    "vix_ratio": 0.91,
-    "pct_equity_stressed": 0.0,
-    "n_equity_stressed": 0
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.91,
+    "spy_5d_z": 0.24
+  },
+  "macro_score": {
+    "score": 29.9,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.273,
+    "hy_c5d_bps": -3.0,
+    "hy_c10d_bps": -11.0
   },
   "credit": {
     "hy_oas": {
-      "latest": 2.872,
-      "date": "2026-04-23",
-      "zscore": -0.82,
-      "percentile": 22.0,
-      "pct_1y": 35.3,
-      "pct_3y": 22.9,
-      "pct_5y": 22.0,
-      "_etf_adjusted": true
+      "latest": 2.84,
+      "pct_5y": 19.1,
+      "pct_3y": 19.4,
+      "zscore": -0.88
     },
     "ig_oas": {
-      "latest": 0.82,
-      "date": "2026-04-23",
-      "zscore": -0.78,
-      "percentile": 28.8,
-      "pct_1y": 66.3,
-      "pct_3y": 29.9,
-      "pct_5y": 28.8,
-      "_etf_adjusted": true
-    },
-    "hy_bb_oas": {
-      "latest": 1.74,
-      "date": "2026-04-23",
-      "zscore": -0.78,
-      "percentile": 17.9,
-      "pct_1y": 29.8,
-      "pct_3y": 18.7,
-      "pct_5y": 17.9
-    },
-    "yield_10y": {
-      "latest": 4.31,
-      "date": "2026-04-23",
-      "zscore": 0.74,
-      "percentile": 78.9,
-      "pct_1y": 70.6,
-      "pct_3y": 64.8,
-      "pct_5y": 78.9,
-      "_etf_adjusted": true
-    },
-    "yield_2y": {
-      "latest": 3.83,
-      "date": "2026-04-23",
-      "zscore": 0.29,
-      "percentile": 46.4,
-      "pct_1y": 75.4,
-      "pct_3y": 29.1,
-      "pct_5y": 46.4
+      "latest": 0.81,
+      "pct_5y": 25.7,
+      "zscore": -0.83
     },
     "curve_10y2y": {
-      "latest": 0.48,
-      "date": "2026-04-24",
-      "zscore": 0.54,
-      "percentile": 63.7,
-      "pct_1y": 6.3,
-      "pct_3y": 67.6,
-      "pct_5y": 63.7,
-      "_etf_adjusted": true
+      "latest": 0.57
     },
     "_composite": {
-      "credit_stress_z": -0.78,
       "credit_is_calm": true,
-      "hy_z": -0.82,
-      "ig_z": -0.78
-    }
-  },
-  "fred_staleness": {
-    "hy_oas": {
-      "lag_days": 2,
-      "as_of": "2026-04-23",
-      "stale": false
-    },
-    "ig_oas": {
-      "lag_days": 2,
-      "as_of": "2026-04-23",
-      "stale": false
-    },
-    "hy_bb_oas": {
-      "lag_days": 2,
-      "as_of": "2026-04-23",
-      "stale": false
-    },
-    "yield_10y": {
-      "lag_days": 2,
-      "as_of": "2026-04-23",
-      "stale": false
-    },
-    "yield_2y": {
-      "lag_days": 2,
-      "as_of": "2026-04-23",
-      "stale": false
-    },
-    "curve_10y2y": {
-      "lag_days": 1,
-      "as_of": "2026-04-24",
-      "stale": false
-    },
-    "_summary": {
-      "any_stale": false,
-      "max_lag_days": 2
+      "credit_stress_z": -0.83
     }
   },
   "vix": {
     "vix": {
-      "latest": 19.17,
-      "avg_20d": 20.98,
-      "ratio_vs_20d": 0.91,
-      "percentile_10y": 54.1,
-      "percentile_1y": 68.7,
-      "percentile": 54.1,
-      "elevated": false,
-      "spiking": false,
-      "date": "2026-04-27"
-    },
-    "vix3m": {
-      "latest": 21.3,
-      "date": "2026-04-24"
+      "latest": 18.02,
+      "percentile_10y": 58.3
     },
     "term_structure": {
-      "spread": -2.13,
       "inverted": false,
-      "spread_vs_3d_ago": -0.58,
-      "spread_narrowing": true
-    }
-  },
-  "credit_equity_basis": {},
-  "commodity_context": {
-    "GLD": {
-      "name": "Gold",
-      "return_5d": -2.84,
-      "current_price": 433.25
-    },
-    "SLV": {
-      "name": "Silver",
-      "return_5d": -6.57,
-      "current_price": 68.79
-    },
-    "USO": {
-      "name": "Crude Oil",
-      "return_5d": 14.1,
-      "current_price": 132.4
-    },
-    "COPX": {
-      "name": "Copper Miners",
-      "return_5d": -5.53,
-      "current_price": 82.37
-    },
-    "DX-Y.NYB": {
-      "name": "Dollar (DXY)",
-      "return_5d": 0.33,
-      "current_price": 98.37
-    },
-    "IBIT": {
-      "name": "Bitcoin ETF",
-      "return_5d": 0.18,
-      "current_price": 44.02
-    }
-  },
-  "cross_asset_signals": [
-    {
-      "type": "dollar_em",
-      "severity": "watch",
-      "etf": "INDA",
-      "etf_name": "India",
-      "etf_ret": -3.3,
-      "dxy_ret": 0.3,
-      "description": "INDA (India) -3.3% while DXY +0.3% \u2014 not capital flight, likely positioning unwind"
-    },
-    {
-      "type": "dollar_em",
-      "severity": "watch",
-      "etf": "EWJ",
-      "etf_name": "Japan",
-      "etf_ret": -3.2,
-      "dxy_ret": 0.3,
-      "description": "EWJ (Japan) -3.2% while DXY +0.3% \u2014 not capital flight, likely positioning unwind"
-    },
-    {
-      "type": "sector_vs_index",
-      "severity": "watch",
-      "sector": "XLV",
-      "sector_name": "Health Care",
-      "sector_ret": -3.1,
-      "spy_ret": 0.5,
-      "beta": 0.41,
-      "expected_ret": 0.2,
-      "residual": -3.3,
-      "description": "XLV (Health Care) -3.1% vs SPY +0.5% (beta 0.41, expected +0.2%) \u2014 excess move: -3.3%"
-    },
-    {
-      "type": "sector_vs_index",
-      "severity": "watch",
-      "sector": "XLC",
-      "sector_name": "Comms",
-      "sector_ret": -3.0,
-      "spy_ret": 0.5,
-      "beta": 0.93,
-      "expected_ret": 0.5,
-      "residual": -3.5,
-      "description": "XLC (Comms) -3.0% vs SPY +0.5% (beta 0.93, expected +0.5%) \u2014 excess move: -3.5%"
-    }
-  ],
-  "macro_narrative": "Market regime: CALM. Low volatility, spreads contained \u2014 watch for complacency. HY spreads tight at 287bps (22th pct vs 5y, z=-0.82) \u2014 credit complacent. Yield curve positive at 0.48%.",
-  "macro_score": {
-    "score": 30.5,
-    "label": "CAUTIOUS",
-    "components": {
-      "vix_pct_10y": 54.1,
-      "vix_term_inverted": false,
-      "hy_pct_5y": 22.0,
-      "ig_pct_5y": 28.8
-    },
-    "oracle_adjusted": false
-  },
-  "panic_signal": {
-    "flag": false,
-    "grade": null,
-    "conditions_met": [
-      "Deceleration (3/3): credit 5d=0.0 vs 10d=-0.04; SPY 5d=0.5% vs 10d=5.1%; VIX spread narrowing=True"
-    ],
-    "conditions_failed": [
-      "Credit not extreme: HY 22th pct (needs >=70)",
-      "VIX: VIX 54th pct (needs >=70); term not inverted"
-    ],
-    "credit_plateauing": true,
-    "supporting_data": {
-      "hy_pct_5y": 22.0,
-      "hy_z": -0.82,
-      "hy_5d": 0.0,
-      "hy_10d": -0.04,
-      "vix_level": 19.17,
-      "vix_pct_10y": 54.1,
-      "vix_inverted": false,
-      "vix_spread_vs_3d": -0.58,
-      "spy_5d": 0.54,
-      "spy_10d": 5.07
-    },
-    "decel_credit": true,
-    "decel_equity": true,
-    "decel_vix": true,
-    "decel_count": 3,
-    "cond1_credit_extreme": false,
-    "cond2_vix_panic": false,
-    "cond3_deceleration": true,
-    "panic_n_met": 1
-  },
-  "quadrant": {
-    "quadrant": "CALM",
-    "label": "BUSINESS AS USUAL",
-    "equity_stressed": false,
-    "credit_stressed": false,
-    "vix_pct_10y": 54.1,
-    "spy_5d": 0.54,
-    "credit_calm": true
-  },
-  "a2_signal": {
-    "flag": false,
-    "spy_5d": null,
-    "hy_pct": null,
-    "ig_pct": null
-  },
-  "breadth": {
-    "sectors_red": 2,
-    "sectors_total": 11,
-    "em_red": 5,
-    "em_total": 8,
-    "sector_returns": {
-      "XLF": -1.9,
-      "XLE": 3.4,
-      "XLK": 3.8,
-      "XLV": -3.1,
-      "XLI": -0.6,
-      "XLU": 0.0,
-      "XLB": 0.1,
-      "XLRE": -1.5,
-      "XLY": -1.4,
-      "XLP": 0.9,
-      "XLC": -3.0
-    },
-    "em_returns": {
-      "EEM": 0.2,
-      "EFA": -2.4,
-      "FXI": -2.0,
-      "EWJ": -3.2,
-      "EWZ": -3.0,
-      "EWG": -1.9,
-      "EWU": -2.6,
-      "INDA": -3.3
+      "spread": 2.75
     }
   },
   "dislocations": {
@@ -315,439 +57,29 @@
   },
   "deep_value": [
     {
-      "ticker": "RTX",
-      "name": "Raytheon",
-      "is_eu": false,
-      "return_1d": -2.81,
-      "return_5d": -11.28,
-      "return_10d": -13.54,
-      "return_20d": -9.64,
-      "return_40d": -11.83,
-      "consecutive_down_days": 5,
+      "ticker": "MCD",
+      "name": "MCD",
+      "zscore": -2.68,
+      "return_1d": -3.06,
+      "return_5d": -5.45,
+      "return_10d": -4.7,
+      "return_20d": -5.13,
+      "return_40d": -14.43,
+      "pct_from_high": -14.4,
       "pct_vs_40d_low": 0.0,
-      "zscore": -3.58,
-      "current_price": 174.26,
-      "pct_from_high": -17.9,
-      "regime": "CALM",
-      "credit_z_at_scan": -0.78,
-      "reason": null
-    },
-    {
-      "ticker": "HON",
-      "name": "Honeywell",
-      "is_eu": false,
-      "return_1d": -0.55,
-      "return_5d": -8.73,
-      "return_10d": -9.3,
-      "return_20d": -5.33,
-      "return_40d": -11.06,
-      "consecutive_down_days": 5,
-      "pct_vs_40d_low": 0.0,
-      "zscore": -2.84,
-      "current_price": 213.17,
-      "pct_from_high": -14.1,
-      "regime": "CALM",
-      "credit_z_at_scan": -0.78,
-      "reason": null
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
     }
   ],
-  "all_tickers": [
-    {
-      "ticker": "INDA",
-      "name": "India",
-      "asset_class": "country",
-      "return_1d": 0.34,
-      "return_5d": -3.32,
-      "return_10d": 0.49,
-      "return_20d": 6.37,
-      "momentum": "reversal",
-      "zscore": -1.79,
-      "current_price": 49.58,
-      "high_252d": 55.86,
-      "pct_from_high": -11.2,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLV",
-      "name": "Health Care",
-      "asset_class": "sector",
-      "return_1d": -1.41,
-      "return_5d": -3.1,
-      "return_10d": -2.12,
-      "return_20d": -1.07,
-      "momentum": "continuation",
-      "zscore": -1.71,
-      "current_price": 144.18,
-      "high_252d": 159.54,
-      "pct_from_high": -9.6,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "EWJ",
-      "name": "Japan",
-      "asset_class": "country",
-      "return_1d": 0.29,
-      "return_5d": -3.18,
-      "return_10d": -0.92,
-      "return_20d": 5.57,
-      "momentum": "reversal",
-      "zscore": -1.41,
-      "current_price": 87.32,
-      "high_252d": 93.97,
-      "pct_from_high": -7.1,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "EWU",
-      "name": "UK",
-      "asset_class": "country",
-      "return_1d": 0.41,
-      "return_5d": -2.61,
-      "return_10d": -1.43,
-      "return_20d": 6.26,
-      "momentum": "reversal",
-      "zscore": -1.38,
-      "current_price": 46.99,
-      "high_252d": 48.68,
-      "pct_from_high": -3.5,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLC",
-      "name": "Comms",
-      "asset_class": "sector",
-      "return_1d": -1.58,
-      "return_5d": -2.99,
-      "return_10d": 1.4,
-      "return_20d": 6.19,
-      "momentum": "reversal",
-      "zscore": -1.36,
-      "current_price": 115.54,
-      "high_252d": 119.7,
-      "pct_from_high": -3.5,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "EFA",
-      "name": "Dev ex-US",
-      "asset_class": "country",
-      "return_1d": 0.52,
-      "return_5d": -2.44,
-      "return_10d": -0.4,
-      "return_20d": 7.51,
-      "momentum": "reversal",
-      "zscore": -1.27,
-      "current_price": 101.77,
-      "high_252d": 105.66,
-      "pct_from_high": -3.7,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "asset_class": "sector",
-      "return_1d": -0.73,
-      "return_5d": -1.93,
-      "return_10d": 1.28,
-      "return_20d": 4.83,
-      "momentum": null,
-      "zscore": -0.92,
-      "current_price": 51.42,
-      "high_252d": 56.11,
-      "pct_from_high": -8.4,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "EWZ",
-      "name": "Brazil",
-      "asset_class": "country",
-      "return_1d": -0.37,
-      "return_5d": -2.96,
-      "return_10d": -3.36,
-      "return_20d": 8.53,
-      "momentum": "reversal",
-      "zscore": -0.9,
-      "current_price": 39.94,
-      "high_252d": 41.73,
-      "pct_from_high": -4.3,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "EWG",
-      "name": "Germany",
-      "asset_class": "country",
-      "return_1d": 1.03,
-      "return_5d": -1.94,
-      "return_10d": 1.8,
-      "return_20d": 9.52,
-      "momentum": null,
-      "zscore": -0.9,
-      "current_price": 42.35,
-      "high_252d": 44.56,
-      "pct_from_high": -5.0,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "asset_class": "sector",
-      "return_1d": -0.3,
-      "return_5d": -1.46,
-      "return_10d": 2.36,
-      "return_20d": 8.79,
-      "momentum": null,
-      "zscore": -0.63,
-      "current_price": 43.83,
-      "high_252d": 44.64,
-      "pct_from_high": -1.8,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLY",
-      "name": "Cons Disc",
-      "asset_class": "sector",
-      "return_1d": 0.81,
-      "return_5d": -1.43,
-      "return_10d": 5.14,
-      "return_20d": 9.06,
-      "momentum": null,
-      "zscore": -0.57,
-      "current_price": 118.69,
-      "high_252d": 124.27,
-      "pct_from_high": -4.5,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "FXI",
-      "name": "China",
-      "asset_class": "country",
-      "return_1d": 1.01,
-      "return_5d": -1.97,
-      "return_10d": 1.68,
-      "return_20d": 5.53,
-      "momentum": null,
-      "zscore": -0.56,
-      "current_price": 36.86,
-      "high_252d": 41.3,
-      "pct_from_high": -10.8,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "asset_class": "sector",
-      "return_1d": -0.92,
-      "return_5d": -0.6,
-      "return_10d": 0.55,
-      "return_20d": 6.94,
-      "momentum": null,
-      "zscore": -0.45,
-      "current_price": 172.47,
-      "high_252d": 178.4,
-      "pct_from_high": -3.3,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "EEM",
-      "name": "Emerging Mkts",
-      "asset_class": "country",
-      "return_1d": 2.23,
-      "return_5d": 0.16,
-      "return_10d": 5.25,
-      "return_20d": 14.91,
-      "momentum": null,
-      "zscore": -0.08,
-      "current_price": 63.74,
-      "high_252d": 63.74,
-      "pct_from_high": 0.0,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "asset_class": "sector",
-      "return_1d": 0.2,
-      "return_5d": 0.04,
-      "return_10d": -1.66,
-      "return_20d": 1.88,
-      "momentum": null,
-      "zscore": -0.07,
-      "current_price": 46.18,
-      "high_252d": 47.4,
-      "pct_from_high": -2.6,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "asset_class": "sector",
-      "return_1d": 0.21,
-      "return_5d": 0.08,
-      "return_10d": -0.08,
-      "return_20d": 5.76,
-      "momentum": null,
-      "zscore": -0.06,
-      "current_price": 51.92,
-      "high_252d": 53.38,
-      "pct_from_high": -2.7,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "IWM",
-      "name": "IWM",
-      "asset_class": "index",
-      "return_1d": 0.41,
-      "return_5d": 0.32,
-      "return_10d": 5.87,
-      "return_20d": 11.8,
-      "momentum": null,
-      "zscore": 0.01,
-      "current_price": 276.65,
-      "high_252d": 277.35,
-      "pct_from_high": -0.3,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "SPY",
-      "name": "SPY",
-      "asset_class": "index",
-      "return_1d": 0.77,
-      "return_5d": 0.54,
-      "return_10d": 5.07,
-      "return_20d": 10.67,
-      "momentum": null,
-      "zscore": 0.08,
-      "current_price": 713.94,
-      "high_252d": 713.94,
-      "pct_from_high": 0.0,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLP",
-      "name": "Cons Staples",
-      "asset_class": "sector",
-      "return_1d": -0.3,
-      "return_5d": 0.93,
-      "return_10d": 1.04,
-      "return_20d": 2.58,
-      "momentum": null,
-      "zscore": 0.48,
-      "current_price": 83.23,
-      "high_252d": 89.51,
-      "pct_from_high": -7.0,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "QQQ",
-      "name": "QQQ",
-      "asset_class": "index",
-      "return_1d": 1.91,
-      "return_5d": 2.32,
-      "return_10d": 8.64,
-      "return_20d": 15.7,
-      "momentum": null,
-      "zscore": 0.67,
-      "current_price": 663.88,
-      "high_252d": 663.88,
-      "pct_from_high": 0.0,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "asset_class": "sector",
-      "return_1d": -0.19,
-      "return_5d": 3.36,
-      "return_10d": -0.12,
-      "return_20d": -7.56,
-      "momentum": null,
-      "zscore": 0.91,
-      "current_price": 56.87,
-      "high_252d": 62.56,
-      "pct_from_high": -9.1,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "asset_class": "sector",
-      "return_1d": 2.81,
-      "return_5d": 3.8,
-      "return_10d": 12.34,
-      "return_20d": 20.92,
-      "momentum": null,
-      "zscore": 1.0,
-      "current_price": 160.22,
-      "high_252d": 160.22,
-      "pct_from_high": 0.0,
-      "lookback_days": 1260,
-      "dislocation_score": 0,
-      "dislocation_type": null,
-      "credit_confirms": null
+  "breadth": {
+    "sectors_red": 8,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
     }
-  ],
-  "options": {}
+  }
 }

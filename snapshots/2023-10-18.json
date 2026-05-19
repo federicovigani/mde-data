@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "date": "2023-10-18",
+    "n_flagged": 0,
+    "n_deep_value": 2,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -1.4,
+    "spy_5d_z": -0.55
+  },
+  "macro_score": {
+    "score": 65.3,
+    "label": "DISTRESSED"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 1.4,
+    "hy_c5d_bps": 7.0,
+    "hy_c10d_bps": -5.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 4.32,
+      "pct_5y": 80.7,
+      "pct_3y": 80.7,
+      "zscore": 0.97
+    },
+    "ig_oas": {
+      "latest": 1.29,
+      "pct_5y": 72.5,
+      "zscore": 0.12
+    },
+    "curve_10y2y": {
+      "latest": -0.28
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": 0.97
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 19.22,
+      "percentile_10y": 67.1
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.25
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "MS",
+      "name": "MS",
+      "zscore": -3.71,
+      "return_1d": -6.78,
+      "return_5d": -5.1,
+      "return_10d": -5.32,
+      "return_20d": -14.07,
+      "return_40d": -9.76,
+      "pct_from_high": -24.4,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    },
+    {
+      "ticker": "CAT",
+      "name": "CAT",
+      "zscore": -2.59,
+      "return_1d": -4.93,
+      "return_5d": -4.99,
+      "return_10d": -2.19,
+      "return_20d": -6.96,
+      "return_40d": -4.06,
+      "pct_from_high": -10.2,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 9,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

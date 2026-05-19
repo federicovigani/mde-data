@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2024-04-01",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.18,
+    "spy_5d_z": -0.01
+  },
+  "macro_score": {
+    "score": 11.2,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 1.0,
+    "hy_c5d_bps": 1.0,
+    "hy_c10d_bps": -1.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.12,
+      "pct_5y": 2.7,
+      "pct_3y": 2.7,
+      "zscore": -1.77
+    },
+    "ig_oas": {
+      "latest": 0.93,
+      "pct_5y": 4.9,
+      "zscore": -1.67
+    },
+    "curve_10y2y": {
+      "latest": -0.39
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.67
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 13.65,
+      "percentile_10y": 30.8
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.87
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "HD",
+      "name": "HD",
+      "zscore": -2.57,
+      "return_1d": -4.06,
+      "return_5d": -5.7,
+      "return_10d": -1.39,
+      "return_20d": -3.7,
+      "return_40d": 2.82,
+      "pct_from_high": -6.9,
+      "pct_vs_40d_low": 4.2,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 3,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

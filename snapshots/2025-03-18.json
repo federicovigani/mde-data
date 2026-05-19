@@ -23,13 +23,13 @@
   },
   "credit": {
     "hy_oas": {
-      "latest": 0.0323,
+      "latest": 3.23,
       "pct_5y": 47.3,
       "pct_3y": 47.3,
       "zscore": -0.33
     },
     "ig_oas": {
-      "latest": 0.0093,
+      "latest": 0.93,
       "pct_5y": 41.7,
       "zscore": -0.52
     },

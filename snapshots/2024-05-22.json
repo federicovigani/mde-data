@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2024-05-22",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.01,
+    "spy_5d_z": -0.14
+  },
+  "macro_score": {
+    "score": 7.5,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 2.0,
+    "hy_c5d_bps": -2.0,
+    "hy_c10d_bps": 1.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.11,
+      "pct_5y": 5.3,
+      "pct_3y": 5.3,
+      "zscore": -1.44
+    },
+    "ig_oas": {
+      "latest": 0.89,
+      "pct_5y": 4.9,
+      "zscore": -1.5
+    },
+    "curve_10y2y": {
+      "latest": -0.43
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.44
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 12.29,
+      "percentile_10y": 15.2
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 2.02
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "TGT",
+      "name": "TGT",
+      "zscore": -3.72,
+      "return_1d": -8.03,
+      "return_5d": -9.04,
+      "return_10d": -9.61,
+      "return_20d": -12.75,
+      "return_40d": -16.44,
+      "pct_from_high": -18.9,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 4,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 7,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

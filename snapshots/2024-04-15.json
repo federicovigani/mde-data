@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2024-04-15",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -2.75,
+    "spy_5d_z": -1.2
+  },
+  "macro_score": {
+    "score": 26.3,
+    "label": "CAUTIOUS"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 0.812,
+    "hy_c5d_bps": 13.0,
+    "hy_c10d_bps": 16.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.28,
+      "pct_5y": 14.4,
+      "pct_3y": 14.4,
+      "zscore": -1.27
+    },
+    "ig_oas": {
+      "latest": 0.92,
+      "pct_5y": 6.4,
+      "zscore": -1.59
+    },
+    "curve_10y2y": {
+      "latest": -0.3
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.27
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 19.23,
+      "percentile_10y": 66.9
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 0.32
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "CRM",
+      "name": "CRM",
+      "zscore": -3.14,
+      "return_1d": -7.28,
+      "return_5d": -9.55,
+      "return_10d": -9.71,
+      "return_20d": -7.28,
+      "return_40d": -6.4,
+      "pct_from_high": -13.8,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 4,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 11,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

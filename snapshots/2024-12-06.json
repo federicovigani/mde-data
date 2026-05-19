@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2024-12-06",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": 0.87,
+    "spy_5d_z": 0.23
+  },
+  "macro_score": {
+    "score": 7.7,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 2.333,
+    "hy_c5d_bps": -7.0,
+    "hy_c10d_bps": 3.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 2.67,
+      "pct_5y": 3.2,
+      "pct_3y": 3.2,
+      "zscore": -1.69
+    },
+    "ig_oas": {
+      "latest": 0.81,
+      "pct_5y": 4.9,
+      "zscore": -1.4
+    },
+    "curve_10y2y": {
+      "latest": 0.05
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.4
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 12.77,
+      "percentile_10y": 18.5
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 3.55
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "UNH",
+      "name": "UNH",
+      "zscore": -3.43,
+      "return_1d": -5.07,
+      "return_5d": -9.93,
+      "return_10d": -8.01,
+      "return_20d": -9.22,
+      "return_40d": -8.04,
+      "pct_from_high": -12.1,
+      "pct_vs_40d_low": 0.0,
+      "consecutive_down_days": 2,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 8,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}

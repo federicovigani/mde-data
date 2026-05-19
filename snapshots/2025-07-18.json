@@ -8,7 +8,7 @@
   "quadrant": {
     "label": "BUSINESS AS USUAL",
     "quadrant": "BAU",
-    "spy_5d": 0.64,
+    "spy_5d": 0.63,
     "spy_5d_z": 0.12
   },
   "macro_score": {
@@ -23,13 +23,13 @@
   },
   "credit": {
     "hy_oas": {
-      "latest": 0.0293,
+      "latest": 2.93,
       "pct_5y": 18.9,
       "pct_3y": 18.9,
       "zscore": -0.92
     },
     "ig_oas": {
-      "latest": 0.008,
+      "latest": 0.8,
       "pct_5y": 5.7,
       "zscore": -1.22
     },

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "date": "2024-03-08",
+    "n_flagged": 0,
+    "n_deep_value": 1,
+    "source": "historical_backfill"
+  },
+  "quadrant": {
+    "label": "BUSINESS AS USUAL",
+    "quadrant": "BAU",
+    "spy_5d": -0.22,
+    "spy_5d_z": -0.18
+  },
+  "macro_score": {
+    "score": 14.9,
+    "label": "CALM"
+  },
+  "panic_signal": {
+    "grade": "",
+    "hy_accel_ratio": 2.0,
+    "hy_c5d_bps": -6.0,
+    "hy_c10d_bps": 3.0
+  },
+  "credit": {
+    "hy_oas": {
+      "latest": 3.26,
+      "pct_5y": 2.9,
+      "pct_3y": 2.9,
+      "zscore": -1.71
+    },
+    "ig_oas": {
+      "latest": 0.99,
+      "pct_5y": 8.6,
+      "zscore": -1.49
+    },
+    "curve_10y2y": {
+      "latest": -0.39
+    },
+    "_composite": {
+      "credit_is_calm": true,
+      "credit_stress_z": -1.49
+    }
+  },
+  "vix": {
+    "vix": {
+      "latest": 14.74,
+      "percentile_10y": 40.4
+    },
+    "term_structure": {
+      "inverted": false,
+      "spread": 1.56
+    }
+  },
+  "dislocations": {
+    "flagged": [],
+    "approaching": []
+  },
+  "deep_value": [
+    {
+      "ticker": "COST",
+      "name": "COST",
+      "zscore": -4.76,
+      "return_1d": -7.64,
+      "return_5d": -3.19,
+      "return_10d": -1.68,
+      "return_20d": 0.19,
+      "return_40d": 8.01,
+      "pct_from_high": -7.6,
+      "pct_vs_40d_low": 7.9,
+      "consecutive_down_days": 1,
+      "entry_verdict": "WAIT",
+      "reason": "historical backfill \u2014 no LLM verdict"
+    }
+  ],
+  "breadth": {
+    "sectors_red": 3,
+    "sectors_total": 11
+  },
+  "fred_staleness": {
+    "_summary": {
+      "any_stale": false,
+      "max_lag_days": 0
+    }
+  }
+}
