@@ -1,0 +1,63 @@
+name: Generate Historical Snapshots
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Year to generate (leave blank for all missing 2025+2026)"
+        required: false
+        default: ""
+      start:
+        description: "Start date YYYY-MM-DD (optional, overrides year)"
+        required: false
+        default: ""
+      end:
+        description: "End date YYYY-MM-DD (optional, overrides year)"
+        required: false
+        default: ""
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout mde-data
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MDE_DATA_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install yfinance requests pandas numpy
+
+      - name: Run generator
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.start }}" ]; then
+            python3 generate_history.py \
+              --start ${{ github.event.inputs.start }} \
+              --end   ${{ github.event.inputs.end }}
+          elif [ -n "${{ github.event.inputs.year }}" ]; then
+            python3 generate_history.py --year ${{ github.event.inputs.year }}
+          else
+            python3 generate_history.py
+          fi
+
+      - name: Commit and push new snapshots
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add snapshots/
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            COUNT=$(git diff --cached --name-only | wc -l)
+            git commit -m "history: generate $COUNT snapshot(s)"
+            git push
+          fi
