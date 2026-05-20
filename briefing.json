@@ -1,0 +1,8 @@
+{
+  "date": "2026-05-20",
+  "quadrant": "BUSINESS AS USUAL",
+  "score": 21.6,
+  "narrative": "# Market Intelligence Briefing | 20 May 2026\n\nCredit conditions remain historically benign with HY OAS at 281bp (15th percentile over five years, z=-0.93) and IG OAS at 78bp (z=-0.97), signaling limited stress despite the calm VIX reading of 18.1 at the 47th percentile with contango structure intact. Equity breadth shows resilience with only 3 of 11 sectors in the red, while the stress score of 22/100 and absence of panic signals confirm business-as-usual market conditions. No Type B dislocations or Type C deep value opportunities are currently flagged across the opportunity set, suggesting fair valuations without significant mispricings. The overall macro backdrop remains supportive with no credit acceleration signals triggered and normalized volatility expectations reflected in the term structure.",
+  "stale": false,
+  "model": "claude-haiku-4-5-20251001"
+}
