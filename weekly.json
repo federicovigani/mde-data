@@ -1,8 +1,8 @@
 {
-  "week_ending": "2026-05-20",
-  "week_starting": "2026-05-14",
+  "week_ending": "2026-05-21",
+  "week_starting": "2026-05-15",
   "quadrant_arc": "BUSINESS AS USUAL: 5d",
-  "narrative": "The week unfolded in a stable Business as Usual regime with regime scores hovering between 21 and 24, indicating low systemic stress. High-yield spreads widened modestly from 276bp to 281bp\u2014a 5bp move\u2014reflecting gradual sentiment deterioration rather than acute dislocation. Two deep-value signals emerged late in the week (NEE on May 18 and BLK on May 19), both marked as WAIT, suggesting isolated pockets of repricing in mega-cap names without broader contagion to credit or equities. The regime remained internally consistent throughout, with no crossover into elevated stress, and the spread trajectory suggests investors are testing risk appetite at the margin rather than derisking systematically. Monitor whether the deep-value signals in quality names presage sector rotation or remain idiosyncratic, as a sustained uptick in such flags could signal the early phase of regime transition before it shows in headline spreads.",
+  "narrative": "# Weekly Market Regime Summary: 18\u201321 May 2026\n\nThe week unfolded in a steady Business as Usual regime with high-yield spreads contracting 4 basis points from 284bp to 279bp, signalling modest risk appetite compression. Stress metrics remained stable, with regime scores hovering between 18 and 24, indicating no material deterioration in financial conditions despite minor daily volatility. Two deep-value signals emerged mid-week\u2014BlackRock and NextEra Energy both flagged WAIT conditions\u2014suggesting selective momentum exhaustion in quality names rather than systemic dislocation. The spread tightening and lack of widening volatility confirm that credit markets are pricing a benign economic backdrop without inflation shock or policy surprises. Given the resilience of the carry trade and the absence of widening dislocations, the regime is likely to persist unless growth data disappoints materially or central banks signal tighter-for-longer positioning.",
   "model": "claude-haiku-4-5-20251001",
   "snapshots_used": 5
 }
