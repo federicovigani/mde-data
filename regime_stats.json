@@ -1,12 +1,12 @@
 {
-  "computed_date": "2026-05-20",
+  "computed_date": "2026-05-21",
   "current_regime": "BUSINESS AS USUAL",
   "current_quadrant": "CALM",
-  "streak_days": 1,
+  "streak_days": 2,
   "streak_since": "2026-05-20",
-  "score_now": 21.6,
-  "score_10d_ago": 22.2,
-  "score_trajectory": "stable",
+  "score_now": 18.0,
+  "score_10d_ago": 23.6,
+  "score_trajectory": "falling",
   "distribution": {
     "BUSINESS AS USUAL": 56,
     "EQUITY DISLOCATION": 34

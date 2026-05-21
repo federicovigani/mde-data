@@ -1,17 +1,11 @@
 {
-  "date": "2026-05-20",
-  "n_alerts": 1,
-  "alerts": [
-    {
-      "type": "REGIME_FLIP",
-      "from": "BUSINESS AS USUAL",
-      "to": "BUSINESS AS USUAL"
-    }
-  ],
+  "date": "2026-05-21",
+  "n_alerts": 0,
+  "alerts": [],
   "current_quadrant": "BUSINESS AS USUAL",
   "current_quadrant_raw": "CALM",
   "previous_quadrant": "BUSINESS AS USUAL",
-  "score": 21.6,
+  "score": 18.0,
   "grade": null,
   "n_flagged": 0
 }

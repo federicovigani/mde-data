@@ -1,8 +1,8 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 21.6,
-  "narrative": "# Market Intelligence Briefing | 20 May 2026\n\nCredit conditions remain historically benign with HY OAS at 281bp (15th percentile over five years, z=-0.93) and IG OAS at 78bp (z=-0.97), signaling limited stress despite the calm VIX reading of 18.1 at the 47th percentile with contango structure intact. Equity breadth shows resilience with only 3 of 11 sectors in the red, while the stress score of 22/100 and absence of panic signals confirm business-as-usual market conditions. No Type B dislocations or Type C deep value opportunities are currently flagged across the opportunity set, suggesting fair valuations without significant mispricings. The overall macro backdrop remains supportive with no credit acceleration signals triggered and normalized volatility expectations reflected in the term structure.",
+  "score": 18.0,
+  "narrative": "# Market Intelligence Briefing | 21 May 2026\n\nEuropean equity markets remain in a benign regime with only 1 of 11 sectors in negative territory, supported by a stress score of 18/100 and VIX at 17.4 (42nd percentile of the 10-year range). Credit spreads are tightening across both segments\u2014HY OAS at 279bp (14th percentile) and IG OAS at 76bp\u2014indicating investor confidence is outpacing fundamentals, with z-scores of -0.96 and -1.12 respectively signaling overvaluation relative to historical norms. The VIX term structure remains in contango and no panic signals have been triggered, though the absence of Type B dislocations and Type C deep value opportunities suggests limited tactical entry points at current levels. Market breadth and credit technicals point to complacency rather than opportunity; position cautiously until either spreads widen toward mean levels or earnings data forces reassessment of embedded risk premiums.",
   "stale": false,
   "model": "claude-haiku-4-5-20251001"
 }
