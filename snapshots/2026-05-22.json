@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-05-22",
-    "generated_at": "2026-05-22T08:07:38.770490",
+    "generated_at": "2026-05-22T08:29:00.495326",
     "n_tickers": 22,
     "n_flagged": 0,
     "n_approaching": 0,
@@ -168,8 +168,8 @@
     },
     "DX-Y.NYB": {
       "name": "Dollar (DXY)",
-      "return_5d": 0.01,
-      "current_price": 99.28
+      "return_5d": -0.02,
+      "current_price": 99.25
     },
     "IBIT": {
       "name": "Bitcoin ETF",
@@ -184,8 +184,8 @@
       "etf": "FXI",
       "etf_name": "China",
       "etf_ret": -3.6,
-      "dxy_ret": 0.0,
-      "description": "FXI (China) -3.6% while DXY +0.0% \u2014 not capital flight, likely positioning unwind"
+      "dxy_ret": -0.0,
+      "description": "FXI (China) -3.6% while DXY -0.0% \u2014 not capital flight, likely positioning unwind"
     },
     {
       "type": "sector_vs_index",
