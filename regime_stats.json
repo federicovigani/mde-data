@@ -3,8 +3,8 @@
   "current_regime": "Business As Usual",
   "streak_days": 1,
   "streak_since": "2026-05-22",
-  "score_now": 24.8,
-  "score_10d_ago": 24.8,
+  "score_now": 25.7,
+  "score_10d_ago": 25.7,
   "score_trajectory": "stable",
   "distribution": {
     "CALM": 100.0,
@@ -13,5 +13,5 @@
     "PANIC": 0.0
   },
   "snapshots_analyzed": 1,
-  "generated_at": "2026-05-22T08:29:00Z"
+  "generated_at": "2026-05-22T09:49:29Z"
 }

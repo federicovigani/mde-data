@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-05-22",
-    "generated_at": "2026-05-22T08:29:00.495326",
+    "generated_at": "2026-05-22T09:49:29.893792",
     "n_tickers": 22,
     "n_flagged": 0,
     "n_approaching": 0,
@@ -14,8 +14,8 @@
     "regime": "CALM",
     "description": "Low volatility, spreads contained \u2014 watch for complacency",
     "credit_z": -1.11,
-    "vix_level": 16.76,
-    "vix_ratio": 0.95,
+    "vix_level": 17.07,
+    "vix_ratio": 0.97,
     "pct_equity_stressed": 0.0,
     "n_equity_stressed": 0
   },
@@ -123,12 +123,12 @@
   },
   "vix": {
     "vix": {
-      "latest": 16.76,
-      "avg_20d": 17.63,
-      "ratio_vs_20d": 0.95,
-      "percentile_10y": 35.2,
-      "percentile_1y": 40.1,
-      "percentile": 35.2,
+      "latest": 17.07,
+      "avg_20d": 17.65,
+      "ratio_vs_20d": 0.97,
+      "percentile_10y": 38.1,
+      "percentile_1y": 46.0,
+      "percentile": 38.1,
       "elevated": false,
       "spiking": false,
       "date": "2026-05-22"
@@ -138,7 +138,7 @@
       "date": "2026-05-21"
     },
     "term_structure": {
-      "spread": -3.24,
+      "spread": -2.93,
       "inverted": false,
       "spread_vs_3d_ago": -0.14,
       "spread_narrowing": true
@@ -168,8 +168,8 @@
     },
     "DX-Y.NYB": {
       "name": "Dollar (DXY)",
-      "return_5d": -0.02,
-      "current_price": 99.25
+      "return_5d": 0.04,
+      "current_price": 99.31
     },
     "IBIT": {
       "name": "Bitcoin ETF",
@@ -184,8 +184,8 @@
       "etf": "FXI",
       "etf_name": "China",
       "etf_ret": -3.6,
-      "dxy_ret": -0.0,
-      "description": "FXI (China) -3.6% while DXY -0.0% \u2014 not capital flight, likely positioning unwind"
+      "dxy_ret": 0.0,
+      "description": "FXI (China) -3.6% while DXY +0.0% \u2014 not capital flight, likely positioning unwind"
     },
     {
       "type": "sector_vs_index",
@@ -202,10 +202,10 @@
   ],
   "macro_narrative": "Market regime: CALM. Low volatility, spreads contained \u2014 watch for complacency. HY spreads tight at 272bps (8th pct vs 5y, z=-1.11) \u2014 credit complacent. Yield curve positive at 0.55%.",
   "macro_score": {
-    "score": 24.8,
-    "label": "CALM",
+    "score": 25.7,
+    "label": "CAUTIOUS",
     "components": {
-      "vix_pct_10y": 35.2,
+      "vix_pct_10y": 38.1,
       "vix_term_inverted": false,
       "hy_pct_5y": 7.6,
       "ig_pct_5y": 50.0
@@ -234,7 +234,7 @@
     "label": "BUSINESS AS USUAL",
     "equity_stressed": false,
     "credit_stressed": false,
-    "vix_pct_10y": 35.2,
+    "vix_pct_10y": 38.1,
     "spy_5d": -0.73,
     "spy_5d_z": -0.53,
     "credit_calm": true
