@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.marketwatch.com/story/swiss-national-bank-cuts-interest-rates-by-a-half-point-to-0-5-ed1fce78?mod=mw_rss_realtimeheadlines",
+    "title": "Swiss National Bank cuts interest rates by a half point to 0.5%",
+    "source": "MarketWatch",
+    "relevance": "Central bank rate cut with direct credit/liquidity implications; potential shift in monetary regime affecting funding conditions.",
+    "surfaced_at": "2026-05-25T09:10:09.515522+00:00"
+  },
+  {
+    "url": "https://www.marketwatch.com/story/feds-powell-says-rate-cut-on-the-table-as-soon-as-september-f3f7c8f2?mod=mw_rss_realtimeheadlines",
+    "title": "Fed's Powell says rate cut 'on the table' as soon as September",
+    "source": "MarketWatch",
+    "relevance": "Forward guidance signaling potential monetary easing; direct credit market implication if cuts materialize before stress appears in data.",
+    "surfaced_at": "2026-05-25T09:10:09.515522+00:00"
+  }
+]
