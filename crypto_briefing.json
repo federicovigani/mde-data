@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T20:33:58.835829+00:00",
+  "cycle_phase": "BEAR",
+  "top_signal": "NEUTRAL",
+  "btc_dislocation_score": 49.9,
+  "sol_dislocation_score": 35.0,
+  "btc_decel_grade": null,
+  "sol_decel_grade": null,
+  "fear_greed": 29,
+  "brief": "We're in a bear cycle with genuinely neutral sentiment\u2014neither panic capitulation nor euphoria. Bitcoin's dislocation score of 49.9 sits squarely at equilibrium, and the Fear and Greed Index at 29 reflects measured caution rather than panic selling. Price action is modestly negative (Bitcoin down 4.56% over five days at a -0.94 z-score), but this is garden-variety weakness, not a tail event. Bitcoin trades below its 200-day moving average, confirming the macro downtrend, while dominance remains stable at 56.7%.\n\nThe critical absence here is funding data. Without funding rates, we cannot assess whether derivatives positioning is stretched\u2014which is precisely where dislocations reveal themselves. In a true bear, negative funding (fear) should diverge sharply from on-chain strength if accumulation is quiet. Right now, the silence on funding rates makes it impossible to triangulate whether smart money is defensively short at these levels or whether retail panic-selling has already cleared the market. Stablecoin dominance at 10.4% is unremarkable; altcoin rotation is flat, suggesting no flight to perceived safety or growth.\n\nWatch for funding rate resumption and any sharp inversion in the BTC-SOL z-score spread (currently -1.36 underperformance). If funding turns deeply negative despite stable on-chain metrics, that's a buy signal buried in fear. For now, this is dormancy\u2014neither a trap nor a bottom."
+}
