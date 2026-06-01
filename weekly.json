@@ -1,9 +1,21 @@
 {
-  "week_ending": "2026-05-23",
-  "week_starting": "2026-05-19",
+  "week_ending": "2026-05-30",
+  "week_starting": "2026-05-26",
   "quadrant_arc": "BUSINESS AS USUAL: 5d",
-  "narrative": "The week opened with a stress score of 24 on Monday before easing to 22 on Tuesday and dropping sharply to 18 on Wednesday, its lowest point of the period. Thursday saw a brief rebound to 26, the week's peak, before settling back down to 16 on Friday. The regime held firmly in business-as-usual territory throughout, with no material escalation into stress or fragmentation, suggesting the mid-week softness was transient rather than structural.\n\nHigh yield spreads drifted tighter across the week, moving from 283 basis points on Monday to 279 by Friday, albeit with some intraday oscillation that saw spreads touch 272 on Thursday before widening again. The modest spread compression broadly confirmed the low-stress equity backdrop, with credit offering no contradictory signal. Investment grade spreads were not flagged as diverging, reinforcing a picture of contained risk appetite rather than one being aggressively extended.\n\nTwo deep value signals appeared across the week. BlackRock was flagged on Monday in a wait posture, suggesting the screen identified potential value but conditions were not yet sufficiently favourable to act. Walmart appeared on both Thursday and Friday, though the confidence designation remains unresolved, warranting caution before drawing a firm conclusion on entry timing.",
+  "narrative": "The week's regime pattern points to a credit-equity environment that is neither building toward opportunity nor signaling deterioration \u2014 it is simply stable, and that stability appears genuine rather than suppressed. The absence of any meaningful intraweek stress spike, even on the session that produced the week's highest score, suggests that whatever macro uncertainty lingers in the background is not yet finding expression in pricing dislocations. For a strategy that depends on episodic divergence between credit and equity, a week this uniform is essentially a holding pattern, and should be read as such.\n\nHigh yield spreads held in an exceptionally narrow band across the week, oscillating within just three basis points, which at current levels reflects a market pricing almost no near-term default or liquidity risk. The absence of spread widening during the slightly elevated score mid-week confirms that equity volatility, to the extent it existed at all, was not accompanied by any credit deterioration \u2014 the two markets were aligned, which is precisely what limits actionable signal. VIX context reinforces this: without an equity-credit divergence to exploit, the regime remains structurally quiet rather than structurally rich.\n\nWMT appeared persistently across deep value screens throughout the week, flagging on three of the five sessions. Given that the broader regime showed no stress and credit confirmed no systemic pressure, the recurrence of a single defensive consumer name warrants watching but does not yet constitute a dislocation worth acting on \u2014 the signal needs either credit context to sharpen or equity disconnection to widen before it becomes a thesis-relevant entry.\n\nISM Manufacturing on Monday warrants attention specifically because a sub-50 print would introduce the first data-driven question mark about whether current HY spread tightness is pricing growth correctly \u2014 a contraction reading alongside spreads at these levels would represent exactly the kind of quiet divergence the strategy is designed to detect before it becomes consensus. The June 5 payrolls release carries more weight given its direct influence on rate expectations; a materially weak number could begin repricing credit risk at the margin, potentially activating the conditions that this week conspicuously lacked.",
   "earnings": [],
+  "events": [
+    {
+      "name": "ISM Manufacturing PMI",
+      "date": "2026-06-01",
+      "type": "DATA"
+    },
+    {
+      "name": "US NFP",
+      "date": "2026-06-05",
+      "type": "DATA"
+    }
+  ],
   "model": "claude-sonnet-4-6",
   "snapshots_used": 5
 }
