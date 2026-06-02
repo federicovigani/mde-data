@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T09:22:41.661973+00:00",
+  "generated_at": "2026-06-02T09:26:36.368839+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "NO_ACTION",
@@ -15,5 +15,5 @@
   "eth_decel_grade": null,
   "sol_decel_grade": null,
   "fear_greed": 23,
-  "brief": "Bitcoin trades below its 200-day moving average in a confirmed macro downtrend, classifying this as a BEAR cycle. Market conditions remain normal\u2014no extremes in positioning or volatility. The composite signal is NO_ACTION: a routine bearish regime with no tactical dislocations to exploit.\n\nBoth ETH and SOL show institutional risk-off positioning (z-scores near -1.0 to -1.4 vs BTC), consistent with a deflationary cycle where capital rotates to larger caps. Fear and Greed at 23 reflects subdued sentiment. With no extreme funding signals and modest 5-day drawdowns, this is textbook bear consolidation rather than capitulation or setup."
+  "brief": "Bitcoin remains in a structural bear cycle, trading below its 200-day moving average with a death cross signal intact. The market is in BEAR x BUSINESS_AS_USUAL regime\u2014downtrend conditions but without extreme stress or panic signals. No action warranted at current positioning.\n\nFear and Greed at 23 reflects cautious sentiment, yet altcoin underperformance (ETH and SOL both negative vs BTC on a relative basis) and elevated Bitcoin dominance at 56.3% suggest orderly deleveraging rather than capitulation. Funding data unavailable, but the absence of extreme readings across major assets combined with moderate 5-day drawdowns indicates this is a grinding bear phase, not an inflection point."
 }

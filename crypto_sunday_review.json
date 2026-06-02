@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-02",
+  "cycle_phase": "BEAR",
+  "composite_action": "NO_ACTION",
+  "w1_btc_return": -4.8,
+  "w1_dominant_action": "NO_ACTION",
+  "m1_btc_return": -6.3,
+  "m1_dominant_action": "NO_ACTION",
+  "q1_btc_return": 7.7,
+  "q1_dominant_action": "NO_ACTION",
+  "ytd_btc_return": -15.9,
+  "ytd_dominant_action": "NO_ACTION",
+  "review": "The current regime as of 2 June 2026 remains a confirmed bear phase, with the composite signal printing No Action against a Business As Usual backdrop. This configuration \u2014 bear cycle meeting low derivatives stress \u2014 is precisely the Tepper dislocation framework's least actionable setup: there is no fear divergence to exploit because both fundamentals and sentiment are aligned to the downside. The week produced orderly selling across the complex, with BTC off 4.8%, ETH off 5.1%, and SOL outperforming modestly at -3.2%, while Fear and Greed sits at 23 and composite scores for all three assets remain well below the 50 threshold. No regime change occurred this week; this is continuation, not inflection.\n\nThe one-month and one-quarter windows confirm regime persistence without a single day outside the bear phase across 64 consecutive sessions. The action distribution is essentially a flat line of No Action, and average BTC scores in the low 40s indicate sustained, moderate-to-weak momentum rather than panic washout. ETH's -13.8% one-month loss against BTC's -6.3% is notable: the ETH/BTC z-score has been anchored near -1.05, suggesting ongoing institutional preference for bitcoin over ether at the margin, with no rotation catalyst visible.\n\nThe YTD picture is unambiguous. All 108 trading days have registered bear-phase readings. The handful of Buy and Strong Buy signals in January represented the only moments of positive dislocation this year; those windows have fully closed. ETH is down 32.5% and SOL 34.0% against BTC's -15.9%, reinforcing that the altcoin relative trade has destroyed capital in both the halving-cycle reacceleration thesis and the Ethereum ETF institutional rotation narrative. SOL/BTC z-score averaging -1.31 YTD signals persistent risk-appetite compression at the speculative end of the curve.\n\nCross-asset context offers little relief but also no amplification. Equity markets are printing Business As Usual: SPY up 1.45% over five days, VIX at the 28th percentile of its ten-year range, credit calm. This means crypto stress remains largely idiosyncratic rather than symptomatic of a broader risk-off episode. The dislocation setup would change if VIX spiked into stressed territory while crypto scores held or recovered \u2014 creating the fear-without-fundamental-deterioration divergence the framework targets. That condition does not exist today."
+}
