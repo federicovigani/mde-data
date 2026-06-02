@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T07:00:54.896779+00:00",
+  "generated_at": "2026-06-02T08:57:02.080479+00:00",
   "btc": {
     "price": 73593.3712,
     "return_5d_pct": -2.94,
@@ -17,7 +17,27 @@
     "funding_zscore": null,
     "funding_accel_ratio": null,
     "decel_grade": null,
-    "fear_greed": 23
+    "fear_greed": 23,
+    "dislocation_score": 47.2,
+    "quadrant": "BUSINESS_AS_USUAL"
+  },
+  "eth": {
+    "price": 2003.9719,
+    "return_5d_pct": -3.23,
+    "return_30d_pct": -12.67,
+    "return_5d_zscore": -0.43,
+    "pct_from_ath_1yr": -58.5,
+    "above_ma200": false,
+    "ma_cross": "death",
+    "funding_rate_daily": null,
+    "funding_annualised": null,
+    "funding_zscore": null,
+    "funding_accel_ratio": null,
+    "decel_grade": null,
+    "eth_btc_zscore": -1.05,
+    "eth_relative_30d": -6.81,
+    "dislocation_score": 34.8,
+    "quadrant": "BUSINESS_AS_USUAL"
   },
   "sol": {
     "price": 82.2339,
@@ -33,29 +53,46 @@
     "funding_accel_ratio": null,
     "decel_grade": null,
     "sol_btc_zscore": -1.36,
-    "sol_relative_30d": 4.11
+    "sol_relative_30d": 4.11,
+    "dislocation_score": 33.1,
+    "quadrant": "BUSINESS_AS_USUAL"
   },
   "market_structure": {
-    "btc_dominance_pct": 56.41,
+    "btc_dominance_pct": 56.29,
+    "eth_dominance_pct": 9.61,
     "btc_dominance_trend": "neutral",
-    "total_market_cap_bn": 2488.1,
-    "stablecoin_market_cap_bn": 263.2,
-    "stablecoin_dominance_pct": 10.58
+    "total_market_cap_bn": 2480.2,
+    "stablecoin_market_cap_bn": 263.7,
+    "stablecoin_dominance_pct": 10.63,
+    "eth_btc_ratio": 0.02723,
+    "eth_btc_zscore": -1.05,
+    "sol_btc_ratio": 0.001117,
+    "sol_btc_zscore": -1.36
   },
-  "scores": {
-    "btc_dislocation_score": 47.3,
-    "sol_dislocation_score": 33.1,
-    "btc_quadrant": "BUSINESS_AS_USUAL",
-    "sol_quadrant": "BUSINESS_AS_USUAL",
-    "cycle_phase": "BEAR",
-    "cycle_description": "BTC below 200d MA -- macro downtrend, no dislocation buy yet",
-    "top_signal": "NEUTRAL"
+  "cycle": {
+    "phase": "BEAR",
+    "description": "BTC below 200d MA -- macro downtrend",
+    "confidence": "high",
+    "above_ma200": false,
+    "eth_rotating": false,
+    "altcoin_season": false,
+    "funding_positive": false
+  },
+  "composite_signal": {
+    "action_code": "NO_ACTION",
+    "short_label": "No Action",
+    "description": "BEAR cycle with normal conditions -- nothing to do",
+    "corroboration": "NONE",
+    "matrix_key": "BEAR x BUSINESS_AS_USUAL"
   },
   "signals": {
     "btc_decel_grade": null,
+    "eth_decel_grade": null,
     "sol_decel_grade": null,
+    "eth_dislocated_vs_btc": false,
     "sol_dislocated_vs_btc": false,
     "altcoin_rotation_active": false,
+    "eth_rotation_active": false,
     "fear_extreme": true,
     "greed_extreme": false
   }
