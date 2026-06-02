@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T09:02:50.242479+00:00",
+  "generated_at": "2026-06-02T09:08:10.400473+00:00",
   "cycle_phase": null,
   "cycle_confidence": null,
   "composite_action_code": null,
@@ -15,5 +15,5 @@
   "eth_decel_grade": null,
   "sol_decel_grade": null,
   "fear_greed": 23,
-  "brief": "**COMPOSITE SIGNAL: BEAR / CRYPTO_PANIC \u2014 Data integrity failure prevents full assessment.**\n\nThe system is returning insufficient signals across ETH and funding metrics, which blocks proper dislocation detection. However, what *is* observable aligns with a late-bear-phase panic setup. BTC has broken below its 200-day moving average (death cross confirmed), 5-day performance is modestly negative at -2.94%, and Fear & Greed sits at 23\u2014deep capitulation territory. SOL's -1.64% 5d return paired with a SOL/BTC z-score of -1.36 signals weakening risk appetite among institutional traders. Stablecoin dominance at 10.58% suggests liquidity is being staged for either a capitulation flush or a recovery entry.\n\nThe missing ETH/BTC institutional rotation signal is the critical gap here. Without that lens, we cannot confirm whether this is organic bear liquidation or a false-low setup with funding rates actually extreme enough to trap bears. BTC dominance holding at 56.41% is consistent with flight-to-safety, not altcoin capitulation yet. The absence of funding data across both BTC and ETH prevents us from confirming whether derivatives positioning is stretched enough to anchor a bounce.\n\nWatch for ETH data restoration and a clear reading on BTC funding rate direction. If BTC funding goes deeply negative while the 200d MA acts as support, the dislocation signal (bearish derivatives / constructive structure) would activate a tactical IGNITION setup. Until then, treat this as a confirm-on-bounce regime."
+  "brief": "Bitcoin trades below its 200-day moving average with a death cross confirmed, while Fear and Greed sits at 23\u2014deep capitulation territory. BTC dominance remains elevated at 56.41%, suggesting defensive positioning and flight-to-core assets. The 5-day drawdown of -2.94% is modest in z-score terms (-0.58), indicating recent weakness is not statistical. Cycle phase cannot be determined from available signals, but the structure points toward late-stage bear or early bottoming consolidation.\n\nThe critical tension: capitulation sentiment and technical breakdown (MA cross) are present, but positioning data (funding rates, altcoin rotation metrics) are unavailable to confirm whether this is panic capitulation or structural unwind. SOL's -1.36 z-score against BTC suggests risk appetite deterioration. Without derivatives and rotation signals, conviction on a tactical dislocation play is limited."
 }
