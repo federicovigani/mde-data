@@ -1,12 +1,19 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T07:01:28.145939+00:00",
-  "cycle_phase": "BEAR",
-  "top_signal": "NEUTRAL",
-  "btc_dislocation_score": 47.3,
-  "sol_dislocation_score": 33.1,
+  "generated_at": "2026-06-02T09:02:50.242479+00:00",
+  "cycle_phase": null,
+  "cycle_confidence": null,
+  "composite_action_code": null,
+  "composite_short_label": null,
+  "composite_description": null,
+  "corroboration": null,
+  "matrix_key": null,
+  "btc_dislocation_score": null,
+  "eth_dislocation_score": null,
+  "sol_dislocation_score": null,
   "btc_decel_grade": null,
+  "eth_decel_grade": null,
   "sol_decel_grade": null,
   "fear_greed": 23,
-  "brief": "We are in a bear cycle phase with neutral regime conditions. Bitcoin sits at $73,593, below its 200-day moving average, with a mild five-day drawdown of 2.94% (z-score -0.58, statistically unremarkable). The dislocation score of 47.3 sits squarely in business-as-usual territory, indicating no structural tension between derivatives pricing and on-chain behavior. The Fear and Greed Index at 23 reflects genuine anxiety, but this appears appropriately calibrated to current price action rather than a contrarian signal. BTC dominance remains neutral at 56.41%, suggesting no flight-to-safety impulse or risk-on rotation.\n\nThe key observation is the absence of dislocation. Funding rates are not available in the data, but the dislocation scores themselves show neither extreme complacency (which would signal hidden leverage building into a drawdown) nor capitulation fear (which often precedes reversals). SOL's 33.1 dislocation is even more muted, and the relative weakness versus Bitcoin (z-score -1.36) reflects normal altcoin underperformance in bear phases without panic selling signatures. Stablecoin dominance sits at 10.58%, not elevated, suggesting holders are not rotating defensively into cash equivalents.\n\nWe are in a grinding bear where price, sentiment, and derivatives positioning are aligned. This is typically the least productive environment for tactical mean-reversion trades. Watch for either a surge in stablecoin dominance (indicating dry powder positioning) or a sharp funding rate inversion that would signal real capitulation or leverage unwinding. Until then, the regime lacks the dislocations that create asymmetric opportunities."
+  "brief": "**COMPOSITE SIGNAL: BEAR / CRYPTO_PANIC \u2014 Data integrity failure prevents full assessment.**\n\nThe system is returning insufficient signals across ETH and funding metrics, which blocks proper dislocation detection. However, what *is* observable aligns with a late-bear-phase panic setup. BTC has broken below its 200-day moving average (death cross confirmed), 5-day performance is modestly negative at -2.94%, and Fear & Greed sits at 23\u2014deep capitulation territory. SOL's -1.64% 5d return paired with a SOL/BTC z-score of -1.36 signals weakening risk appetite among institutional traders. Stablecoin dominance at 10.58% suggests liquidity is being staged for either a capitulation flush or a recovery entry.\n\nThe missing ETH/BTC institutional rotation signal is the critical gap here. Without that lens, we cannot confirm whether this is organic bear liquidation or a false-low setup with funding rates actually extreme enough to trap bears. BTC dominance holding at 56.41% is consistent with flight-to-safety, not altcoin capitulation yet. The absence of funding data across both BTC and ETH prevents us from confirming whether derivatives positioning is stretched enough to anchor a bounce.\n\nWatch for ETH data restoration and a clear reading on BTC funding rate direction. If BTC funding goes deeply negative while the 200d MA acts as support, the dislocation signal (bearish derivatives / constructive structure) would activate a tactical IGNITION setup. Until then, treat this as a confirm-on-bounce regime."
 }
