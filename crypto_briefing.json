@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T08:33:51.281501+00:00",
+  "generated_at": "2026-06-03T08:37:19.648721+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "NO_ACTION",
@@ -15,5 +15,5 @@
   "eth_decel_grade": null,
   "sol_decel_grade": null,
   "fear_greed": 11,
-  "brief": "BTC remains in a macro downtrend, trading below its 200-day moving average with a death cross confirmed. The BEAR cycle phase is intact. However, market structure shows normal conditions: no extreme funding dislocations, altcoin ratios tracking logically to risk-off positioning, and stablecoin dominance at 11% indicating measured liquidation rather than panic. Fear and Greed at 11 reflects sentiment pessimism, not capitulation.\n\nETH and SOL underperformance versus BTC is orderly, with z-scores of -0.87 and -1.27 respectively\u2014proportional to a risk-off regime rather than structural dislocation. Funding data is unavailable, preventing assessment of derivatives extremes. The setup lacks the asymmetry needed for action: bear cycle without panic, fear without forced selling."
+  "brief": "Bitcoin trades below its 200-day moving average in a confirmed macro downtrend, with fear and greed at 11 signaling capitulation sentiment. The BEAR x BUSINESS_AS_USUAL matrix indicates a structural decline without panic or extreme dislocations. No meaningful rotations are evident: altcoin season is inactive, ETH and SOL lag BTC on normalized z-scores, and institutional flows remain subdued.\n\nBTC's 5-day decline of 4% sits near its long-term median volatility (z: -0.82), confirming orderly deterioration rather than capitulatory flush. Stablecoin dominance at 11% and BTC dominance holding steady at 56% suggest market structure is intact. This is a bear regime with normal risk-off mechanics\u2014no dislocation or opportunity to exploit."
 }
