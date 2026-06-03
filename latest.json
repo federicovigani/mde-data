@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-06-03",
-    "generated_at": "2026-06-03T05:01:26.871487",
+    "generated_at": "2026-06-03T06:31:03.853372",
     "n_tickers": 22,
     "n_flagged": 0,
     "n_approaching": 0,
@@ -124,8 +124,8 @@
     },
     "DX-Y.NYB": {
       "name": "Dollar (DXY)",
-      "return_5d": 0.06,
-      "current_price": 99.27
+      "return_5d": 0.13,
+      "current_price": 99.33
     },
     "IBIT": {
       "name": "Bitcoin ETF",
