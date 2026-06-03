@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T07:01:30.837482+00:00",
+  "generated_at": "2026-06-03T07:57:54.870552+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "NO_ACTION",
@@ -15,5 +15,5 @@
   "eth_decel_grade": null,
   "sol_decel_grade": null,
   "fear_greed": 11,
-  "brief": "# Morning Brief \u2014 2026-06-03\n\nBitcoin's macro downtrend remains intact with price below the 200-day MA, placing us in confirmed BEAR cycle phase. The market structure is BUSINESS_AS_USUAL: no extreme dislocations, no panic signals. Fear and Greed sits at 11, reflecting capitulation sentiment, but absent are the derivative conditions that would trigger accumulation setup \u2014 funding rates unavailable for analysis. Bitcoin dominance stable at 56%; ETH and SOL underperforming on relative weakness but without institutional rotation urgency.\n\nThe absence of actionable dislocation stems from alignment: bearish technicals match bearish sentiment. ETH and SOL show mild institutional underweighting (-0.87 and -1.27 z-scores respectively), yet both remain in normal quadrant territory. This is a holding pattern, not a reversal setup. Positioning reflects macro risk-off without the extremity that typically precedes mean reversion."
+  "brief": "Crypto markets remain in macro downtrend with BTC below its 200-day moving average, confirming BEAR cycle phase. Fear and Greed sits at 11, signaling extreme risk aversion. Both BTC and alts trade within normal volatility ranges\u2014no acceleration lower, no capitulation signal. This is grinding bear positioning without structural breakdown: the market is consolidating losses without panic or hedging desperation.\n\nETH and SOL show mild underperformance versus BTC (z-scores -0.87 and -1.27 respectively), consistent with risk-off flows into dominance. With funding data unavailable and no sign of forced liquidation cascades, the setup remains BEAR but orderly. No actionable dislocation between derivatives positioning and on-chain fundamentals. Hold positioning; monitor for either renewed downside acceleration or mean-reversion relief."
 }
