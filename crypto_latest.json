@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T08:24:53.683245+00:00",
+  "generated_at": "2026-06-03T08:28:21.970759+00:00",
   "btc": {
     "price": 71360.3252,
     "return_5d_pct": -4.02,
@@ -58,12 +58,12 @@
     "quadrant": "BUSINESS_AS_USUAL"
   },
   "market_structure": {
-    "btc_dominance_pct": 55.94,
-    "eth_dominance_pct": 9.41,
+    "btc_dominance_pct": 55.92,
+    "eth_dominance_pct": 9.42,
     "btc_dominance_trend": "neutral",
-    "total_market_cap_bn": 2398.8,
-    "stablecoin_market_cap_bn": 263.5,
-    "stablecoin_dominance_pct": 10.98,
+    "total_market_cap_bn": 2399.2,
+    "stablecoin_market_cap_bn": 263.8,
+    "stablecoin_dominance_pct": 11.0,
     "eth_btc_ratio": 0.028074,
     "eth_btc_zscore": -0.87,
     "sol_btc_ratio": 0.001137,
