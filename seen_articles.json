@@ -1,23 +1,40 @@
-[
-  {
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260527~92140c5054.en.html",
-    "title": "Financial stability vulnerabilities remain elevated as geoeconomic shock unfolds",
-    "source": "ECB Press",
-    "relevance": "ECB explicit warning on systemic vulnerabilities during geoeconomic stress; critical for credit-equity dislocation monitoring in elevated-risk regime.",
-    "surfaced_at": "2026-05-27T08:51:28.969639+00:00"
-  },
-  {
-    "url": "https://www.marketwatch.com/story/swiss-national-bank-cuts-interest-rates-by-a-half-point-to-0-5-ed1fce78?mod=mw_rss_realtimeheadlines",
-    "title": "Swiss National Bank cuts interest rates by a half point to 0.5%",
-    "source": "MarketWatch",
-    "relevance": "Central bank easing decision with direct credit and liquidity implications during elevated geoeconomic stress backdrop.",
-    "surfaced_at": "2026-06-01T20:00:10.426589+00:00"
-  },
-  {
-    "url": "https://www.marketwatch.com/story/feds-powell-says-rate-cut-on-the-table-as-soon-as-september-f3f7c8f2?mod=mw_rss_realtimeheadlines",
-    "title": "Fed's Powell says rate cut 'on the table' as soon as September",
-    "source": "MarketWatch",
-    "relevance": "Forward guidance signalling potential Fed easing; tests thesis that credit markets may be underpricing recession risk if cuts arrive.",
-    "surfaced_at": "2026-06-01T20:00:10.426589+00:00"
-  }
-]
+{
+  "surfaced": [
+    {
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260527~92140c5054.en.html",
+      "title": "Financial stability vulnerabilities remain elevated as geoeconomic shock unfolds",
+      "source": "ECB Press",
+      "relevance": "ECB explicit warning on systemic vulnerabilities during geoeconomic stress; critical for credit-equity dislocation monitoring in elevated-risk regime.",
+      "surfaced_at": "2026-05-27T08:51:28.969639+00:00"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/swiss-national-bank-cuts-interest-rates-by-a-half-point-to-0-5-ed1fce78?mod=mw_rss_realtimeheadlines",
+      "title": "Swiss National Bank cuts interest rates by a half point to 0.5%",
+      "source": "MarketWatch",
+      "relevance": "Central bank easing decision with direct credit and liquidity implications during elevated geoeconomic stress backdrop.",
+      "surfaced_at": "2026-06-01T20:00:10.426589+00:00"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/feds-powell-says-rate-cut-on-the-table-as-soon-as-september-f3f7c8f2?mod=mw_rss_realtimeheadlines",
+      "title": "Fed's Powell says rate cut 'on the table' as soon as September",
+      "source": "MarketWatch",
+      "relevance": "Forward guidance signalling potential Fed easing; tests thesis that credit markets may be underpricing recession risk if cuts arrive.",
+      "surfaced_at": "2026-06-01T20:00:10.426589+00:00"
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
+      "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "source": "Federal Reserve",
+      "relevance": "Termination of Credit Suisse enforcement actions signals regulatory confidence in systemic stress resolution and banking stability post-crisis.",
+      "surfaced_at": "2026-06-03T16:48:44.609843+00:00"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/step-aside-private-credit-partners-group-first-private-equity-fund-gate-investors",
+      "title": "Partners Group Is First Private Equity Fund To Gate Investors",
+      "source": "ZeroHedge",
+      "relevance": "Private equity redemption gates and liquidity restrictions indicate emerging funding market stress not yet visible in credit spreads.",
+      "surfaced_at": "2026-06-03T16:48:44.609843+00:00"
+    }
+  ],
+  "rejected": []
+}
