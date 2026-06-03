@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T08:31:24.073307+00:00",
+  "generated_at": "2026-06-03T08:33:51.281501+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "NO_ACTION",
@@ -15,5 +15,5 @@
   "eth_decel_grade": null,
   "sol_decel_grade": null,
   "fear_greed": 11,
-  "brief": "Bitcoin remains in established downtrend below its 200-day moving average, with macro cycle positioning in BEAR phase. Fear and Greed at 11 reflects capitulation sentiment. Market structure shows normal conditions: no extreme funding dislocations, no rotation signals at institutional scale, and risk appetite metrics (SOL/BTC at -1.27 z-score) reflecting orderly deleveraging rather than panic liquidation.\n\nThe death cross on the 200d MA anchors the bear thesis. Absence of funding extremes and the muted drawdown magnitudes (BTC -4% over 5d, near normal volatility) mean this is managed correction within an established regime, not setup for tactical dislocation trades. No action warranted until cycle structure or funding dynamics shift materially."
+  "brief": "BTC remains in a macro downtrend, trading below its 200-day moving average with a death cross confirmed. The BEAR cycle phase is intact. However, market structure shows normal conditions: no extreme funding dislocations, altcoin ratios tracking logically to risk-off positioning, and stablecoin dominance at 11% indicating measured liquidation rather than panic. Fear and Greed at 11 reflects sentiment pessimism, not capitulation.\n\nETH and SOL underperformance versus BTC is orderly, with z-scores of -0.87 and -1.27 respectively\u2014proportional to a risk-off regime rather than structural dislocation. Funding data is unavailable, preventing assessment of derivatives extremes. The setup lacks the asymmetry needed for action: bear cycle without panic, fear without forced selling."
 }
