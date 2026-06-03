@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-02",
-  "generated_at": "2026-06-02T09:26:36.368839+00:00",
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T07:01:30.837482+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "NO_ACTION",
@@ -8,12 +8,12 @@
   "composite_description": "BEAR cycle with normal conditions -- nothing to do",
   "corroboration": "NONE",
   "matrix_key": "BEAR x BUSINESS_AS_USUAL",
-  "btc_dislocation_score": 47.2,
-  "eth_dislocation_score": 34.8,
-  "sol_dislocation_score": 33.1,
+  "btc_dislocation_score": 51.7,
+  "eth_dislocation_score": 29.9,
+  "sol_dislocation_score": 32.0,
   "btc_decel_grade": null,
   "eth_decel_grade": null,
   "sol_decel_grade": null,
-  "fear_greed": 23,
-  "brief": "Bitcoin remains in a structural bear cycle, trading below its 200-day moving average with a death cross signal intact. The market is in BEAR x BUSINESS_AS_USUAL regime\u2014downtrend conditions but without extreme stress or panic signals. No action warranted at current positioning.\n\nFear and Greed at 23 reflects cautious sentiment, yet altcoin underperformance (ETH and SOL both negative vs BTC on a relative basis) and elevated Bitcoin dominance at 56.3% suggest orderly deleveraging rather than capitulation. Funding data unavailable, but the absence of extreme readings across major assets combined with moderate 5-day drawdowns indicates this is a grinding bear phase, not an inflection point."
+  "fear_greed": 11,
+  "brief": "# Morning Brief \u2014 2026-06-03\n\nBitcoin's macro downtrend remains intact with price below the 200-day MA, placing us in confirmed BEAR cycle phase. The market structure is BUSINESS_AS_USUAL: no extreme dislocations, no panic signals. Fear and Greed sits at 11, reflecting capitulation sentiment, but absent are the derivative conditions that would trigger accumulation setup \u2014 funding rates unavailable for analysis. Bitcoin dominance stable at 56%; ETH and SOL underperforming on relative weakness but without institutional rotation urgency.\n\nThe absence of actionable dislocation stems from alignment: bearish technicals match bearish sentiment. ETH and SOL show mild institutional underweighting (-0.87 and -1.27 z-scores respectively), yet both remain in normal quadrant territory. This is a holding pattern, not a reversal setup. Positioning reflects macro risk-off without the extremity that typically precedes mean reversion."
 }
