@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T08:00:02.602673+00:00",
+  "generated_at": "2026-06-03T08:25:36.380158+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "NO_ACTION",
@@ -15,5 +15,5 @@
   "eth_decel_grade": null,
   "sol_decel_grade": null,
   "fear_greed": 11,
-  "brief": "BTC remains in a macro downtrend with price below the 200-day moving average and funding data unavailable\u2014a structural bear phase marked by normal volatility rather than crisis conditions. ETH and SOL show mild underperformance versus BTC on institutional and risk-appetite metrics, but nothing extreme. The Fear and Greed index at 11 reflects depressed sentiment, yet no dislocation is present between derivatives positioning and on-chain flow. This is a BEAR cycle operating in BUSINESS_AS_USUAL quadrant.\n\nThe death cross on BTC and absence of altcoin rotation confirm the regime. Stablecoin dominance holding steady at 11 percent\u2014neither spiking nor collapsing\u2014shows patient positioning rather than panic or capitulation. No actionable opportunity emerges from this setup."
+  "brief": "Bitcoin trades below its 200-day moving average in a confirmed downtrend, establishing the BEAR cycle phase with high confidence. The composite signal is NO_ACTION: this is a bear market operating within normal parameters. No dislocations between derivatives sentiment and fundamental structure warrant tactical positioning. Fear and Greed at 11 reflects expected pessimism during a macro decline.\n\nAltcoin underperformance against Bitcoin (ETH/BTC and SOL/BTC both negative z-scores near -1) confirms risk-off positioning without panic acceleration. Funding rate data unavailable limits precision on leverage extremes, but observable price action\u2014modest 5-day drawdowns across major assets\u2014shows orderly deleveraging rather than cascading liquidation. Stablecoin dominance at 11% suggests measured capital preservation rather than flight-to-safety panic."
 }
