@@ -1,4 +1,130 @@
 {
-  "surfaced": [],
-  "rejected": []
+  "surfaced": [
+    {
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue 'recovery tokens' in wake of $295m hack",
+      "source": "DL News",
+      "what_moved": "Drift protocol hack: $295 million loss; recovery token issuance announced",
+      "surfaced_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
+      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
+      "source": "DL News",
+      "what_moved": "$42 million UNI governance tokens recalled from delegates via DAO vote",
+      "surfaced_at": "2026-06-04T13:58:35.133301+00:00"
+    }
+  ],
+  "rejected": [
+    {
+      "title": "Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Tom Lee\u2019s $250,000 ether target: Here\u2019s what math says about this crazy prediction",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Ripple-linked XRP sinks 7% to four-month lows",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH), up 1.5%, is only gainer",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Strategy's Saylor's explanation for bitcoin's slide isn't what bears think",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Live markets: Bitcoin plunges, HYPE falls, NEAR gets demolished as crypto deals with a wipe out",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Moomoo expands into prediction markets through Kalshi partnership",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network",
+      "source": "The Block",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Cosmos Labs acquires block explorer Mintscan, forms Korea subsidiary to expand ecosystem",
+      "source": "The Block",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Immunefi says DeFi is \u2018getting safer\u2019 as exploit losses fall 74% from 2022 peak amid AI-driven security arms race",
+      "source": "The Block",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Coinbase and Better fund first bitcoin-backed mortgage, plan nationwide rollout soon",
+      "source": "The Block",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "\u2018When the market offers discounts, we lean in\u2019: DDC Enterprise lifts bitcoin holdings to 2,804 BTC",
+      "source": "The Block",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "\u2018The power landlords of AI\u2019: Bernstein initiates coverage on bitcoin miners TeraWulf and Cipher Digital, sees ninefold AI revenue by 2030",
+      "source": "The Block",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "\u2018The low is almost in\u2019: Standard Chartered says bitcoin bottom near after tough week for crypto",
+      "source": "The Block",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Coinbase launches pre-IPO perpetual futures, starting with SpaceX",
+      "source": "The Block",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    },
+    {
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-04T13:58:35.133301+00:00"
+    }
+  ]
 }
