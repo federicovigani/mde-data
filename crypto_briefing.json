@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T05:06:18.614559+00:00",
+  "generated_at": "2026-06-04T07:23:41.765903+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "BUY",
@@ -8,12 +8,29 @@
   "composite_description": "BEAR cycle with DISLOCATION -- highest-conviction setup, derivatives crowded short but no fundamental break",
   "corroboration": "BTC_ONLY",
   "matrix_key": "BEAR x CRYPTO_DISLOCATION",
-  "btc_dislocation_score": 63.1,
-  "eth_dislocation_score": 39.2,
-  "sol_dislocation_score": 45.8,
-  "btc_decel_grade": null,
-  "eth_decel_grade": null,
-  "sol_decel_grade": null,
+  "btc_dislocation_score": 48.7,
+  "eth_dislocation_score": 28.0,
+  "sol_dislocation_score": 64.0,
+  "btc_decel_grade": "BULLISH",
+  "eth_decel_grade": "BULLISH",
+  "sol_decel_grade": "BULLISH",
   "fear_greed": 12,
-  "brief": "BTC is deep in a macro downtrend\u2014price below 200d MA, 9.4% lower over five days, and Fear & Greed at 12 signals capitulation. The setup qualifies as BEAR/CRYPTO_DISLOCATION: derivatives data unavailable, but the absence of fresh funding extremes alongside a -3.9% overnight decline and sustained technical breakdown argues this is forced liquidation and retail panic rather than structural repositioning. Altcoins (ETH, SOL) tracking BTC weakness without relative outperformance confirms risk-off, not selective deleveraging.\n\nThe highest-conviction signal is the **extreme fear reading (12/100)** paired with **absence of crowded derivative shorts**\u2014if shorts were truly packed, we would see violent recovery on any bounce. Instead, capitulation feels genuine and unhedged. ETH and SOL's underperformance (z-scores near -1) suggests institutional rotation is modest; the break is broad and indiscriminate. Dislocation thesis holds only if fundamentals (adoption, flow) remain intact through this drawdown."
+  "brief": "Bitcoin trades below its 200-day moving average in a confirmed downtrend, yet derivative positioning reveals extreme short crowding\u2014funding rates remain elevated (7.83% annualized) despite zero-to-negative deceleration signals across BTC, ETH, and SOL. This is the dislocation setup: bearish cycle phase paired with overextended shorts betting on further breakdown. BTC dominance at 55.52% and Fear & Greed at 12 suggest capitulation momentum, not fundamental deterioration.\n\nOvernight weakness was sharp\u2014BTC down 4.8% intraday to $63,474, extending the 5-day decline to -9.37%\u2014but funding deceleration across all three major assets points to short exhaustion rather than new sellers entering. SOL's negative funding (-8.92% annualized) with -1.73 z-score is particularly notable: pessimism has compressed into a tight, vulnerable pocket.",
+  "outliers": [
+    {
+      "ticker": "NEAR",
+      "name": "NEAR Protocol",
+      "tier": 2,
+      "return_1d_pct": -14.17,
+      "price": 2.43,
+      "basket_median": -5.72,
+      "divergence": -8.45,
+      "threshold": 8.0,
+      "direction": "DOWN",
+      "catalyst_type": "UNKNOWN",
+      "catalyst_summary": "Oracle call failed",
+      "confidence": "LOW",
+      "source_hint": ""
+    }
+  ]
 }
