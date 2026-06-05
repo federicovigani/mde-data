@@ -34,6 +34,20 @@
       "source": "The Block",
       "what_moved": "Critical bug enabling unlimited ZEC minting discovered; 31% price drop; fix deployed within days",
       "surfaced_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP",
+      "source": "The Block",
+      "what_moved": "BTC ETFs ended 13-day outflow streak with $3M inflows; ETH ETFs broke 17-day streak",
+      "surfaced_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak",
+      "title": "U.S. bitcoin, ether ETFs end record multibillion outflow streak",
+      "source": "CoinDesk",
+      "what_moved": "BTC and ETH ETF outflow streaks ended after record multibillion-dollar cumulative outflows",
+      "surfaced_at": "2026-06-05T13:52:51.656669+00:00"
     }
   ],
   "rejected": [
@@ -466,6 +480,101 @@
       "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
       "source": "DL News",
       "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "CME CEO Duffy says new perpetual futures could be \u2018disaster waiting to happen\u2019",
+      "source": "The Block",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million",
+      "source": "The Block",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
+      "source": "The Block",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Grayscale says bitcoin needs other buyers to find a \u2018sustainable bottom\u2019 amid Strategy BTC sale",
+      "source": "The Block",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "South Korean police investigate local Polymarket users on illegal gambling charges: report",
+      "source": "The Block",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds",
+      "source": "The Block",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "CoinDesk 20 performance update: Bitcoin (BTC) price drops 2.8% as index declines",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "U.S. job growth blows past forecasts, setting stage for Fed rate hikes",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Live updates: bitcoin below $62,000 as blowout jobs data, Zcash bug keeps pressure on crypto",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Bitcoin sentiment hit peak bearishness at recent lows, peak bullishness near tops",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "JPMorgan, Bank of America, Citi to start blockchain offensive with shared tokenized network",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
+    },
+    {
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-05T13:52:51.656669+00:00"
     }
   ]
 }
