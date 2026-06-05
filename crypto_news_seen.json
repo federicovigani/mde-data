@@ -27,6 +27,13 @@
       "source": "The Block",
       "what_moved": "$4.2B in spot BTC ETF outflows, Strategy $BTC sale, Bitcoin -14% weekly to $62K",
       "surfaced_at": "2026-06-05T00:08:49.319886+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&utm_medium=rss",
+      "title": "Zcash vulnerability allowing 'unlimited' counterfeit minting; ZEC drops 31%",
+      "source": "The Block",
+      "what_moved": "Critical bug enabling unlimited ZEC minting discovered; 31% price drop; fix deployed within days",
+      "surfaced_at": "2026-06-05T08:43:44.309359+00:00"
     }
   ],
   "rejected": [
@@ -354,6 +361,111 @@
       "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
       "source": "DL News",
       "seen_at": "2026-06-05T00:08:49.319886+00:00"
+    },
+    {
+      "title": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds",
+      "source": "The Block",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
+      "source": "The Block",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "White House crypto adviser Witt defends Clarity Act, calls it \u2018pro-law enforcement\u2019 as lawmakers race to pass bill",
+      "source": "The Block",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Ether.fi allocates $100 million to a Plume RWA vault, giving users access to yield",
+      "source": "The Block",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Chainalysis says \u2018top-tier\u2019 gray market peptide vendors turn to bitcoin and stablecoins",
+      "source": "The Block",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "JPMorgan says crypto bill may have only a narrow window for passage this year",
+      "source": "The Block",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Senate Republicans urged financial regulators to rework bank capital rules for digital assets",
+      "source": "The Block",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Here's what could happen if bitcoin breaks below $60,000",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Hyperliquid pulls back from record highs as Arthur Hayes exits position shy of $150 price target",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
+    },
+    {
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-05T08:43:44.309359+00:00"
     }
   ]
 }
