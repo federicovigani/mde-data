@@ -90,6 +90,13 @@
       "source": "The Block",
       "what_moved": "110,000 ETH collateral repositioned; $259M DAI debt liquidation risk flagged",
       "surfaced_at": "2026-06-06T18:06:01.822500+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets?utm_source=rss&utm_medium=rss",
+      "title": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets",
+      "source": "The Block",
+      "what_moved": "Hyperion DeFi unwinding $29M HYPE positions; stablecoin USDH sunsetting; 800k HYPE returning to treasury",
+      "surfaced_at": "2026-06-07T08:23:35.318554+00:00"
     }
   ],
   "rejected": [
@@ -248,6 +255,18 @@
       "title": "Michael Saylor\u2019s rallying cry: Bitcoin needs four forces to win",
       "source": "CoinDesk",
       "seen_at": "2026-06-06T18:06:01.822500+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&utm_medium=rss",
+      "title": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses",
+      "source": "The Block",
+      "seen_at": "2026-06-07T08:23:35.318554+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
+      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-07T08:23:35.318554+00:00"
     }
   ]
 }
