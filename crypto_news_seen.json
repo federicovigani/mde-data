@@ -104,45 +104,16 @@
       "source": "The Block",
       "what_moved": "JPMorgan flags Strategy reserve adequacy risk; Clarity Act passage probability <50% this year",
       "surfaced_at": "2026-06-07T18:05:35.369669+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss",
+      "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
+      "source": "The Block",
+      "what_moved": "Strategy, Bitmine treasuries see paper gains evaporate as prices slide; billions in losses",
+      "surfaced_at": "2026-06-08T00:09:23.957395+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
-      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-06T18:06:01.822500+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
-      "title": "America\u2019s largest banks are building a new digital currency network to stop a massive deposit drain",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-06T18:06:01.822500+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-06T18:06:01.822500+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
-      "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-06T18:06:01.822500+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool",
-      "title": "A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-06T18:06:01.822500+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win",
-      "title": "Michael Saylor\u2019s rallying cry: Bitcoin needs four forces to win",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-06T18:06:01.822500+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&utm_medium=rss",
       "title": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses",
@@ -196,6 +167,54 @@
       "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
       "source": "CoinDesk",
       "seen_at": "2026-06-07T18:05:35.369669+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&utm_medium=rss",
+      "title": "NY judge stays lawsuit seeking ownership of nearly 40,000 bitcoin wallets, sets July hearing on proposed amicus brief",
+      "source": "The Block",
+      "seen_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
+      "title": "A quick review of the Ways and Means tax bills: State of Crypto",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-08T00:09:23.957395+00:00"
     }
   ]
 }
