@@ -1,18 +1,18 @@
 {
-  "week_ending": "2026-05-30",
-  "week_starting": "2026-05-26",
+  "week_ending": "2026-06-06",
+  "week_starting": "2026-06-02",
   "quadrant_arc": "BUSINESS AS USUAL: 5 days",
-  "narrative": "The week held in a consistent business-as-usual regime throughout, with no meaningful intraweek stress event to interpret. The stability appears genuine rather than fragile - scores stayed low and clustered, with no mid-week spike that later faded, which is the pattern that would suggest suppressed tension rather than true calm. For the dislocation thesis, this kind of quiet week offers little entry opportunity but also no reason to reduce positioning.\n\nHY spreads moved in a tight band across the week, opening and closing within a few basis points of each other, suggesting credit was not driving any narrative. VIX behaviour was consistent with the low-stress readings in equity space, and there was no divergence between credit and equity at any point this week that would indicate a developing dislocation.\n\nWMT appeared on the deep value screen on three of the five sessions, each time with an uncertain verdict. The repetition without resolution is worth noting - it may reflect a valuation that keeps brushing a threshold without a clean signal, and warrants watching for a clearer directional read before treating it as actionable.\n\nWhat is happening this week\n\nJune 1st, Monday:\n\n* ISM Manufacturing PMI: watch whether a sub-50 print begins to widen IG spreads ahead of NFP, which would suggest credit is starting to price a slowdown that equities are not yet reflecting - a potential setup for the thesis.\n\nJune 5th, Thursday:\n\n* US Non-Farm Payrolls: the key question for the regime is whether a weak number tightens or widens HY spreads - a tightening response would suggest the market is pricing rate cuts as the dominant force, while a widening response would indicate credit stress is beginning to lead equity, which changes the dislocation calculus materially.",
+  "narrative": "The week held in business-as-usual territory throughout, but the modest drift higher in the daily score toward Friday is worth noting as a structural tell rather than noise. The pattern suggests the regime is stable at the surface but not deeply anchored - the incremental score widening without a catalyst implies some passive accumulation of latent stress rather than a clean, conviction-driven calm. For the dislocation thesis, this kind of quiet creep is more interesting than a spike because it can precede a regime shift without announcing itself.\n\nHY spreads moved from 271bp to 280bp across the week, a roughly 9bp widening that, while modest in absolute terms, represents a directional drift that warrants watching against current percentile context. VIX, if it followed equities without reflecting the spread move, would represent a mild divergence - credit leading equity volatility higher is precisely the setup where the dislocation framework earns its keep. The week ended with credit slightly softer and any equity composure at the close should be read as a lag, not a contradiction.\n\n- CL: appeared mid-week across two consecutive sessions, flagged as deep value - worth examining whether the repeat flag reflects genuine fundamental cheapness or a data artifact given the unchanged score environment those days.\n- WELL: appeared earlier in the week in isolation - single-session appearance limits conviction but the healthcare REIT space deserves monitoring if credit continues to drift.\n- HON: appeared on the final session alongside the week's highest stress reading - the timing of this flag at the top of the weekly score range gives it slightly more weight than the others as a potential leading indicator.\n\nWhat is happening this week\n\nJune 11th, Thursday:\n\n* ECB rate decision: the key question is whether the Governing Council signals a pause or opens the door to further cuts, and how EUR IG spreads react in the hours after - a dovish surprise could tighten European credit and create a temporary divergence from the mild HY widening trend seen this week, which would be a false signal to filter out.\n\n* US CPI: with HY spreads already drifting higher on no obvious macro trigger, a hot print could provide the catalyst that converts this week's passive score creep into a sharper regime move - watch for whether HY spread reaction is proportionate to the equity vol response or leads it.",
   "earnings": [],
   "events": [
     {
-      "name": "ISM Manufacturing PMI",
-      "date": "2026-06-01",
-      "type": "DATA"
+      "name": "ECB",
+      "date": "2026-06-11",
+      "type": "CB"
     },
     {
-      "name": "US NFP",
-      "date": "2026-06-05",
+      "name": "US CPI",
+      "date": "2026-06-11",
       "type": "DATA"
     }
   ],
