@@ -125,6 +125,27 @@
       "source": "The Block",
       "what_moved": "Zcash vulnerability resolved via emergency Orchard shielded pool upgrade; ZEC rebounds 42%",
       "surfaced_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403981/bitmine-adds-127000-ether-bringing-treasury-to-5-54-million-eth-as-tom-lee-calls-crypto-selloff-superficial?utm_source=rss&utm_medium=rss",
+      "title": "Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff 'superficial'",
+      "source": "The Block",
+      "what_moved": "Bitmine purchased 126,971 ETH (~$207M) during 30% drawdown from April highs",
+      "surfaced_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403944/michael-saylor-strategy-buys-more-bitcoin-after-small-sale?utm_source=rss&utm_medium=rss",
+      "title": "Michael Saylor's Strategy buys another 1,550 bitcoin for $101 million after small sale as total holdings rise to 845,256 BTC",
+      "source": "The Block",
+      "what_moved": "Strategy resumed BTC accumulation after prior sale; bought 1,550 BTC (~$101M) in BEAR phase drawdown",
+      "surfaced_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404013/spot-bitcoin-etfs-log-1-7-billion-in-weekly-outflows-largest-since-february-2025",
+      "title": "Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025",
+      "source": "The Block",
+      "what_moved": "Spot BTC ETF weekly outflows of $1.7B; largest since Feb 2025 during price decline to below $61k",
+      "surfaced_at": "2026-06-08T14:49:46.652156+00:00"
     }
   ],
   "rejected": [
@@ -265,6 +286,90 @@
       "title": "Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash",
       "source": "CoinDesk",
       "seen_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403992/ton-strategy-may-staking-3-3-million-network-upgrades-effect?utm_source=rss&utm_medium=rss",
+      "title": "TON Strategy\u2019s May staking haul tops 3.3 million TON as network upgrades take effect",
+      "source": "The Block",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&utm_medium=rss",
+      "title": "Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump",
+      "source": "The Block",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403865/metamask-debuts-agent-wallet-giving-ai-bots-self-custody-access-ethereum?utm_source=rss&utm_medium=rss",
+      "title": "MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum",
+      "source": "The Block",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403964/coinbase-ripple-among-over-200-crypto-organizations-urging-senate-clarity-act-vote?utm_source=rss&utm_medium=rss",
+      "title": "Coinbase, Ripple among over 200 crypto organizations urging Senate Clarity Act vote",
+      "source": "The Block",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403957/uk-fca-proposes-allowing-authorized-funds-to-allocate-up-to-10-to-crypto-etns?utm_source=rss&utm_medium=rss",
+      "title": "UK FCA proposes allowing authorized funds to allocate up to 10% to crypto ETNs",
+      "source": "The Block",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403950/bernstein-says-bitcoins-boring-cycle-doesnt-undermine-store-of-value-thesis-despite-2-6b-etf-outflows-in-2026?utm_source=rss&utm_medium=rss",
+      "title": "Bernstein says bitcoin\u2019s \u2018boring cycle\u2019 doesn\u2019t undermine store-of-value thesis despite $2.6B ETF outflows in 2026",
+      "source": "The Block",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/blame-bitcoin-s-tumble-on-rising-inflation-not-strategy-10xresearch-argues",
+      "title": "Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/08/coindesk-20-performance-update-near-gains-12-3-as-almost-all-assets-trade-higher",
+      "title": "CoinDesk 20 performance update: NEAR gains 12.3% as almost all assets trade higher",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/08/metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades",
+      "title": "MetaMask launches AI agent wallet with built-in security for crypto trades",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/07/bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanked",
+      "title": "Bitmine bought the dip, making its biggest ether purchase in 2026 as prices tanked",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/strategy-buys-1-550-bitcoin-boosts-cash-reserves-to-usd1-billion",
+      "title": "Strategy buys 1,550 bitcoin, first time since selling $2.5 million worth of BTC",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/08/live-updates-bitcoin-above-usd63-400-as-strategy-adds-usd100-million-btc-in-latest-purchase",
+      "title": "Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/a-crucial-bitcoin-market-indicator-is-signaling-that-the-worst-of-the-crypto-crash-might-be-over",
+      "title": "A crucial bitcoin market indicator is signaling that the worst of the crypto crash might be over",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/bybit-launches-tokenized-ipo-service-starting-with-elon-musk-s-spacex",
+      "title": "Bybit challenges Wall Street with a massive push into tokenized U.S. stock IPOs",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T14:49:46.652156+00:00"
     }
   ]
 }
