@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T05:06:17.503092+00:00",
+  "generated_at": "2026-06-08T09:55:51.925601+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "BUY",
@@ -16,6 +16,22 @@
   "eth_zscore": -2.803,
   "sol_zscore": -2.959,
   "fear_greed": 8,
-  "brief": "Signal: Buy on sharp drawdown in bear market; expect 60d edge, near-term volatility.\n\nAll three assets\u2014BTC, ETH, SOL\u2014register deep drawdowns (z < \u20132.8), confirming the signal. We are in BEAR phase (below 200d MA, high confidence). Backtest on 84 comparable days yields median +0.5% at 7d, \u20131.1% at 14d, \u20130.5% at 30d, then +5.0% at 60d. The 60d edge is solid; near-term is noisy. Position sizing should reflect this asymmetry. Fear & Greed at 8 is extreme; funding rate (\u20136.8% annualized) shows capitulation but carries no predictive edge at 14d/30d per backtest.\n\nSupporting data: BTC's 5d z-score of \u20133.02 and ETH's \u20132.80 both exceed the deep-drawdown threshold. Total market cap at $2.24T and BTC dominance stable at 56.1% suggest broad liquidation rather than selective weakness. Expect consolidation risk through the second and third weeks; conviction builds after day 40 if the bear structure holds.",
-  "outliers": []
+  "brief": "**SIGNAL & EXPECTATION**\n\nComposite reads BUY on BEAR x DEEP\u2014sharp five-day drawdown (-14.7% to -23.4% across BTC, ETH, SOL) at extreme z-scores (-2.80 to -3.02) within established bear market. Framework validates all three assets confirm the move. Backtest on 84 prior BEAR-phase deep-drawdown days shows the 7d/14d/30d forward returns are noisy (+0.5%, -1.1%, -0.5% medians respectively), with meaningful edge only extending to 60d (+5.0%). Near-term unpredictability is structural to bear-market recoveries.\n\n**SUPPORTING CONTEXT**\n\nFunding rates negative (shorts paying -6.8% annualized) suggest some liquidation relief; Fear & Greed at 8 indicates capitulation sentiment. Bitcoin dominance stable at 56.3% with total market cap at $2.25T. The signal's honest read: do not expect directional confidence through end of week. Position sizing should reflect 60d horizon as the reliable inflection point, not intraweek noise.",
+  "outliers": [
+    {
+      "ticker": "NEAR",
+      "name": "NEAR Protocol",
+      "tier": 2,
+      "return_1d_pct": 13.33,
+      "price": 2.16,
+      "basket_median": 1.06,
+      "divergence": 12.27,
+      "threshold": 12.0,
+      "direction": "UP",
+      "catalyst_type": "NOISE",
+      "catalyst_summary": "No identifiable fundamental catalyst detected for NEAR's +13.3% outperformance.",
+      "confidence": "MEDIUM",
+      "source_hint": "Significant divergence from peer basket warrants monitoring for delayed news or derivatives positioning flows."
+    }
+  ]
 }
