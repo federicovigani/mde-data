@@ -146,51 +146,23 @@
       "source": "The Block",
       "what_moved": "Spot BTC ETF weekly outflows of $1.7B; largest since Feb 2025 during price decline to below $61k",
       "surfaced_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404025/michael-saylor-strategy-buys-another-1550-bitcoin",
+      "title": "Michael Saylor's Strategy buys another 1,550 bitcoin for $101 million after small sale as total holdings rise to 845,256 BTC",
+      "source": "The Block",
+      "what_moved": "Strategy accumulates 1,550 BTC (~$101M) during BEAR drawdown phase",
+      "surfaced_at": "2026-06-08T19:22:08.432002+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404026/bitmine-adds-127000-ether",
+      "title": "Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff 'superficial'",
+      "source": "The Block",
+      "what_moved": "Bitmine accumulates 127,000 ETH during BEAR drawdown; treasury now 5.54M ETH",
+      "surfaced_at": "2026-06-08T19:22:08.432002+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/403900/michael-saylor-signals-fresh-bitcoin-buy-with-add-more-dots-post-as-strategy-sits-11-7-billion-underwater?utm_source=rss&utm_medium=rss",
-      "title": "Michael Saylor hints at fresh bitcoin buy with \u2018add more dots\u2019 post as Strategy sits $11.7 billion underwater",
-      "source": "The Block",
-      "seen_at": "2026-06-07T18:05:35.369669+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/403893/bybit-follows-kraken-in-offering-tokenized-spacex-ipo-access-via-xstocks?utm_source=rss&utm_medium=rss",
-      "title": "Bybit follows Kraken in offering tokenized SpaceX IPO access via xStocks",
-      "source": "The Block",
-      "seen_at": "2026-06-07T18:05:35.369669+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows",
-      "title": "Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-07T18:05:35.369669+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different",
-      "title": "Bitcoin near $60,000 today vs February: Institutional sentiment has flipped",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-07T18:05:35.369669+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-s-slide-has-no-single-cause-ai-tech-ipos-quantum-strategy-sale-all-play-a-role-nydig-says",
-      "title": "Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-07T18:05:35.369669+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
-      "title": "Abra\u2019s Bill Barhydt says Wall Street\u2019s next crypto bet is tokenization",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-07T18:05:35.369669+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
-      "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-07T18:05:35.369669+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&utm_medium=rss",
       "title": "NY judge stays lawsuit seeking ownership of nearly 40,000 bitcoin wallets, sets July hearing on proposed amicus brief",
@@ -370,6 +342,48 @@
       "title": "Bybit challenges Wall Street with a massive push into tokenized U.S. stock IPOs",
       "source": "CoinDesk",
       "seen_at": "2026-06-08T14:49:46.652156+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404024/citrini-hyperliquid-legitimate-cash-flow-token-buyback-compelling-investment?utm_source=rss&utm_medium=rss",
+      "title": "Citrini says Hyperliquid\u2019s legitimate cash flow, token buyback strategy make for \u2018compelling\u2019 investment",
+      "source": "The Block",
+      "seen_at": "2026-06-08T19:22:08.432002+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404019/coinbase-strategist-institutions-arent-panicking-bitcoin-love-more-lower-prices?utm_source=rss&utm_medium=rss",
+      "title": "Coinbase strategist says institutions aren\u2019t panicking about bitcoin, \u2018love it even more\u2019 at lower prices",
+      "source": "The Block",
+      "seen_at": "2026-06-08T19:22:08.432002+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404010/strategy-shareholders-approve-semi-monthly-dividends-strc-preferred-stock?utm_source=rss&utm_medium=rss",
+      "title": "Strategy shareholders approve semi-monthly dividends for STRC preferred stock",
+      "source": "The Block",
+      "seen_at": "2026-06-08T19:22:08.432002+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea",
+      "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T19:22:08.432002+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/08/sam-bankman-fried-officially-asks-donald-trump-for-a-presidential-pardon",
+      "title": "Sam Bankman-Fried officially asks Trump for a presidential pardon",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T19:22:08.432002+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/08/europe-s-strict-new-crypto-rules-are-crushing-small-startups-ledger-cto-says",
+      "title": "The startup killer: Ledger CTO says the EU's crushing compliance costs are choking Web3 innovation",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T19:22:08.432002+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
+      "title": "Aave chief defends protocol's 'resilience' after $8.45 billion bank run",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T19:22:08.432002+00:00"
     }
   ]
 }
