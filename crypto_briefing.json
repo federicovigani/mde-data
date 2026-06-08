@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-07",
-  "generated_at": "2026-06-07T05:06:13.300982+00:00",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T05:06:17.503092+00:00",
   "cycle_phase": "BEAR",
   "cycle_confidence": "high",
   "composite_action_code": "BUY",
@@ -12,10 +12,10 @@
   "btc_drawdown_tier": "DEEP",
   "eth_drawdown_tier": "DEEP",
   "sol_drawdown_tier": "DEEP",
-  "btc_zscore": -3.612,
-  "eth_zscore": -2.767,
-  "sol_zscore": -2.934,
-  "fear_greed": 12,
-  "brief": "SIGNAL: BUY | BEAR \u00d7 DEEP DRAWDOWN\n\nAll three major assets have fallen into deep drawdown territory (BTC z-score -3.61, ETH -2.77, SOL -2.93) within an established bear market regime. This configuration\u2014sharp drawdowns during downtrends\u2014historically shows noisy near-term behavior but a solid 60-day edge. Backtest median returns: +0.5% at 7d, -1.1% at 14d, -0.5% at 30d, +5.0% at 60d across 84 comparable bear-phase days. Positioning size accordingly reflects the elevated uncertainty in the 14\u201330d window.\n\nBTC dominance sits at 56%, with stablecoins at 11.9% of total mcap. Funding rates are slightly inverted (-5.9% annualized), adding minor bearish texture but not altering the drawdown signal. Fear & Greed at 12 reflects capitulation sentiment consistent with the depth of the move. The 60-day horizon offers the most reliable edge in this configuration.",
+  "btc_zscore": -3.019,
+  "eth_zscore": -2.803,
+  "sol_zscore": -2.959,
+  "fear_greed": 8,
+  "brief": "Signal: Buy on sharp drawdown in bear market; expect 60d edge, near-term volatility.\n\nAll three assets\u2014BTC, ETH, SOL\u2014register deep drawdowns (z < \u20132.8), confirming the signal. We are in BEAR phase (below 200d MA, high confidence). Backtest on 84 comparable days yields median +0.5% at 7d, \u20131.1% at 14d, \u20130.5% at 30d, then +5.0% at 60d. The 60d edge is solid; near-term is noisy. Position sizing should reflect this asymmetry. Fear & Greed at 8 is extreme; funding rate (\u20136.8% annualized) shows capitulation but carries no predictive edge at 14d/30d per backtest.\n\nSupporting data: BTC's 5d z-score of \u20133.02 and ETH's \u20132.80 both exceed the deep-drawdown threshold. Total market cap at $2.24T and BTC dominance stable at 56.1% suggest broad liquidation rather than selective weakness. Expect consolidation risk through the second and third weeks; conviction builds after day 40 if the bear structure holds.",
   "outliers": []
 }
