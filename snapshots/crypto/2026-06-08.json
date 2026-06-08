@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T05:05:39.754498+00:00",
+  "generated_at": "2026-06-08T09:55:15.960108+00:00",
   "cycle": {
     "phase": "BEAR",
     "description": "Below 200d MA -- bear market conditions. Drawdown edge exists at 60d only; near-term noisy.",
@@ -15,7 +15,7 @@
     "matrix_key": "BEAR x DEEP"
   },
   "btc": {
-    "price": 62742.7,
+    "price": 63425.4,
     "return_5d_pct": -14.71,
     "return_30d_pct": -23.94,
     "return_5d_zscore": -3.019,
@@ -30,7 +30,7 @@
     "fear_greed": 8
   },
   "eth": {
-    "price": 1657.54,
+    "price": 1668.42,
     "return_5d_pct": -21.69,
     "return_30d_pct": -31.53,
     "return_5d_zscore": -2.803,
@@ -46,7 +46,7 @@
     "eth_btc_rel_30d": -9.98
   },
   "sol": {
-    "price": 65.56,
+    "price": 66.26,
     "return_5d_pct": -23.39,
     "return_30d_pct": -29.7,
     "return_5d_zscore": -2.959,
@@ -62,11 +62,11 @@
     "sol_btc_rel_30d": -7.57
   },
   "market_structure": {
-    "btc_dominance_pct": 56.12,
-    "eth_dominance_pct": 8.93,
-    "total_market_cap_bn": 2240.4,
+    "btc_dominance_pct": 56.27,
+    "eth_dominance_pct": 8.9,
+    "total_market_cap_bn": 2254.2,
     "stablecoin_market_cap_bn": 262.6,
-    "stablecoin_dominance_pct": 11.72,
+    "stablecoin_dominance_pct": 11.65,
     "eth_btc_zscore": -1.417,
     "sol_btc_zscore": -1.693
   },
