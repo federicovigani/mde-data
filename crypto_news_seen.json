@@ -111,21 +111,23 @@
       "source": "The Block",
       "what_moved": "Strategy, Bitmine treasuries see paper gains evaporate as prices slide; billions in losses",
       "surfaced_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403936/bitcoin-etfs-weekly-outflows-largest-since-2025?utm_source=rss&utm_medium=rss",
+      "title": "Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025",
+      "source": "The Block",
+      "what_moved": "Spot BTC ETFs recorded $1.7B weekly outflows, largest since February 2025",
+      "surfaced_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403929/zec-rebounds-zodl-founder-details-response?utm_source=rss&utm_medium=rss",
+      "title": "ZEC rebounds 42% as ZODL founder details two-step emergency upgrade",
+      "source": "The Block",
+      "what_moved": "Zcash vulnerability resolved via emergency Orchard shielded pool upgrade; ZEC rebounds 42%",
+      "surfaced_at": "2026-06-08T09:22:49.131020+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&utm_medium=rss",
-      "title": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses",
-      "source": "The Block",
-      "seen_at": "2026-06-07T08:23:35.318554+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
-      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-07T08:23:35.318554+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/403900/michael-saylor-signals-fresh-bitcoin-buy-with-add-more-dots-post-as-strategy-sits-11-7-billion-underwater?utm_source=rss&utm_medium=rss",
       "title": "Michael Saylor hints at fresh bitcoin buy with \u2018add more dots\u2019 post as Strategy sits $11.7 billion underwater",
@@ -215,6 +217,54 @@
       "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
       "source": "DL News",
       "seen_at": "2026-06-08T00:09:23.957395+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin reclaims $63,000 in \u2018oversold relief rally\u2019; South Korea\u2019s KOSPI plunges 8%",
+      "source": "The Block",
+      "seen_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
+      "title": "What Is Crypto Market Structure? A Guide to How Crypto Markets Work",
+      "source": "The Block",
+      "seen_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/cme-has-a-new-bitcoin-product-monarq-and-dv-chain-made-their-first-bet",
+      "title": "CME is letting traders bet on bitcoin volatility, not price, and two firms have already placed bets",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/zcash-bounces-45-as-developers-propose-new-ironwood-upgrade",
+      "title": "Zcash bounces 45% as developers propose new Ironwood upgrade",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/xrp-steadies-above-usd1-10-as-oversold-bounce-meets-lingering-bearish-pressure",
+      "title": "XRP steadies above $1.10 to bounce from four-month lows",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-pump-to-usd63-700-triggers-the-most-short-liquidations-since-late-april",
+      "title": "Bitcoin pump to $63,700 triggers the most short liquidations since late April",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/08/major-cryptocurrencies-under-pressure-as-oil-jumps-3",
+      "title": "Bitcoin spikes, then dumps, from $63,700 as analysts assess Strategy's next BTC moves",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T09:22:49.131020+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash",
+      "title": "Bitcoin falls back below $63,000 as Iran-Israel trade strikes and Korean stocks crash",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-08T09:22:49.131020+00:00"
     }
   ]
 }
