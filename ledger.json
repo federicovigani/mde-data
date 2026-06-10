@@ -1,0 +1,771 @@
+{
+  "generated_at": "2026-06-10T05:02:33.575552+00:00",
+  "n_signals": 30,
+  "summary": {
+    "DISLOCATION_ONSET": {
+      "n_signals": 28,
+      "horizons": {
+        "5d": {
+          "n_matured": 28,
+          "hit_rate_pct": 71.4,
+          "median_pct": 0.76,
+          "mean_pct": 0.27
+        },
+        "10d": {
+          "n_matured": 28,
+          "hit_rate_pct": 78.6,
+          "median_pct": 2.47,
+          "mean_pct": 1.68
+        },
+        "20d": {
+          "n_matured": 28,
+          "hit_rate_pct": 71.4,
+          "median_pct": 2.9,
+          "mean_pct": 2.02
+        },
+        "30d": {
+          "n_matured": 28,
+          "hit_rate_pct": 78.6,
+          "median_pct": 4.31,
+          "mean_pct": 2.85
+        },
+        "60d": {
+          "n_matured": 28,
+          "hit_rate_pct": 92.9,
+          "median_pct": 8.54,
+          "mean_pct": 7.33
+        }
+      }
+    },
+    "PANIC_ENTER": {
+      "n_signals": 2,
+      "horizons": {
+        "5d": {
+          "n_matured": 2,
+          "hit_rate_pct": 100.0,
+          "median_pct": 2.38,
+          "mean_pct": 2.38
+        },
+        "10d": {
+          "n_matured": 2,
+          "hit_rate_pct": 100.0,
+          "median_pct": 5.06,
+          "mean_pct": 5.06
+        },
+        "20d": {
+          "n_matured": 2,
+          "hit_rate_pct": 100.0,
+          "median_pct": 8.97,
+          "mean_pct": 8.97
+        },
+        "30d": {
+          "n_matured": 2,
+          "hit_rate_pct": 100.0,
+          "median_pct": 10.97,
+          "mean_pct": 10.97
+        },
+        "60d": {
+          "n_matured": 2,
+          "hit_rate_pct": 100.0,
+          "median_pct": 18.73,
+          "mean_pct": 18.73
+        }
+      },
+      "backtest_claim_pct": 72.7,
+      "claim_horizon_d": 30,
+      "live_vs_claim_pp": 27.3
+    }
+  },
+  "signals": [
+    {
+      "date": "2023-10-19",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2023-10-19",
+      "entry_price": 413.33,
+      "fwd_returns_pct": {
+        "5d": -3.25,
+        "10d": 1.02,
+        "20d": 5.58,
+        "30d": 7.66,
+        "60d": 11.2
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2023-10-25",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2023-10-25",
+      "entry_price": 404.73,
+      "fwd_returns_pct": {
+        "5d": 1.22,
+        "10d": 4.72,
+        "20d": 8.97,
+        "30d": 9.74,
+        "60d": 16.59
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2023-10-26",
+      "engine": "equity",
+      "signal": "PANIC_ENTER",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2023-10-26",
+      "entry_price": 399.88,
+      "fwd_returns_pct": {
+        "5d": 4.41,
+        "10d": 5.16,
+        "20d": 10.36,
+        "30d": 11.55,
+        "60d": 18.13
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-08-02",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-08-02",
+      "entry_price": 521.92,
+      "fwd_returns_pct": {
+        "5d": 0.02,
+        "10d": 4.02,
+        "20d": 5.78,
+        "30d": 5.62,
+        "60d": 9.33
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-09-03",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-09-03",
+      "entry_price": 540.7,
+      "fwd_returns_pct": {
+        "5d": -0.6,
+        "10d": 1.99,
+        "20d": 3.31,
+        "30d": 5.34,
+        "60d": 9.13
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-09-06",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-09-06",
+      "entry_price": 529.22,
+      "fwd_returns_pct": {
+        "5d": 4.01,
+        "10d": 5.48,
+        "20d": 6.36,
+        "30d": 8.52,
+        "60d": 12.05
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-10-03",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-10-03",
+      "entry_price": 557.82,
+      "fwd_returns_pct": {
+        "5d": 1.46,
+        "10d": 2.56,
+        "20d": 0.14,
+        "30d": 4.5,
+        "60d": 3.94
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-10-07",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-10-07",
+      "entry_price": 557.8,
+      "fwd_returns_pct": {
+        "5d": 2.91,
+        "10d": 2.79,
+        "20d": 0.35,
+        "30d": 3.58,
+        "60d": 3.31
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-10-15",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-10-15",
+      "entry_price": 569.57,
+      "fwd_returns_pct": {
+        "5d": 0.61,
+        "10d": 0.34,
+        "20d": 2.95,
+        "30d": 3.6,
+        "60d": 0.62
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-10-25",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-10-25",
+      "entry_price": 568.85,
+      "fwd_returns_pct": {
+        "5d": -1.38,
+        "10d": 3.31,
+        "20d": 2.84,
+        "30d": 4.43,
+        "60d": 5.35
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-10-30",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-10-30",
+      "entry_price": 569.8,
+      "fwd_returns_pct": {
+        "5d": 1.9,
+        "10d": 2.96,
+        "20d": 3.24,
+        "30d": 4.19,
+        "60d": 4.11
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2024-12-18",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2024-12-18",
+      "entry_price": 575.96,
+      "fwd_returns_pct": {
+        "5d": 2.91,
+        "10d": 1.31,
+        "20d": 3.21,
+        "30d": 2.99,
+        "60d": -2.94
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-02-27",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-02-27",
+      "entry_price": 576.68,
+      "fwd_returns_pct": {
+        "5d": -2.11,
+        "10d": -5.75,
+        "20d": -2.78,
+        "30d": -10.07,
+        "60d": -0.72
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-03-03",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-03-03",
+      "entry_price": 575.42,
+      "fwd_returns_pct": {
+        "5d": -3.97,
+        "10d": -2.85,
+        "20d": -3.89,
+        "30d": -7.37,
+        "60d": 0.98
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-03-28",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-03-28",
+      "entry_price": 549.36,
+      "fwd_returns_pct": {
+        "5d": -9.07,
+        "10d": -3.91,
+        "20d": -0.87,
+        "30d": 4.92,
+        "60d": 9.58
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-04-10",
+      "engine": "equity",
+      "signal": "PANIC_ENTER",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-04-10",
+      "entry_price": 518.63,
+      "fwd_returns_pct": {
+        "5d": 0.35,
+        "10d": 4.97,
+        "20d": 7.58,
+        "30d": 10.39,
+        "60d": 19.32
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-04-14",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-04-14",
+      "entry_price": 533.01,
+      "fwd_returns_pct": {
+        "5d": -2.2,
+        "10d": 2.82,
+        "20d": 8.85,
+        "30d": 9.02,
+        "60d": 16.02
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-05-21",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-05-21",
+      "entry_price": 576.25,
+      "fwd_returns_pct": {
+        "5d": 1.23,
+        "10d": 1.75,
+        "20d": 2.26,
+        "30d": 6.8,
+        "60d": 10.7
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-05-23",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-05-23",
+      "entry_price": 572.55,
+      "fwd_returns_pct": {
+        "5d": 2.35,
+        "10d": 3.55,
+        "20d": 5.09,
+        "30d": 8.08,
+        "60d": 10.51
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-06-13",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-06-13",
+      "entry_price": 590.23,
+      "fwd_returns_pct": {
+        "5d": 0.82,
+        "10d": 3.8,
+        "20d": 4.52,
+        "30d": 6.72,
+        "60d": 9.57
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-06-17",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-06-17",
+      "entry_price": 590.76,
+      "fwd_returns_pct": {
+        "5d": 1.91,
+        "10d": 4.14,
+        "20d": 5.42,
+        "30d": 6.09,
+        "60d": 10.35
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-06-20",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-06-20",
+      "entry_price": 589.28,
+      "fwd_returns_pct": {
+        "5d": 3.47,
+        "10d": 4.44,
+        "20d": 5.8,
+        "30d": 6.21,
+        "60d": 11.06
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-10-10",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-10-10",
+      "entry_price": 649.32,
+      "fwd_returns_pct": {
+        "5d": 1.74,
+        "10d": 3.71,
+        "20d": 2.75,
+        "30d": 0.92,
+        "60d": 5.91
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-10-14",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-10-14",
+      "entry_price": 658.48,
+      "fwd_returns_pct": {
+        "5d": 1.37,
+        "10d": 3.75,
+        "20d": 3.14,
+        "30d": 1.93,
+        "60d": 5.12
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2025-11-17",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2025-11-17",
+      "entry_price": 661.9,
+      "fwd_returns_pct": {
+        "5d": 0.46,
+        "10d": 2.38,
+        "20d": 1.98,
+        "30d": 2.74,
+        "60d": 2.72
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2026-02-05",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2026-02-05",
+      "entry_price": 675.77,
+      "fwd_returns_pct": {
+        "5d": 0.54,
+        "10d": 1.74,
+        "20d": -0.77,
+        "30d": -4.03,
+        "60d": 6.25
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2026-02-12",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2026-02-12",
+      "entry_price": 679.41,
+      "fwd_returns_pct": {
+        "5d": 1.2,
+        "10d": 0.69,
+        "20d": -2.79,
+        "30d": -6.67,
+        "60d": 8.81
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2026-02-19",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2026-02-19",
+      "entry_price": 682.62,
+      "fwd_returns_pct": {
+        "5d": 0.7,
+        "10d": -0.46,
+        "20d": -3.61,
+        "30d": -3.92,
+        "60d": 8.28
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2026-02-23",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2026-02-23",
+      "entry_price": 680.53,
+      "fwd_returns_pct": {
+        "5d": 0.58,
+        "10d": -0.6,
+        "20d": -3.7,
+        "30d": -3.13,
+        "60d": 7.82
+      },
+      "status": "matured"
+    },
+    {
+      "date": "2026-03-02",
+      "engine": "equity",
+      "signal": "DISLOCATION_ONSET",
+      "instrument": "SPY",
+      "horizons": [
+        5,
+        10,
+        20,
+        30,
+        60
+      ],
+      "entry_date": "2026-03-02",
+      "entry_price": 684.51,
+      "fwd_returns_pct": {
+        "5d": -1.18,
+        "10d": -2.53,
+        "20d": -7.68,
+        "30d": 1.45,
+        "60d": 9.63
+      },
+      "status": "matured"
+    }
+  ]
+}
