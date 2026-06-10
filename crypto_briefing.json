@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-09",
-  "generated_at": "2026-06-09T05:06:12.795872+00:00",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T05:06:25.889197+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,12 +14,12 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": -0.952,
-  "btc_pct_below_1yr_high": -49.3,
-  "btc_rv30": 33.8,
+  "btc_zscore": -0.179,
+  "btc_pct_below_1yr_high": -49.45,
+  "btc_rv30": 33.6,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
-  "fear_greed": 10,
-  "brief": "SIGNAL STATE: NO_ACTION\n\nBitcoin remains in a confirmed bear market 19.4% below its 200-day moving average, with structural risk conditions now active. The 49.3% drawdown from the one-year high exceeds the structural filter threshold of 35%, and 30-day realized volatility at 34% remains below the 40% floor. Under these conditions, backtest data shows zero positive episodes at 120 days with a median loss of 26%. The z-score of -0.95 does not approach crisis entry levels. No entry is indicated.\n\nThe structural filters are blocking all signals. Realized volatility compression combined with the magnitude of the drawdown from peak signals a sustained market break rather than a recoverable panic. ETH and SOL show similar positioning with z-scores between -1.15 and -1.58. Funding remains positive but is contextual only. Stand aside until either structural conditions reset or z-score drops below -3.0 with BEAR phase intact - at which point backtest forward returns reach 29% at 120 days.",
+  "fear_greed": 9,
+  "brief": "NO ACTION. BTC is in BEAR phase 49.5% below its 1yr high, breaching the -35% structural risk threshold. Although z-score is modest at -0.18, the combination of depressed price structure and 30d realized volatility at 34% (below the 40% filter floor) blocks entry signals. Backtest data for BEAR phase without crisis z-scores shows -6.2% median 120d return. Structural risk remains active: stand aside.\n\nThe two governing constraints are price depth and volatility compression. BTC sits nearly halfway to its cycle low relative to the prior peak, and realized volatility has collapsed, suggesting neither panic capitulation nor conviction buying is present. No tactical or intermediate horizon entry is indicated.",
   "outliers": []
 }
