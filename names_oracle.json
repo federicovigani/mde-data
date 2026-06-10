@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-10",
+  "run_at": "2026-06-10T19:08:52Z",
+  "model": "claude-sonnet-4-6",
+  "candidates": [
+    {
+      "ticker": "HON",
+      "name": "Honeywell",
+      "return_5d": -10.46,
+      "zscore": -3.25,
+      "pct_from_high": -14.1,
+      "verdict": "WAIT",
+      "reason": "Aerospace spin-off mechanics, guidance miss, institutional rebalancing pre-June-15 record date",
+      "thesis": "The selloff is structurally driven by pre-spin-off institutional rebalancing that will intensify through the June 15 record date and June 29 distribution \u2014 the true entry is in the two pure-play entities after the split clears and forced selling exhausts."
+    }
+  ],
+  "sent": true
+}
