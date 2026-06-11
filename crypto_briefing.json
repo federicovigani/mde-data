@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-10",
-  "generated_at": "2026-06-10T05:06:25.889197+00:00",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T05:06:14.203872+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,12 +14,12 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": -0.179,
-  "btc_pct_below_1yr_high": -49.45,
-  "btc_rv30": 33.6,
+  "btc_zscore": -0.582,
+  "btc_pct_below_1yr_high": -50.58,
+  "btc_rv30": 32.9,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
-  "fear_greed": 9,
-  "brief": "NO ACTION. BTC is in BEAR phase 49.5% below its 1yr high, breaching the -35% structural risk threshold. Although z-score is modest at -0.18, the combination of depressed price structure and 30d realized volatility at 34% (below the 40% filter floor) blocks entry signals. Backtest data for BEAR phase without crisis z-scores shows -6.2% median 120d return. Structural risk remains active: stand aside.\n\nThe two governing constraints are price depth and volatility compression. BTC sits nearly halfway to its cycle low relative to the prior peak, and realized volatility has collapsed, suggesting neither panic capitulation nor conviction buying is present. No tactical or intermediate horizon entry is indicated.",
+  "fear_greed": 12,
+  "brief": "NO ACTION. Signal state is BEAR phase with no drawdown extremity. BTC z-score of -0.58 is well above the -3.0 crisis threshold required for entry in bear markets. Structural risk filter is active: BTC trades 50.6% below its 1yr high (threshold -35%), and 30d realised volatility at 33% is below the 40% minimum. Without a structural break in volatility or a severe drawdown, there is no reliable edge. Backtest shows BEAR phases without crisis signals average -6.2% at 120 days.\n\nThe binding constraints are realised volatility (33% vs 40% threshold) and the distance to the 1yr high. BTC sits 21.2% below its 200d MA in confirmed bear conditions. Fear & Greed at 12 signals extreme sentiment, but this is context only and does not override the absence of a technical entry signal. Hold cash. Monitor for z-score < -3.0 or volatility expansion above 40% as potential crisis entry conditions.",
   "outliers": []
 }
