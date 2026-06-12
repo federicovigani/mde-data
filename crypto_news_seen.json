@@ -1,20 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment",
-      "title": "Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment",
-      "source": "The Block",
-      "what_moved": "$4.2B in spot BTC/ETH ETF outflows; Strategy BTC sale; Bitcoin down 13% to $62K",
-      "surfaced_at": "2026-06-04T19:23:43.979768+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&utm_medium=rss",
-      "title": "'The rally that wasn't': Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment",
-      "source": "The Block",
-      "what_moved": "$4.2B in spot BTC ETF outflows, Strategy $BTC sale, Bitcoin -14% weekly to $62K",
-      "surfaced_at": "2026-06-05T00:08:49.319886+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&utm_medium=rss",
       "title": "Zcash vulnerability allowing 'unlimited' counterfeit minting; ZEC drops 31%",
       "source": "The Block",
@@ -174,6 +160,20 @@
       "source": "CoinDesk",
       "what_moved": "Bitcoin spot ETF outflows reframed as structural arbitrage unwind, not sentiment-driven redemption",
       "surfaced_at": "2026-06-11T14:37:40.512296+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold",
+      "title": "JPMorgan says debasement trade retreat has 'accelerated' for bitcoin",
+      "source": "The Block",
+      "what_moved": "Debasement trade retreat accelerating for Bitcoin in recent weeks",
+      "surfaced_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404503/blackrock-yield-bitcoin-etf-launch",
+      "title": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says",
+      "source": "The Block",
+      "what_moved": "BlackRock filing new yield-generating Bitcoin ETF product with imminent launch",
+      "surfaced_at": "2026-06-12T00:19:52.209270+00:00"
     }
   ],
   "rejected": [
@@ -386,6 +386,90 @@
       "title": "Ondo Finance hires former Invesco ETF chief to build onchain investment products",
       "source": "CoinDesk",
       "seen_at": "2026-06-11T14:37:40.512296+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&utm_medium=rss",
+      "title": "\u2018Anarchistic neobanks\u2019 are bitcoin\u2019s next frontier, says Blockrise CEO",
+      "source": "The Block",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404438/man-who-spent-1500-btc-graphics-card-now-helps-insure-bitcoin-holders?utm_source=rss&utm_medium=rss",
+      "title": "Man who spent 1,500 BTC on graphics card now helps insure bitcoin holders",
+      "source": "The Block",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404505/americans-secretly-drove-34-billion-offshore-prediction-market-bets-report-claims?utm_source=rss&utm_medium=rss",
+      "title": "Americans secretly drove as much as $34 billion in offshore prediction market bets, new report claims",
+      "source": "The Block",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404494/arbitrum-token-jumps-5-news-lg-electronics-building-new-blockchain?utm_source=rss&utm_medium=rss",
+      "title": "Arbitrum token jumps 5% on news LG Electronics is building a new blockchain",
+      "source": "The Block",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold?utm_source=rss&utm_medium=rss",
+      "title": "JPMorgan says debasement trade retreat has \u2018accelerated\u2019 for bitcoin",
+      "source": "The Block",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404458/coinbase-agents-dedicated-accounts-ai-bots-trade-pay-users?utm_source=rss&utm_medium=rss",
+      "title": "Coinbase for Agents sets up dedicated accounts for AI bots to trade and pay for users",
+      "source": "The Block",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404453/sell-what-you-can-not-what-you-want-jack-mallers-bitcoin-pricing-global-liquidity-crisis?utm_source=rss&utm_medium=rss",
+      "title": "\u2018You sell what you can, not what you want\u2019: Jack Mallers says bitcoin is pricing a global liquidity crisis",
+      "source": "The Block",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&utm_medium=rss",
+      "title": "Community bank group launches new ad campaign targeting Clarity Act stablecoin reward language",
+      "source": "The Block",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever",
+      "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
+      "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/11/big-banks-are-ditching-private-blockchains-to-build-tokenized-cash-networks-on-public-infrastructure",
+      "title": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
+      "title": "Crypto for Advisors: Crypto ETFs",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue \u2018recovery tokens\u2019 in wake of $295m hack",
+      "source": "DL News",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
+      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
+      "source": "DL News",
+      "seen_at": "2026-06-12T00:19:52.209270+00:00"
     }
   ]
 }
