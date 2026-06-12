@@ -1,20 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP",
-      "source": "The Block",
-      "what_moved": "BTC ETFs ended 13-day outflow streak with $3M inflows; ETH ETFs broke 17-day streak",
-      "surfaced_at": "2026-06-05T13:52:51.656669+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak",
-      "title": "U.S. bitcoin, ether ETFs end record multibillion outflow streak",
-      "source": "CoinDesk",
-      "what_moved": "BTC and ETH ETF outflow streaks ended after record multibillion-dollar cumulative outflows",
-      "surfaced_at": "2026-06-05T13:52:51.656669+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions",
       "title": "Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions",
       "source": "The Block",
@@ -181,129 +167,23 @@
       "source": "The Block",
       "what_moved": "AVAX treasury-backed Nasdaq entity commits >$1B AVAX acquisition over time post-debut",
       "surfaced_at": "2026-06-12T08:57:45.803181+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume?utm_source=rss&utm_medium=rss",
+      "title": "US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows",
+      "source": "The Block",
+      "what_moved": "Spot Bitcoin ETFs experiencing mounting outflows while reaching $2 trillion cumulative volume",
+      "surfaced_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/12/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week",
+      "title": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
+      "source": "CoinDesk",
+      "what_moved": "BlackRock filed 8-A amendment for yield-bearing Bitcoin ETF with imminent launch",
+      "surfaced_at": "2026-06-12T14:10:38.687568+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/404373/figure-kiavi-acquisition?utm_source=rss&utm_medium=rss",
-      "title": "Figure to acquire Kiavi for $717 million to expand RWA tokenization network",
-      "source": "The Block",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&utm_medium=rss",
-      "title": "Tom Lee\u2019s Bitmine buys $41 million worth of ETH, continuing aggressive treasury expansion: onchain data",
-      "source": "The Block",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404341/bitcoin-stablecoins-tokenization-bitwise-cio-financial-advisors?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin takes back seat to stablecoins and tokenization among financial advisors: Bitwise CIO",
-      "source": "The Block",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404324/elon-musks-spacex-ipo-could-become-bitcoins-latest-headwind?utm_source=rss&utm_medium=rss",
-      "title": "Elon Musk\u2019s SpaceX IPO could become bitcoin\u2019s latest headwind",
-      "source": "The Block",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy?utm_source=rss&utm_medium=rss",
-      "title": "Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy",
-      "source": "The Block",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404316/cryptoquant-sees-bitcoin-bottom-near-53600-while-demand-remains-deeply-unfavorable?utm_source=rss&utm_medium=rss",
-      "title": "CryptoQuant sees bitcoin bottom near $53,600 while demand remains \u2018deeply unfavorable\u2019",
-      "source": "The Block",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404304/raydium-dex-1-34-million-exploit-retired-amm-program-treasury-cover-losses?utm_source=rss&utm_medium=rss",
-      "title": "Raydium DEX says $1.34 million exploit hit retired AMM program, treasury to cover losses",
-      "source": "The Block",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/11/blackrock-s-income-paying-bitcoin-etf-nears-launch-at-a-fee-that-undercuts-rivals",
-      "title": "BlackRock's income-paying bitcoin ETF nears launch at a fee that undercuts rivals",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/11/singapore-bank-dbs-to-offer-tokenized-gold-to-retail-customers",
-      "title": "Singapore bank DBS to offer tokenized gold to retail customers",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
-      "title": "Live updates: Bitcoin's price bounces ahead of the SpaceX IPO",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
-      "title": "It's not just bitcoin ETFs. Corporate BTC buying has dried up too",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/11/xrp-holds-above-usd1-10-as-etf-inflows-rise-but-traders-remain-cautious",
-      "title": "XRP holds above $1.10 as ETF inflows rise, but traders remain cautious",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next",
-      "title": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards",
-      "title": "Privacy returns to focus as Ethereum developers explore new token standards",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
-      "title": "DL News is closing",
-      "source": "DL News",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
-      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
-      "source": "DL News",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
-      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
-      "source": "DL News",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
-      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
-      "source": "DL News",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
-      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
-      "source": "DL News",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
-      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
-      "source": "DL News",
-      "seen_at": "2026-06-11T09:12:54.910752+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/404433/doj-charges-two-389-million-audia6-crypto-laundering-case?utm_source=rss&utm_medium=rss",
       "title": "DOJ charges two in $389 million AudiA6 crypto laundering case",
@@ -525,6 +405,84 @@
       "title": "Bitcoin climbs back into the green as Trump signals an end to the Iran war",
       "source": "CoinDesk",
       "seen_at": "2026-06-12T08:57:45.803181+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&utm_medium=rss",
+      "title": "Appeals court rejects Sam Bankman-Fried\u2019s bid for new trial in FTX fraud case",
+      "source": "The Block",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana?utm_source=rss&utm_medium=rss",
+      "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
+      "source": "The Block",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana?utm_source=rss&utm_medium=rss",
+      "title": "Ethena Labs to allocate $250 million to Securitize\u2019s Tokenized AAA CLO Fund as it deploys on Solana",
+      "source": "The Block",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404580/south-korea-finance-ministry-says-tokenized-stocks-are-securities-not-crypto-assets-opening-door-to-taxes-report?utm_source=rss&utm_medium=rss",
+      "title": "South Korea finance ministry says tokenized stocks are securities, not crypto assets, opening door to taxes: report",
+      "source": "The Block",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404563/bitcoin-ekasi-btc-prague?utm_source=rss&utm_medium=rss",
+      "title": "There is a \u2018fundamental clash\u2019 between bitcoin and institutionalization, says BTC circular economy project founder",
+      "source": "The Block",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm_source=rss&utm_medium=rss",
+      "title": "Bitwise\u2019s Dragosch sees up to 20% further downside for bitcoin, puts \u2018max pain\u2019 scenario at $48,000",
+      "source": "The Block",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404564/metaplanet-siiibo-securities-acquisition?utm_source=rss&utm_medium=rss",
+      "title": "Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products",
+      "source": "The Block",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
+      "title": "XRP sentiment falls to 8-month low, and that has been a buy signal before",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower",
+      "title": "CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/06/12/for-crypto-spacex-s-stock-market-debut-could-go-either-way",
+      "title": "For crypto, SpaceX's stock market debut could go either way",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million",
+      "title": "Monero price rockets 33% to $438 amid $120 million onchain laundering maze",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/12/while-bitcoin-holds-near-usd63-000-some-data-points-to-pain-ahead-for-bulls",
+      "title": "While bitcoin holds near $63,000, some data points to pain ahead for bulls",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/12/metaplanet-buys-siiibo-securities-to-accelerate-bitcoin-financial-ecosystem-plans",
+      "title": "Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-12T14:10:38.687568+00:00"
     }
   ]
 }
