@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-11",
-  "generated_at": "2026-06-11T05:06:14.203872+00:00",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T05:06:22.017232+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,12 +14,12 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": -0.582,
-  "btc_pct_below_1yr_high": -50.58,
-  "btc_rv30": 32.9,
+  "btc_zscore": 0.336,
+  "btc_pct_below_1yr_high": -50.72,
+  "btc_rv30": 33.0,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
   "fear_greed": 12,
-  "brief": "NO ACTION. Signal state is BEAR phase with no drawdown extremity. BTC z-score of -0.58 is well above the -3.0 crisis threshold required for entry in bear markets. Structural risk filter is active: BTC trades 50.6% below its 1yr high (threshold -35%), and 30d realised volatility at 33% is below the 40% minimum. Without a structural break in volatility or a severe drawdown, there is no reliable edge. Backtest shows BEAR phases without crisis signals average -6.2% at 120 days.\n\nThe binding constraints are realised volatility (33% vs 40% threshold) and the distance to the 1yr high. BTC sits 21.2% below its 200d MA in confirmed bear conditions. Fear & Greed at 12 signals extreme sentiment, but this is context only and does not override the absence of a technical entry signal. Hold cash. Monitor for z-score < -3.0 or volatility expansion above 40% as potential crisis entry conditions.",
+  "brief": "MARKET BRIEF - 12 JUNE 2026\n\nNO ACTION. BTC is in BEAR phase, 21% below its 200-day moving average with zero near-term entry signals. The z-score of +0.34 is well above crisis threshold (-3.0), and structural risk is now active: BTC sits 50.7% below its 1-year high, well past the 35% filter boundary. This combination blocks all buy signals regardless of phase. Without an extreme drawdown event, BEAR markets offer no reliable edge in the 7-120 day window. Expected return in this state: -6.2% at 120 days based on historical episodes.\n\nRealized volatility at 33% has fallen below the 40% threshold, confirming structural weakness rather than panic selling. Shorts are paying lenders (-14% annualized funding), a sign of complacency, not capitulation. ETH and SOL show relative softness (z-scores -1.29 and -1.63 vs BTC), but alt weakness in a bear market is not actionable without a crisis trigger. Stand aside.",
   "outliers": []
 }
