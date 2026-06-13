@@ -1,11 +1,11 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "n_alerts": 0,
   "alerts": [],
   "current_quadrant": "BUSINESS AS USUAL",
   "current_quadrant_raw": "CALM",
   "previous_quadrant": "BUSINESS AS USUAL",
-  "score": 21.8,
+  "score": 17.6,
   "grade": null,
   "n_flagged": 0
 }
