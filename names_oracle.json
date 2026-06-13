@@ -1,17 +1,52 @@
 {
-  "date": "2026-06-10",
-  "run_at": "2026-06-10T19:08:52Z",
+  "run_at": "2026-06-13T10:27:03+00:00",
   "model": "claude-sonnet-4-6",
+  "lookback": 5,
+  "min_days": 2,
   "candidates": [
+    {
+      "ticker": "T",
+      "name": "AT&T",
+      "days_flagged": 3,
+      "return_5d": -7.83,
+      "zscore": -2.63,
+      "pct_from_high": -21.1,
+      "verdict": "WAIT",
+      "reason": "Oppenheimer Starlink-threat downgrade plus Supreme Court FCC fine ruling",
+      "thesis": "The Starlink competitive re-rating narrative is only ~10 days old \u2014 too fresh for seller exhaustion. The SpaceX IPO has now listed, keeping the threat permanently on the public-market tape as a recurring headwind. Near-term fundamentals (FCF reaffirmed, Q4 beat) are intact and valuation at P/E 7.8x / 4.8% yield is attractive, but the analyst downgrade cycle may not be complete and peers are recovering faster. Watch the Mizuho CFO transcript (June 9), SPCX post-IPO price action, and any follow-on analyst cuts before the July 22 earnings date provides the next fundamental clearing event."
+    },
     {
       "ticker": "HON",
       "name": "Honeywell",
-      "return_5d": -10.46,
-      "zscore": -3.25,
-      "pct_from_high": -14.1,
+      "days_flagged": 3,
+      "return_5d": -8.3,
+      "zscore": -2.57,
+      "pct_from_high": -12.6,
+      "verdict": "ENTER",
+      "reason": "Aerospace spin-off mechanics and RemainCo EPS outlook disappointment ahead of June 29 separation",
+      "thesis": "The HON selloff is mechanical and structural \u2014 not a new fundamental impairment. Forced institutional selling ahead of the June 15 record date, index rebalancing, and mandate-driven exits have compressed the stock ~10% on news that was pre-announced and only mildly below consensus. Analysts remain bullish on a sum-of-the-parts basis with implied upside of 15\u201335% across both entities, and the GE Aerospace/GE Vernova breakup analogue is widely cited. Research priority: build a SOTP model for HONA and HON Technologies separately using the June 3 and June 11 investor day materials, assess whether the automation RemainCo's 2-3% near-term growth guide is transitory, and monitor the HON/HONIV spread opening Monday June 15 as the real-time market valuation of the aerospace spinoff."
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe",
+      "days_flagged": 2,
+      "return_5d": -18.86,
+      "zscore": -3.69,
+      "pct_from_high": -50.7,
       "verdict": "WAIT",
-      "reason": "Aerospace spin-off mechanics, guidance miss, institutional rebalancing pre-June-15 record date",
-      "thesis": "The selloff is structurally driven by pre-spin-off institutional rebalancing that will intensify through the June 15 record date and June 29 distribution \u2014 the true entry is in the two pure-play entities after the split clears and forced selling exhausts."
+      "reason": "Organic ARR guidance cut ~$480M and surprise CFO departure alongside ongoing CEO search",
+      "thesis": "The AI disruption narrative is months old and the valuation at ~12x earnings is genuinely compressed, but June 11 earnings introduced fresh negative information: an organic ARR guidance cut of ~$480M and a surprise CFO departure that together triggered a wave of fresh analyst downgrades still in progress. The freemium-to-paid conversion bet is unquantified and unproven for at least two more quarters. Watch for a second leg toward Wolfe's $165-$210 bear case floor \u2014 that exhaustion print, combined with insider buying or a named CEO, would be the ENTER trigger."
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "days_flagged": 2,
+      "return_5d": -10.59,
+      "zscore": -2.97,
+      "pct_from_high": -23.6,
+      "verdict": "WAIT",
+      "reason": "Xbox division reset memo, layoffs, hardware crisis, and macro CPI shock",
+      "thesis": "The AI-discount and Xbox restructuring narratives have been in press for months, and fundamentals (Azure +40%, AI $37B run rate, PEG 16% below decade median) are genuinely strong \u2014 the selloff is likely overcooked. However, Xbox layoff headlines will hit again in early July, and the Q4 FY26 earnings report on July 28 is the natural clearing event where the bull case either gets validated or broken. The stock has been grinding, not capitulating, and the 40-day low hasn't been retested \u2014 wait for either a flush to that level or a post-earnings catalyst before entering."
     }
   ],
   "sent": true
