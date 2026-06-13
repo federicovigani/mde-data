@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-12",
-  "generated_at": "2026-06-12T05:06:22.017232+00:00",
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T05:06:20.639625+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,12 +14,12 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": 0.336,
-  "btc_pct_below_1yr_high": -50.72,
-  "btc_rv30": 33.0,
+  "btc_zscore": 1.078,
+  "btc_pct_below_1yr_high": -49.07,
+  "btc_rv30": 35.1,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
-  "fear_greed": 12,
-  "brief": "MARKET BRIEF - 12 JUNE 2026\n\nNO ACTION. BTC is in BEAR phase, 21% below its 200-day moving average with zero near-term entry signals. The z-score of +0.34 is well above crisis threshold (-3.0), and structural risk is now active: BTC sits 50.7% below its 1-year high, well past the 35% filter boundary. This combination blocks all buy signals regardless of phase. Without an extreme drawdown event, BEAR markets offer no reliable edge in the 7-120 day window. Expected return in this state: -6.2% at 120 days based on historical episodes.\n\nRealized volatility at 33% has fallen below the 40% threshold, confirming structural weakness rather than panic selling. Shorts are paying lenders (-14% annualized funding), a sign of complacency, not capitulation. ETH and SOL show relative softness (z-scores -1.29 and -1.63 vs BTC), but alt weakness in a bear market is not actionable without a crisis trigger. Stand aside.",
+  "fear_greed": 13,
+  "brief": "NO ACTION. BEAR phase with no drawdown signal. BTC trades -18.5% below its 200d MA without reaching crisis entry threshold (z-score below -3.0). Structural risk filter is active - BTC sits -49.1% below its 1yr high, well past the -35% threshold that blocks entries. Backtest shows BEAR phases without extreme z-scores deliver -6.2% median return at 120d, offering no reliable edge. Stand aside.\n\nThe two binding constraints: BTC's 49% discount to its 1yr high triggers structural risk (0/12 such episodes positive at 120d, median -26%), and 30d realised volatility at 35% sits below the 40% threshold required to confirm normal market function. Current z-scores remain near neutral (+1.08 BTC, +0.90 ETH). No entry is indicated until either structural risk clears or z-score drops below -3.0 while both filters pass.",
   "outliers": []
 }
