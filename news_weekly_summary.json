@@ -1,0 +1,43 @@
+{
+  "equity": [
+    {
+      "week_end": "2026-06-13",
+      "article_count": 3,
+      "dominant_theme": "funding market stress",
+      "tone": "escalating",
+      "key_signals": [
+        "Kospi halted after 8.8% drop with no matching credit spread widening",
+        "SoftBank $6bn OpenAI margin loan stalls as creditors hesitate on tech collateral",
+        "30Y Treasury auction tails badly with foreign demand falling and dealers forced to absorb"
+      ],
+      "narrative": "Funding stress that was visible in private credit last week is now showing up in public markets - a stalled SoftBank margin loan and a badly received 30Y Treasury auction both point to creditor hesitation spreading upstream. The Korea equity shock adds an equity-credit divergence signal that historically resolves through credit spread widening rather than equity recovery. Three weeks running of escalating signals, moving from ECB warnings to private credit gating to now public funding market cracks, is a sequence that warrants active positioning for spread widening rather than passive monitoring.",
+      "generated_at": "2026-06-14T12:04:58+00:00"
+    },
+    {
+      "week_end": "2026-06-06",
+      "article_count": 5,
+      "dominant_theme": "funding market stress",
+      "tone": "escalating",
+      "key_signals": [
+        "Partners Group and Blackstone private credit funds gate investors amid redemption surge",
+        "Fed Powell signals September rate cut possible as easing cycle accelerates",
+        "SNB cuts 50bps; CB easing broadening globally amid stress backdrop"
+      ],
+      "narrative": "The dominant story this week is private credit gating - first Partners Group, then Blackstone - signalling that redemption pressure is spreading across the illiquid credit complex in a way that public spreads have not yet acknowledged. This is a classic dislocation setup: calm IG and HY spreads coexisting with visible stress in the funding plumbing, echoing the pattern the ECB flagged last week. The Fed and SNB easing signals add ambiguity - cuts could temporarily paper over stress or confirm that central banks are already seeing deterioration that markets are not pricing.",
+      "generated_at": "2026-06-14T12:04:52+00:00"
+    },
+    {
+      "week_end": "2026-05-30",
+      "article_count": 1,
+      "dominant_theme": "systemic risk signals",
+      "tone": "cautionary",
+      "key_signals": [
+        "ECB flags elevated financial stability vulnerabilities amid geoeconomic shock",
+        "Official warning signals heightened credit-equity dislocation risk in Europe"
+      ],
+      "narrative": "The ECB issued an explicit financial stability warning this week, flagging that systemic vulnerabilities remain elevated as geoeconomic stress unfolds - language that historically precedes wider credit spread pressure and tighter funding conditions. With only one signal passing the editorial filter, the week is not yet escalating, but the source and framing carry institutional weight that warrants close monitoring. Credit markets in Europe should be watched for spread widening that diverges from equity complacency, a classic setup for dislocation trades.",
+      "generated_at": "2026-06-14T12:04:45+00:00"
+    }
+  ],
+  "crypto": []
+}
