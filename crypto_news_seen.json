@@ -1,20 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets?utm_source=rss&utm_medium=rss",
-      "title": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets",
-      "source": "The Block",
-      "what_moved": "Hyperion DeFi unwinding $29M HYPE positions; stablecoin USDH sunsetting; 800k HYPE returning to treasury",
-      "surfaced_at": "2026-06-07T08:23:35.318554+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/403905/jpmorgan-strategy-dollar-reserves-crypto-bill-chance?utm_source=rss&utm_medium=rss",
-      "title": "JPMorgan says Strategy may need to rebuild dollar reserves to restore confidence",
-      "source": "The Block",
-      "what_moved": "JPMorgan flags Strategy reserve adequacy risk; Clarity Act passage probability <50% this year",
-      "surfaced_at": "2026-06-07T18:05:35.369669+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss",
       "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
       "source": "The Block",
@@ -146,116 +132,57 @@
       "source": "The Block",
       "what_moved": "BTC spot ETFs: $85.8M net inflow Friday after 5-day outflow streak",
       "surfaced_at": "2026-06-13T18:08:12.505152+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
+      "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
+      "source": "The Block",
+      "what_moved": "Millions of BTC in exchange cold wallets exposed via address reuse vulnerability",
+      "surfaced_at": "2026-06-14T18:13:24.985467+00:00"
     }
   ],
   "rejected": [
     {
-      "url": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss",
-      "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
+      "url": "https://www.theblock.co/post/404697/trump-backed-world-liberty-financial-to-fund-ufc-fighter-bonuses-in-usd1-stablecoin-at-white-house-event?utm_source=rss&utm_medium=rss",
+      "title": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event",
       "source": "The Block",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
+      "seen_at": "2026-06-14T18:13:24.985467+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss",
-      "title": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
+      "url": "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&utm_medium=rss",
+      "title": "Venice and Morpheus tokens climb as US ban on Anthropic\u2019s Fable 5 fuels \u2018permissionless AI\u2019 pitch",
       "source": "The Block",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
+      "seen_at": "2026-06-14T18:13:24.985467+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/404643/early-airbnb-doordash-backer-y-combinator-expects-crypto-to-be-used-by-every-one-of-its-portfolio-companies?utm_source=rss&utm_medium=rss",
-      "title": "Early Airbnb, DoorDash backer Y Combinator says Clarity Act could bring crypto to \u2018every\u2019 portfolio company",
-      "source": "The Block",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404644/bybit-binance-bitget-cancel-tokenized-spacex-ipo-allocations-share-shortage?utm_source=rss&utm_medium=rss",
-      "title": "Bybit, Binance, Bitget cancel tokenized SpaceX IPO allocations after share shortage",
-      "source": "The Block",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
-      "title": "Crypto\u2019s next billion-dollar hacker may move at superhuman speed",
+      "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
+      "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
       "source": "CoinDesk",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
+      "seen_at": "2026-06-14T18:13:24.985467+00:00"
     },
     {
-      "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
-      "title": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
+      "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
+      "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
       "source": "CoinDesk",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
+      "seen_at": "2026-06-14T18:13:24.985467+00:00"
     },
     {
-      "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
-      "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+      "url": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
+      "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
       "source": "CoinDesk",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
+      "seen_at": "2026-06-14T18:13:24.985467+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
-      "title": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
-      "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says",
-      "title": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment",
-      "title": "Perpetual futures could become crypto's next ETF moment",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
-      "title": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
-      "title": "DL News is closing",
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue \u2018recovery tokens\u2019 in wake of $295m hack",
       "source": "DL News",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
+      "seen_at": "2026-06-14T18:13:24.985467+00:00"
     },
     {
-      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
-      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
+      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
       "source": "DL News",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
-      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
-      "source": "DL News",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
-      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
-      "source": "DL News",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
-      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
-      "source": "DL News",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
-      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
-      "source": "DL News",
-      "seen_at": "2026-06-13T18:08:12.505152+00:00"
+      "seen_at": "2026-06-14T18:13:24.985467+00:00"
     }
   ]
 }
