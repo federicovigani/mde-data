@@ -1,41 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/403936/bitcoin-etfs-weekly-outflows-largest-since-2025?utm_source=rss&utm_medium=rss",
-      "title": "Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025",
-      "source": "The Block",
-      "what_moved": "Spot BTC ETFs recorded $1.7B weekly outflows, largest since February 2025",
-      "surfaced_at": "2026-06-08T09:22:49.131020+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/403929/zec-rebounds-zodl-founder-details-response?utm_source=rss&utm_medium=rss",
-      "title": "ZEC rebounds 42% as ZODL founder details two-step emergency upgrade",
-      "source": "The Block",
-      "what_moved": "Zcash vulnerability resolved via emergency Orchard shielded pool upgrade; ZEC rebounds 42%",
-      "surfaced_at": "2026-06-08T09:22:49.131020+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/403981/bitmine-adds-127000-ether-bringing-treasury-to-5-54-million-eth-as-tom-lee-calls-crypto-selloff-superficial?utm_source=rss&utm_medium=rss",
-      "title": "Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff 'superficial'",
-      "source": "The Block",
-      "what_moved": "Bitmine purchased 126,971 ETH (~$207M) during 30% drawdown from April highs",
-      "surfaced_at": "2026-06-08T14:49:46.652156+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/403944/michael-saylor-strategy-buys-more-bitcoin-after-small-sale?utm_source=rss&utm_medium=rss",
-      "title": "Michael Saylor's Strategy buys another 1,550 bitcoin for $101 million after small sale as total holdings rise to 845,256 BTC",
-      "source": "The Block",
-      "what_moved": "Strategy resumed BTC accumulation after prior sale; bought 1,550 BTC (~$101M) in BEAR phase drawdown",
-      "surfaced_at": "2026-06-08T14:49:46.652156+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404013/spot-bitcoin-etfs-log-1-7-billion-in-weekly-outflows-largest-since-february-2025",
-      "title": "Spot bitcoin ETFs log $1.7 billion in weekly outflows, largest since February 2025",
-      "source": "The Block",
-      "what_moved": "Spot BTC ETF weekly outflows of $1.7B; largest since Feb 2025 during price decline to below $61k",
-      "surfaced_at": "2026-06-08T14:49:46.652156+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/404025/michael-saylor-strategy-buys-another-1550-bitcoin",
       "title": "Michael Saylor's Strategy buys another 1,550 bitcoin for $101 million after small sale as total holdings rise to 845,256 BTC",
       "source": "The Block",
@@ -139,6 +104,27 @@
       "source": "The Block",
       "what_moved": "Bitcoin mining difficulty down 10%; miner economics remain underwater at current price",
       "surfaced_at": "2026-06-15T00:10:35.074319+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404748/tom-lee-sees-early-stages-crypto-spring-as-bitmine-buys-76881-eth",
+      "title": "Tom Lee sees 'early stages of crypto spring' as Bitmine buys another 76,881 ETH",
+      "source": "The Block",
+      "what_moved": "Bitmine accumulated 76,881 ETH, raising holdings to 5.62M tokens (4.66% of supply)",
+      "surfaced_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/15/strategy-deploys-usd100-million-from-usd-reserves-to-acquire-1-587-btc",
+      "title": "Michael Saylor's Strategy acquires another 1,587 bitcoin for $100 million",
+      "source": "CoinDesk",
+      "what_moved": "Strategy accumulated 1,587 BTC for $100M, total holdings now 846,842 BTC (4% of 21M supply)",
+      "surfaced_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404765/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026",
+      "title": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
+      "source": "The Block",
+      "what_moved": "Bitcoin mining difficulty fell 10%, second-largest negative adjustment in 2026",
+      "surfaced_at": "2026-06-15T16:18:27.490218+00:00"
     }
   ],
   "rejected": [
@@ -267,6 +253,96 @@
       "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
       "source": "DL News",
       "seen_at": "2026-06-15T00:10:35.074319+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss",
+      "title": "Strategy supporters rebut \u2018death spiral\u2019 fears as bitcoin price wobbles",
+      "source": "The Block",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404768/benchmark-sec-nms-proposal-most-consequential-us-crypto-rule-this-year?utm_source=rss&utm_medium=rss",
+      "title": "Benchmark says SEC\u2019s NMS proposal is the \u2018most consequential\u2019 US crypto rule this year",
+      "source": "The Block",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404752/lets-put-it-in-etf-worst-outcome-bitcoin-says-trezor-exec?utm_source=rss&utm_medium=rss",
+      "title": "\u2018Let\u2019s just put it in an ETF\u2019 is the worst outcome for bitcoin, says Trezor exec",
+      "source": "The Block",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404751/kraken-launches-crypto-perps-trading-in-us-on-kraken-pro?utm_source=rss&utm_medium=rss",
+      "title": "Kraken launches crypto perps trading in the US on Kraken Pro",
+      "source": "The Block",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404748/tom-lee-sees-early-stages-crypto-spring-as-bitmine-buys-76881-eth?utm_source=rss&utm_medium=rss",
+      "title": "Tom Lee sees \u2018early stages of crypto spring\u2019 as Bitmine buys another 76,881 ETH",
+      "source": "The Block",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404741/strive-cio-says-prolonged-bitcoin-weakness-could-drive-treasury-firm-consolidation?utm_source=rss&utm_medium=rss",
+      "title": "Strive CIO says prolonged bitcoin weakness could drive treasury firm consolidation",
+      "source": "The Block",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404709/paradigm-leads-9-million-round-el-dorado?utm_source=rss&utm_medium=rss",
+      "title": "Paradigm leads $9 million round in LatAm payments app El Dorado",
+      "source": "The Block",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404728/still-adding-dots-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss",
+      "title": "\u2018Still adding dots\u2019: Michael Saylor\u2019s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC",
+      "source": "The Block",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it",
+      "title": "If America wants to lead in crypto, it must protect the people who build it",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish",
+      "title": "\u2018Crypto spring\u2019 is here, says one analyst after bitcoin's key signals turn bullish",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/15/kraken-debuts-u-s-perpetual-futures-as-crypto-derivatives-move-onshore",
+      "title": "Kraken debuts U.S. perpetual futures as crypto derivatives move onshore",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/15/coinbase-s-brian-armstrong-says-bitcoin-may-have-bottomed-at-usd60-000",
+      "title": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/15/xrp-rockets-8-above-usd1-20-in-first-major-breakout-since-june-selloff",
+      "title": "XRP rockets 8% above $1.20 in first major breakout since June selloff",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/15/coindesk-20-performance-update-bittensor-tao-surges-31-9-leading-index-higher",
+      "title": "CoinDesk 20 performance update: Bittensor (TAO) surges 31.9%, leading index higher",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale",
+      "title": "Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-15T16:18:27.490218+00:00"
     }
   ]
 }
