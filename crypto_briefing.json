@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-14",
-  "generated_at": "2026-06-14T05:06:32.575772+00:00",
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T05:06:28.106626+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,12 +14,12 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": 0.227,
-  "btc_pct_below_1yr_high": -49.08,
-  "btc_rv30": 35.1,
+  "btc_zscore": 0.57,
+  "btc_pct_below_1yr_high": -48.4,
+  "btc_rv30": 34.5,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
-  "fear_greed": 18,
-  "brief": "NO ACTION WARRANTED\n\nMarket conditions do not justify entry. BTC is in confirmed BEAR phase, 18.4% below the 200d MA, with no drawdown signal present. The z-score (+0.23) shows no panic selling. Without crisis-level dislocation, BEAR phase offers no reliable near-term edge; backtest data shows unfiltered BEAR entries average -6.2% at 120 days.\n\nStructural risk is active: BTC sits 49.1% below the 1yr high, breaching the -35% filter threshold. Realised volatility at 35% is also below the 40% floor, signalling regime rigidity rather than opportunity. Both conditions independently warrant stand-aside. Shorts are well-funded (negative funding rate), and Fear & Greed remains subdued at 18 - consistent with consensus weakness. Wait for either a crisis-level z-score (below -3.0) with structural filters clearing, or confirmation of bull-phase re-entry above the 200d MA.",
+  "fear_greed": 20,
+  "brief": "NO ACTION. Signal state is BEAR with no drawdown extreme. Bitcoin sits 48.4% below its 1yr high and 30-day realised volatility is 34%, both triggering structural risk filters. The system blocks entry in this regime: backtests show BEAR phase without crisis z-score (below -3.0) delivers -6.2% median at 120 days. Current z-score of +0.57 is neutral. Buying is not indicated.\n\nTwo structural headwinds explain the block. First, BTC remains deeply underwater relative to its 1yr peak, well past the -35% threshold that signals a break in regime rather than a recoverable dip. Second, realised volatility at 34% sits below the 40% floor needed to confirm a capitulation environment. Without both crisis z-score and structural validation, holding cash or existing positions is the appropriate stance.",
   "outliers": []
 }
