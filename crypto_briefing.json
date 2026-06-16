@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-15",
-  "generated_at": "2026-06-15T05:06:28.106626+00:00",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T05:06:23.847724+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,12 +14,12 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": 0.57,
-  "btc_pct_below_1yr_high": -48.4,
-  "btc_rv30": 34.5,
+  "btc_zscore": 1.527,
+  "btc_pct_below_1yr_high": -47.33,
+  "btc_rv30": 35.1,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
-  "fear_greed": 20,
-  "brief": "NO ACTION. Signal state is BEAR with no drawdown extreme. Bitcoin sits 48.4% below its 1yr high and 30-day realised volatility is 34%, both triggering structural risk filters. The system blocks entry in this regime: backtests show BEAR phase without crisis z-score (below -3.0) delivers -6.2% median at 120 days. Current z-score of +0.57 is neutral. Buying is not indicated.\n\nTwo structural headwinds explain the block. First, BTC remains deeply underwater relative to its 1yr peak, well past the -35% threshold that signals a break in regime rather than a recoverable dip. Second, realised volatility at 34% sits below the 40% floor needed to confirm a capitulation environment. Without both crisis z-score and structural validation, holding cash or existing positions is the appropriate stance.",
+  "fear_greed": 23,
+  "brief": "NO ACTION. Signal matrix shows BEAR phase without crisis-level drawdown. BTC z-score sits at +1.53, well above the -3.0 threshold required for crisis entry. While we remain in confirmed bear conditions (15.4% below 200d MA), the backtest for undiluted BEAR phase without structural breaks shows -6.2% median at 120 days - insufficient edge to justify entry. No tactical dip to exploit here.\n\nStructural risk is actively blocking positions. BTC sits 47.3% below its 1yr high, exceeding the -35% filter threshold that signals regime breakdown. Realized volatility at 35% also falls short of the 40% minimum, indicating insufficient stress to generate mean reversion. Hold cash until either a genuine crisis z-score emerges (< -3.0) or price recovers above 200d MA to flip the regime.",
   "outliers": []
 }
