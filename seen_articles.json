@@ -62,6 +62,20 @@
       "source": "ZeroHedge",
       "relevance": "US Treasury auction deterioration signals emerging funding market stress not yet visible in credit spreads at 274bp.",
       "surfaced_at": "2026-06-11T18:30:47.568749+00:00"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/bank-japan-raises-rates-1-first-time-31-years-will-stop-reducing-bond-purchases",
+      "title": "Bank Of Japan Raises Rates To 1% For The First Time In 31 Years, Will Stop Reducing Bond Purchases",
+      "source": "ZeroHedge",
+      "relevance": "BoJ rate hike to 1% and halt of QT signals major central bank policy shift with direct implications for global credit conditions and funding markets.",
+      "surfaced_at": "2026-06-16T16:51:59.147781+00:00"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-housing-starts-collapsed-may-lowest-covid",
+      "title": "US Housing Starts Collapsed In May To Lowest Since COVID",
+      "source": "ZeroHedge",
+      "relevance": "Housing starts crash 15.4% MoM to COVID lows signals recession risk; test whether credit markets price this real economy deterioration or remain complacent.",
+      "surfaced_at": "2026-06-16T16:51:59.147781+00:00"
     }
   ],
   "rejected": []
