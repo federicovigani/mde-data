@@ -76,6 +76,27 @@
       "source": "ZeroHedge",
       "relevance": "Housing starts crash 15.4% MoM to COVID lows signals recession risk; test whether credit markets price this real economy deterioration or remain complacent.",
       "surfaced_at": "2026-06-16T16:51:59.147781+00:00"
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "relevance": "New Fed Chair Warsh's first policy decision; signals potential shift in rate path and credit conditions under new leadership.",
+      "surfaced_at": "2026-06-17T18:01:57.331964+00:00"
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "source": "Federal Reserve",
+      "relevance": "Fed's forward projections on rates, growth, inflation inform market expectations of near-term easing and recession risk pricing in credit.",
+      "surfaced_at": "2026-06-17T18:01:57.331964+00:00"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/radical-earnings-cut-jpmorgan-sounds-alarm-after-bmws-forecast-shock",
+      "title": "\"Radical Earnings Cut\": JPMorgan Sounds Alarm After BMW's Forecast Shock",
+      "source": "ZeroHedge",
+      "relevance": "Major corporates cutting guidance sharply (BMW margin 6% to 1%); tests whether credit spreads price deteriorating earnings and China weakness.",
+      "surfaced_at": "2026-06-17T18:01:57.331964+00:00"
     }
   ],
   "rejected": []
