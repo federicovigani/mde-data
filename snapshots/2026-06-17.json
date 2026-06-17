@@ -1,8 +1,8 @@
 {
   "meta": {
     "date": "2026-06-17",
-    "generated_at": "2026-06-17T06:21:48.860277",
-    "n_tickers": 21,
+    "generated_at": "2026-06-17T06:25:11.755561",
+    "n_tickers": 22,
     "n_flagged": 0,
     "n_approaching": 0,
     "n_deep_value": 0,
@@ -168,8 +168,8 @@
     },
     "DX-Y.NYB": {
       "name": "Dollar (DXY)",
-      "return_5d": -0.44,
-      "current_price": 99.51
+      "return_5d": -0.42,
+      "current_price": 99.53
     },
     "IBIT": {
       "name": "Bitcoin ETF",
@@ -177,7 +177,20 @@
       "current_price": 37.17
     }
   },
-  "cross_asset_signals": [],
+  "cross_asset_signals": [
+    {
+      "type": "sector_vs_index",
+      "severity": "watch",
+      "sector": "XLE",
+      "sector_name": "Energy",
+      "sector_ret": -3.5,
+      "spy_ret": 1.8,
+      "beta": -0.44,
+      "expected_ret": -0.8,
+      "residual": -2.8,
+      "description": "XLE (Energy) -3.5% vs SPY +1.8% (beta -0.44, expected -0.8%) \u2014 excess move: -2.8%"
+    }
+  ],
   "macro_narrative": "Market regime: CALM. Low volatility, spreads contained \u2014 watch for complacency. HY spreads tight at 268bps (5th pct vs 5y, z=-1.18) \u2014 credit complacent. Yield curve positive at 0.42%.",
   "macro_score": {
     "score": 11.8,
@@ -227,7 +240,7 @@
     "sectors_red": 1,
     "sectors_total": 11,
     "em_red": 0,
-    "em_total": 7,
+    "em_total": 8,
     "sector_returns": {
       "XLF": 3.6,
       "XLE": -3.5,
@@ -239,10 +252,11 @@
       "XLRE": 2.2,
       "XLY": 2.2,
       "XLP": 1.8,
-      "XLC": 0.8
+      "XLC": 1.0
     },
     "em_returns": {
       "EEM": 4.8,
+      "EFA": 3.0,
       "FXI": 0.4,
       "EWJ": 4.0,
       "EWZ": 2.4,
@@ -315,15 +329,15 @@
       "ticker": "XLC",
       "name": "Comms",
       "asset_class": "sector",
-      "return_1d": 0.12,
-      "return_5d": 0.75,
-      "return_10d": -1.1,
-      "return_20d": -3.05,
+      "return_1d": 0.48,
+      "return_5d": 0.99,
+      "return_10d": -2.96,
+      "return_20d": -4.09,
       "momentum": null,
-      "zscore": 0.09,
-      "current_price": 112.32,
+      "zscore": 0.19,
+      "current_price": 112.19,
       "high_252d": 119.7,
-      "pct_from_high": -6.2,
+      "pct_from_high": -6.3,
       "lookback_days": 1260,
       "dislocation_score": 0,
       "dislocation_type": null,
@@ -540,6 +554,24 @@
       "current_price": 85.59,
       "high_252d": 89.51,
       "pct_from_high": -4.4,
+      "lookback_days": 1260,
+      "dislocation_score": 0,
+      "dislocation_type": null,
+      "credit_confirms": null
+    },
+    {
+      "ticker": "EFA",
+      "name": "Dev ex-US",
+      "asset_class": "country",
+      "return_1d": 0.22,
+      "return_5d": 2.97,
+      "return_10d": 0.9,
+      "return_20d": 3.96,
+      "momentum": null,
+      "zscore": 1.26,
+      "current_price": 104.31,
+      "high_252d": 104.31,
+      "pct_from_high": 0.0,
       "lookback_days": 1260,
       "dislocation_score": 0,
       "dislocation_type": null,
