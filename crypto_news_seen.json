@@ -125,93 +125,16 @@
       "source": "The Block",
       "what_moved": "Bitcoin long-term holder supply at record levels with declining selling pressure",
       "surfaced_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham",
+      "title": "Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham",
+      "source": "The Block",
+      "what_moved": "Bhutan transferred 533 BTC ($34.5M) to Binance; state holdings fell below 1,750 BTC",
+      "surfaced_at": "2026-06-17T19:25:50.766832+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&utm_medium=rss",
-      "title": "MANTRA to be acquired by Inveniam, backer that invested $20 million last year",
-      "source": "The Block",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404965/forward-solana-treasury-stock-jumps-8-as-smaller-dats-reject-acquisition-bids?utm_source=rss&utm_medium=rss",
-      "title": "Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids",
-      "source": "The Block",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404956/sec-atkins-defends-cftc-selig-questions-agencys-ability-regulate-prediction-markets?utm_source=rss&utm_medium=rss",
-      "title": "SEC Chair Atkins defends CFTC\u2019s Selig despite questions over agency\u2019s ability to regulate prediction markets",
-      "source": "The Block",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404942/ripple-flutterwave-series-3-2-billion-valuation-rlusd-integration?utm_source=rss&utm_medium=rss",
-      "title": "Ripple buys into Flutterwave Series E at $3.2 billion valuation, backs RLUSD integration",
-      "source": "The Block",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404941/state-street-launches-genius-compliant-money-market-fund-for-stablecoin-issuers?utm_source=rss&utm_medium=rss",
-      "title": "State Street launches GENIUS-compliant money market fund for stablecoin issuers",
-      "source": "The Block",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404920/bitcoin-rally-hype-record-run-market-waiting-real-conviction-analysts?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin\u2019s rally and HYPE\u2019s record run mask a market still waiting for real conviction, analysts say",
-      "source": "The Block",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss",
-      "title": "Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem",
-      "source": "The Block",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa",
-      "title": "Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/16/coinbase-to-join-tokenized-stock-race-with-onchain-shares-dividend-payments",
-      "title": "Coinbase to join tokenized stock race with onchain shares, dividend payments",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/06/16/binance-says-its-european-regulatory-application-is-fully-compliant-despite-report-of-greek-rejection",
-      "title": "Binance says its European regulatory application is compliant despite report of Greek rejection",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
-      "title": "State Street targets stablecoin reserve boom with new money market fund",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/16/coindesk-20-performance-update-uniswap-uni-gains-12-9-while-index-trades-lower",
-      "title": "CoinDesk 20 performance update: Uniswap (UNI) gains 12.9% while index trades lower",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/06/16/this-ai-builds-you-a-business-runs-it-and-settles-payments-in-usdc",
-      "title": "Y Combinator reveals a new AI agent that can build and run an entire business just from a text message",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure",
-      "title": "BlackRock's new bitcoin income fund offers cash flow alongside BTC exposure",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-16T15:54:55.329901+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss",
       "title": "Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed",
@@ -349,6 +272,90 @@
       "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
       "source": "DL News",
       "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405146/one-most-anti-crypto-laws-in-us-illinois-gov-pritzker-signs-0-2-crypto-tax?utm_source=rss&utm_medium=rss",
+      "title": "\u2018One of the most anti-crypto laws in the US\u2019: Illinois Gov. Pritzker signs 0.2% crypto tax",
+      "source": "The Block",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405136/polychain-coinbase-backed-satori-finance-dex-winds-down-unfavorable-market-conditions?utm_source=rss&utm_medium=rss",
+      "title": "Polychain and Coinbase-backed Satori Finance DEX winds down citing \u2018unfavorable market conditions\u2019",
+      "source": "The Block",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405117/trump-comments-fuel-dispute-over-polymarkets-120-million-permanent-iran-peace-deal-market?utm_source=rss&utm_medium=rss",
+      "title": "Trump comments fuel dispute over Polymarket\u2019s $120 million \u2018permanent\u2019 Iran peace deal market",
+      "source": "The Block",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405125/biggest-spend-of-the-cycle-fairshake-crypto-pacs-pick-barry-moore-wins-alabama-gop-senate-primary?utm_source=rss&utm_medium=rss",
+      "title": "\u2018Biggest spend of the cycle:\u2019 Fairshake crypto PAC\u2019s pick Barry Moore wins Alabama GOP Senate primary",
+      "source": "The Block",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405114/earnos-launches-anti-ai-slop-app-raises-6-million-1kx-circle-coinbase?utm_source=rss&utm_medium=rss",
+      "title": "EarnOS launches anti-AI slop app, raises $6 million from 1kx, Circle and Coinbase",
+      "source": "The Block",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&utm_medium=rss",
+      "title": "Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham",
+      "source": "The Block",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/17/here-is-how-coinbase-plan-to-survive-the-crypto-downturn-by-ditching-its-reliance-on-trading-fees",
+      "title": "Here is how Coinbase plan to survive the crypto downturn by ditching its reliance on trading fees",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/17/bitcoin-layer-2s-face-a-bear-market-reality-check",
+      "title": "Bitcoin layer-2s face a bear-market reality check",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/17/fifa-wanted-avalanche-s-blockchain-to-help-curb-world-cup-ticket-scalping-here-s-how-it-s-going",
+      "title": "FIFA wanted Avalanche's blockchain to help curb World Cup ticket scalping. Here's how it's going",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/17/fed-holds-rates-steady-in-first-decision-under-new-chairman-kevin-warsh",
+      "title": "Fed holds rates steady in first decision under new Chairman Kevin Warsh",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/17/crypto-industry-aghast-at-illinois-new-tax-on-holding-or-transferring-digital-assets-in-state-budget",
+      "title": "Crypto industry aghast at Illinois' new tax on holding or transferring digital assets in state budget",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-long-and-short-the-measure-of-a-maturing-market",
+      "title": "Crypto Long & Short: The measure of a maturing market",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
+      "title": "Moody\u2019s rolls out credit ratings on Solana in tokenized asset push",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/17/bitgo-stock-surges-on-usd50-million-share-buyback-as-value-languishes-65-below-ipo-price",
+      "title": "BitGo stock surges on $50 million share buyback as value languishes 65% below IPO price",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T19:25:50.766832+00:00"
     }
   ]
 }
