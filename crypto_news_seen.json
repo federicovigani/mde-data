@@ -1,13 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.coindesk.com/policy/2026/06/09/uk-financial-regulator-moves-to-allow-mutual-funds-10-exposure-to-crypto-etns",
-      "title": "UK financial regulator moves to allow mutual funds 10% exposure to crypto ETNs",
-      "source": "CoinDesk",
-      "what_moved": "UK regulator approves 10% crypto ETN allocation for mutual funds, expanding institutional access",
-      "surfaced_at": "2026-06-09T19:14:24.114221+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf?utm_source=rss&utm_medium=rss",
       "title": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says",
       "source": "The Block",
@@ -125,99 +118,16 @@
       "source": "CoinDesk",
       "what_moved": "Ethereum major protocol upgrade entering final development stage with testnet activation confirmed",
       "surfaced_at": "2026-06-16T15:54:55.329901+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405055/long-term-holders-are-hodling-k33-says-record-supply-metric-suggests-bear-market-nearing-end?utm_source=rss&utm_medium=rss",
+      "title": "'Long-term holders are hodling': K33 says record supply metric suggests bear market may be nearing an end",
+      "source": "The Block",
+      "what_moved": "Bitcoin long-term holder supply at record levels with declining selling pressure",
+      "surfaced_at": "2026-06-17T14:26:31.695856+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss",
-      "title": "Strategy supporters rebut \u2018death spiral\u2019 fears as bitcoin price wobbles",
-      "source": "The Block",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404768/benchmark-sec-nms-proposal-most-consequential-us-crypto-rule-this-year?utm_source=rss&utm_medium=rss",
-      "title": "Benchmark says SEC\u2019s NMS proposal is the \u2018most consequential\u2019 US crypto rule this year",
-      "source": "The Block",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404752/lets-put-it-in-etf-worst-outcome-bitcoin-says-trezor-exec?utm_source=rss&utm_medium=rss",
-      "title": "\u2018Let\u2019s just put it in an ETF\u2019 is the worst outcome for bitcoin, says Trezor exec",
-      "source": "The Block",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404751/kraken-launches-crypto-perps-trading-in-us-on-kraken-pro?utm_source=rss&utm_medium=rss",
-      "title": "Kraken launches crypto perps trading in the US on Kraken Pro",
-      "source": "The Block",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404748/tom-lee-sees-early-stages-crypto-spring-as-bitmine-buys-76881-eth?utm_source=rss&utm_medium=rss",
-      "title": "Tom Lee sees \u2018early stages of crypto spring\u2019 as Bitmine buys another 76,881 ETH",
-      "source": "The Block",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404741/strive-cio-says-prolonged-bitcoin-weakness-could-drive-treasury-firm-consolidation?utm_source=rss&utm_medium=rss",
-      "title": "Strive CIO says prolonged bitcoin weakness could drive treasury firm consolidation",
-      "source": "The Block",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404709/paradigm-leads-9-million-round-el-dorado?utm_source=rss&utm_medium=rss",
-      "title": "Paradigm leads $9 million round in LatAm payments app El Dorado",
-      "source": "The Block",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404728/still-adding-dots-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss",
-      "title": "\u2018Still adding dots\u2019: Michael Saylor\u2019s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC",
-      "source": "The Block",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it",
-      "title": "If America wants to lead in crypto, it must protect the people who build it",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish",
-      "title": "\u2018Crypto spring\u2019 is here, says one analyst after bitcoin's key signals turn bullish",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/15/kraken-debuts-u-s-perpetual-futures-as-crypto-derivatives-move-onshore",
-      "title": "Kraken debuts U.S. perpetual futures as crypto derivatives move onshore",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/15/coinbase-s-brian-armstrong-says-bitcoin-may-have-bottomed-at-usd60-000",
-      "title": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/15/xrp-rockets-8-above-usd1-20-in-first-major-breakout-since-june-selloff",
-      "title": "XRP rockets 8% above $1.20 in first major breakout since June selloff",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/15/coindesk-20-performance-update-bittensor-tao-surges-31-9-leading-index-higher",
-      "title": "CoinDesk 20 performance update: Bittensor (TAO) surges 31.9%, leading index higher",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale",
-      "title": "Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-15T16:18:27.490218+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&utm_medium=rss",
       "title": "MANTRA to be acquired by Inveniam, backer that invested $20 million last year",
@@ -301,6 +211,144 @@
       "title": "BlackRock's new bitcoin income fund offers cash flow alongside BTC exposure",
       "source": "CoinDesk",
       "seen_at": "2026-06-16T15:54:55.329901+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss",
+      "title": "Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed",
+      "source": "The Block",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405086/limitless-ceo-no-prediction-market-platform-will-dominate-perpetual-futures-precedent?utm_source=rss&utm_medium=rss",
+      "title": "Limitless CEO says no prediction market platform will dominate, citing perpetual futures precedent",
+      "source": "The Block",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405090/sens-lummis-gallego-trump-not-pardon-ftx-sam-bankman-fried?utm_source=rss&utm_medium=rss",
+      "title": "\u2018He had his day in court:\u2019 Sens. Lummis and Gallego press Trump not to pardon former FTX CEO Sam Bankman-Fried",
+      "source": "The Block",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405075/bitcoin-holds-below-65000-as-warsh-faces-first-fomc-test-and-strategy-concerns-linger?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin holds below $65,000 as Warsh faces first FOMC test and Strategy concerns linger",
+      "source": "The Block",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405076/benchmark-sees-coinbase-moving-past-cyclical-crypto-brokerage-270-usd-price-target?utm_source=rss&utm_medium=rss",
+      "title": "Benchmark sees Coinbase moving past \u2018cyclical crypto brokerage,\u2019 reiterates $270 price target",
+      "source": "The Block",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/404992/zama-morpho-steakhouse-launch-first-confidential-defi-yield-vault-ethereum?utm_source=rss&utm_medium=rss",
+      "title": "Zama, Morpho and Steakhouse launch first \u2018confidential DeFi yield\u2019 vault on Ethereum",
+      "source": "The Block",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405048/australia-high-court-block-earner-crypto-yield-case?utm_source=rss&utm_medium=rss",
+      "title": "Australia\u2019s High Court backs regulator in Block Earner crypto yield case",
+      "source": "The Block",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
+      "title": "Crypto\u2019s security nightmare won\u2019t be solved by ordinary audits",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/17/mexican-billionaire-with-70-of-his-investment-portfolio-in-bitcoin-says-it-s-better-than-real-estate",
+      "title": "Mexican billionaire with 70% of his investment portfolio in bitcoin says it's better than real estate",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/17/warsh-s-first-fed-meeting-could-be-more-about-communication-than-rates",
+      "title": "Kevin Warsh's first Fed meeting could be more about communication than rates",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/17/coindesk-20-performance-update-bitcoin-cash-bch-drops-3-1-leading-index-lower",
+      "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) drops 3.1%, leading index lower",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/17/a-new-bittensor-proposal-would-turn-validators-into-something-like-fund-managers",
+      "title": "A new Bittensor proposal would turn validators into something like fund managers",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/17/spacex-s-usd2-6-trillion-valuation-is-now-worth-nearly-twice-all-of-bitcoin",
+      "title": "SpaceX's $2.6 trillion market cap nearly double that of bitcoin",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/17/bitcoin-s-june-downturn-leaves-usd8-6-billion-in-options-out-of-the-money",
+      "title": "Bitcoin's June downturn leaves $8.6 billion in options out of the money",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/17/heir-to-135-year-gulf-dynasty-is-moving-a-usd6-trillion-trade-market-onto-blockchain-rails",
+      "title": "Fifth-generation Kanoo group member is moving a $6 trillion trade market onto blockchain rails",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue \u2018recovery tokens\u2019 in wake of $295m hack",
+      "source": "DL News",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
+      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
+      "source": "DL News",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-17T14:26:31.695856+00:00"
     }
   ]
 }
