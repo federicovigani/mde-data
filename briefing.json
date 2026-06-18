@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 11.8,
+  "score": 26.1,
   "tier": 2,
-  "narrative": "Market stress has dropped sharply from 30 to 12 over the past session, driven by a broad-based retreat in risk premia across equities and credit, with ten of eleven equity sectors in positive territory and no emerging market benchmarks in the red. High-yield spreads at 268 basis points sit at just the 5th percentile of their five-year range, signalling that credit markets are pricing near-peak complacency rather than residual concern. The standout move is the coordinated strength across emerging market equities, with EEM up 4.8%, INDA up 4.3%, and EWJ up 4.0% on a five-day basis, a breadth of gains that suggests the rotation carries conviction beyond a single idiosyncratic catalyst and warrants attention from allocators underweight non-US risk. Energy is the sole notable detractor, with XLE down 3.5%, likely reflecting softer commodity sentiment rather than any systemic deterioration given the otherwise clean risk backdrop. A sustained move in VIX back above 20, or a widening in high-yield spreads beyond the 350 basis point level, would be the clearest signal that the current calm-regime assessment requires reassessment.",
+  "narrative": "The stress score has doubled overnight, rising from 12 to 26, shifting the regime assessment from calm to cautious despite the broader equity backdrop remaining constructive. The move is driven primarily by concentrated sector weakness rather than systemic deterioration, with energy down 6.1% over five days acting as the principal drag on the distribution. Credit spreads remain tight and VIX is mid-range at 18.4 in contango, suggesting this is a sector-rotation story rather than a broad risk-off event.\n\nThe standout divergence is the 12.7 percentage point gap between EEM up 6.6% and XLE down 6.1%, reflecting a shift in capital toward emerging market growth exposure and away from commodity-linked cyclicals that warrants close monitoring for duration and breadth. A stress score sustained above 35, or a break in HY OAS beyond 320 basis points, would signal that the current sector stress is broadening into credit and would require a reassessment of the regime.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }

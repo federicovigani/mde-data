@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-17",
-  "pattern_fired": false,
-  "pattern_type": null,
+  "date": "2026-06-18",
+  "pattern_fired": true,
+  "pattern_type": "OVERNIGHT_JUMP",
   "notify_suppressed": false,
   "suppression_reason": "",
-  "score_today": 11.8,
-  "delta_1d": -18.7,
-  "delta_3d": -10.0,
+  "score_today": 26.1,
+  "delta_1d": 14.3,
+  "delta_3d": 8.5,
   "scores_last_6d": [
+    26.1,
     11.8,
     30.5,
     17.6,
     21.8,
-    32.4,
-    21.8
+    32.4
   ],
   "dates_last_6d": [
+    "2026-06-18",
     "2026-06-17",
     "2026-06-16",
     "2026-06-13",
     "2026-06-12",
-    "2026-06-11",
-    "2026-06-10"
+    "2026-06-11"
   ]
 }
