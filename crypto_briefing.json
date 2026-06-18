@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-17",
-  "generated_at": "2026-06-17T05:06:42.958819+00:00",
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T05:06:23.858178+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,13 +14,13 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": 1.778,
-  "btc_pct_below_1yr_high": -46.86,
+  "btc_zscore": 0.796,
+  "btc_pct_below_1yr_high": -47.43,
   "btc_rv30": 35.3,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
-  "fear_greed": 22,
+  "fear_greed": 15,
   "tier": "A",
-  "brief": "Realized volatility and drawdown metrics are both improving: RV30 rose 20bp to 35% (4.7pp from the 40% threshold) and the 1yr high gap narrowed 47bp to -46.9% (11.9pp from -35% filter). A crisis entry would require z-score below -3.0; a regime flip requires BTC above the 200d MA.",
+  "brief": "RV30 is unchanged at 35% (4.7pp above crisis threshold), while the 1yr-high gap worsened to -47.4% (now 12.4pp deeper into structural risk territory). A signal change requires either a z-score drop below -3.0 in this bear regime, or BTC recovery above the 200d MA to flip to bull phase.",
   "outliers": []
 }
