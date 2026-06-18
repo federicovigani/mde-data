@@ -125,6 +125,13 @@
       "source": "CoinDesk",
       "what_moved": "BTC and ETH ETFs: $111M combined outflow in single day",
       "surfaced_at": "2026-06-18T09:14:18.638553+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405213/bitcoin-slips-below-64000-as-hawkish-fed-overshadows-signs-of-onchain-repair?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair",
+      "source": "The Block",
+      "what_moved": "BTC ETFs posted $82.2 million net outflow; Glassnode signals improving liquidity forming floor",
+      "surfaced_at": "2026-06-18T14:11:12.411100+00:00"
     }
   ],
   "rejected": [
@@ -427,6 +434,96 @@
       "title": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
       "source": "CoinDesk",
       "seen_at": "2026-06-18T09:14:18.638553+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&utm_medium=rss",
+      "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
+      "source": "The Block",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405168/tethers-xaut-gold-token-added-to-ledn-lending-platform?utm_source=rss&utm_medium=rss",
+      "title": "Tether\u2019s XAUT gold token added to Ledn lending platform",
+      "source": "The Block",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405234/bitcoin-miner-hive-220-million-ai-gpu-deal-bell-expects-70-million-annual-revenue?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin miner HIVE inks $220 million AI GPU deal with Bell, expects $70 million annual revenue",
+      "source": "The Block",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405224/alchemy-unveils-visa-powered-virtual-payment-card-for-ai-agents?utm_source=rss&utm_medium=rss",
+      "title": "Alchemy unveils Visa-powered virtual payment card for AI agents",
+      "source": "The Block",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405205/stablecoin-compliance-startup-range-fintech-crypto-vcs-series-a?utm_source=rss&utm_medium=rss",
+      "title": "Stablecoin compliance startup Range raises $8.3 million from fintech and crypto VCs",
+      "source": "The Block",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405207/aztec-investigates-2-million-exploit-of-deprecated-payments-product?utm_source=rss&utm_medium=rss",
+      "title": "Aztec investigates $2 million exploit of deprecated payments product",
+      "source": "The Block",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case?utm_source=rss&utm_medium=rss",
+      "title": "\u2018Bitcoin Rodney\u2019 pleads guilty in $1.8 billion crypto fraud case",
+      "source": "The Block",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
+      "title": "Algorand unveils roadmap to achieve quantum resistance by 2028",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines",
+      "title": "CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network",
+      "title": "Alchemy's AI-driven identity and payment service gains access to Visa network",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal",
+      "title": "Hive shares jumps 10% on $220m Canada sovereign AI infrastructure deal",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/18/the-great-rotation-investors-desert-the-magnificent-7-crypto-for-ai-bottlenecks",
+      "title": "The great rotation: Investors desert the Magnificent 7, crypto for AI bottlenecks",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/06/18/bitcoin-s-nemesis-the-dollar-index-is-on-the-verge-of-a-major-breakout",
+      "title": "Bitcoin's nemesis, the Dollar Index, is on the verge of a major breakout",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
+      "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/18/crypto-market-positioning-is-defensive-and-thin-after-fed-marex-analysts-say",
+      "title": "Crypto market positioning is 'defensive and thin' after Fed, Marex\u00a0 analysts say",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-18T14:11:12.411100+00:00"
     }
   ]
 }
