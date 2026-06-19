@@ -1,34 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold",
-      "title": "JPMorgan says debasement trade retreat has 'accelerated' for bitcoin",
-      "source": "The Block",
-      "what_moved": "Debasement trade retreat accelerating for Bitcoin in recent weeks",
-      "surfaced_at": "2026-06-12T00:19:52.209270+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404503/blackrock-yield-bitcoin-etf-launch",
-      "title": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says",
-      "source": "The Block",
-      "what_moved": "BlackRock filing new yield-generating Bitcoin ETF product with imminent launch",
-      "surfaced_at": "2026-06-12T00:19:52.209270+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf?utm_source=rss&utm_medium=rss",
-      "title": "BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week",
-      "source": "The Block",
-      "what_moved": "BlackRock files SEC 8-A for yield-bearing BTC ETF; imminent launch signaled",
-      "surfaced_at": "2026-06-12T08:57:45.803181+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404523/avalanche-treasury-nasdaq-debut?utm_source=rss&utm_medium=rss",
-      "title": "Avalanche Treasury shares fall 38% on Nasdaq debut after $675 million merger",
-      "source": "The Block",
-      "what_moved": "AVAX treasury-backed Nasdaq entity commits >$1B AVAX acquisition over time post-debut",
-      "surfaced_at": "2026-06-12T08:57:45.803181+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume?utm_source=rss&utm_medium=rss",
       "title": "US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows",
       "source": "The Block",
@@ -139,87 +111,30 @@
       "source": "The Block",
       "what_moved": "Major miners reporting 1,859 BTC combined May output with diverging treasury strategies amid hashrate compression",
       "surfaced_at": "2026-06-18T19:29:05.391016+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss",
+      "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
+      "source": "The Block",
+      "what_moved": "Morgan Stanley ETH and SOL ETF amendments filed, lowest-fee products signaling SEC approval progress",
+      "surfaced_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss",
+      "title": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
+      "source": "The Block",
+      "what_moved": "Bitcoin microtransactions (<0.01 BTC) surged from 44% (2023) to 80% of daily volume",
+      "surfaced_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
+      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
+      "source": "DL News",
+      "what_moved": "Uniswap DAO reclaims $42M UNI governance tokens from delegates, consolidating voting power",
+      "surfaced_at": "2026-06-19T09:28:33.890316+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/405190/tether-winds-down-ausdt?utm_source=rss&utm_medium=rss",
-      "title": "Tether winds down aUSDT stablecoin and Alloy platform to sharpen focus",
-      "source": "The Block",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405185/kentucky-lawsuit-kalshi-polymarket?utm_source=rss&utm_medium=rss",
-      "title": "Kentucky files lawsuits against prediction market platforms Kalshi and Polymarket",
-      "source": "The Block",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&utm_medium=rss",
-      "title": "Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood",
-      "source": "The Block",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&utm_medium=rss",
-      "title": "CME Group to sue CFTC over approval of perpetual futures, CEO tells CNBC",
-      "source": "The Block",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405160/strategys-strc-preferred-stock-closes-day-89?utm_source=rss&utm_medium=rss",
-      "title": "Strategy\u2019s STRC preferred stock closes day 11% under par at $89",
-      "source": "The Block",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405152/crypto-markets-wobble-hawkish-fed-outlook-kevin-warsh-first-fomc-meeting?utm_source=rss&utm_medium=rss",
-      "title": "Crypto markets wobble after hawkish Fed outlook in Kevin Warsh\u2019s first FOMC meeting",
-      "source": "The Block",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note",
-      "title": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/18/strategy-s-strc-preferred-stock-hits-a-record-low-below-par",
-      "title": "Strategy's STRC preferred stock hits a record low below par",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/18/xrp-slips-4-below-usd1-20-after-breakout-rally-stalls-near-key-resistance",
-      "title": "XRP slips 4% below $1.20 after breakout rally stalls near key resistance",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says",
-      "title": "Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
-      "title": "Bitcoin, ether slide after a hawkish Fed, even as Trump's signed Iran deal lifts stocks",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says",
-      "title": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval",
-      "title": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-18T09:14:18.638553+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&utm_medium=rss",
       "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
@@ -381,6 +296,120 @@
       "title": "Crypto for Advisors: Trading the bitcoin cycle",
       "source": "CoinDesk",
       "seen_at": "2026-06-18T19:29:05.391016+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/learn/404536/what-is-the-clarity-act?utm_source=rss&utm_medium=rss",
+      "title": "What Is the CLARITY Act? The Crypto Market Structure Bill Explained",
+      "source": "The Block",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/learn/405386/what-happens-when-bitcoin-reaches-21-million-supply?utm_source=rss&utm_medium=rss",
+      "title": "What Happens When Bitcoin Reaches 21 Million Supply?",
+      "source": "The Block",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps?utm_source=rss&utm_medium=rss",
+      "title": "CFTC, SEC request public comment to clarify definition of \u2018swaps\u2019 amid CME lawsuit",
+      "source": "The Block",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405369/kalshi-early-ipo-talks?utm_source=rss&utm_medium=rss",
+      "title": "Kalshi holds early IPO talks with investment banks: report",
+      "source": "The Block",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss",
+      "title": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
+      "source": "The Block",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405350/strategys-preferred-stock-strc-continues-trade-under-90-trading-volume-jumps?utm_source=rss&utm_medium=rss",
+      "title": "Strategy\u2019s preferred stock STRC continues to trade under $90 as trading volume jumps",
+      "source": "The Block",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue \u2018recovery tokens\u2019 in wake of $295m hack",
+      "source": "DL News",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/19/digital-credit-market-hit-by-record-selloff-as-strive-ceo-blames-leverage-liquidations",
+      "title": "Digital credit market hit by huge selloff as Strive CEO blames leverage liquidations",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks",
+      "title": "Microsoft found malware that hijacks crypto wallets and spreads through USB sticks",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades",
+      "title": "XRP falls 3% after losing $1.15 support as breakout attempt fades",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
+      "title": "Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000",
+      "title": "Bitcoin traders load up on bearish bets all the way down to $52,000",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades",
+      "title": "Bitcoin falls below $63,000 as risk assets sell off and the week's bounce fades",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-19T09:28:33.890316+00:00"
     }
   ]
 }
