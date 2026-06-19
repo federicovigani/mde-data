@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 26.1,
+  "score": 12.9,
   "tier": 2,
-  "narrative": "The stress score has doubled overnight, rising from 12 to 26, shifting the regime assessment from calm to cautious despite the broader equity backdrop remaining constructive. The move is driven primarily by concentrated sector weakness rather than systemic deterioration, with energy down 6.1% over five days acting as the principal drag on the distribution. Credit spreads remain tight and VIX is mid-range at 18.4 in contango, suggesting this is a sector-rotation story rather than a broad risk-off event.\n\nThe standout divergence is the 12.7 percentage point gap between EEM up 6.6% and XLE down 6.1%, reflecting a shift in capital toward emerging market growth exposure and away from commodity-linked cyclicals that warrants close monitoring for duration and breadth. A stress score sustained above 35, or a break in HY OAS beyond 320 basis points, would signal that the current sector stress is broadening into credit and would require a reassessment of the regime.",
+  "narrative": "The stress score has dropped sharply from 26 to 13, moving the regime firmly into calm territory as equity momentum and credit conditions aligned to the downside of risk. High-yield spreads at 261 basis points sit at the first percentile of their five-year range, signalling that credit markets are pricing virtually no distress, while the VIX at 16.4 in a normal contango structure confirms that options markets see no near-term volatility catalyst.\n\nThe standout move is the divergence between energy and emerging markets: XLE has shed 5.9% over five days while EEM has gained 5.4%, suggesting a rotation out of commodity-linked domestic exposure and into broader EM growth plays, with Japan adding further weight to the risk-on tone via a 5.0% advance in EWJ. A reversal in that EM momentum, or a credit spread widening that pushes HY OAS back above 300 basis points, would be the clearest signal that the current calm regime is coming under pressure.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }

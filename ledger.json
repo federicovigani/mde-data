@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T05:02:56.609288+00:00",
+  "generated_at": "2026-06-19T05:02:38.375608+00:00",
   "n_signals": 30,
   "summary": {
     "DISLOCATION_ONSET": {
@@ -90,7 +90,7 @@
         60
       ],
       "entry_date": "2023-10-19",
-      "entry_price": 413.33,
+      "entry_price": 412.27,
       "fwd_returns_pct": {
         "5d": -3.25,
         "10d": 1.02,
@@ -113,7 +113,7 @@
         60
       ],
       "entry_date": "2023-10-25",
-      "entry_price": 404.73,
+      "entry_price": 403.69,
       "fwd_returns_pct": {
         "5d": 1.22,
         "10d": 4.72,
@@ -136,7 +136,7 @@
         60
       ],
       "entry_date": "2023-10-26",
-      "entry_price": 399.88,
+      "entry_price": 398.85,
       "fwd_returns_pct": {
         "5d": 4.41,
         "10d": 5.16,
@@ -159,7 +159,7 @@
         60
       ],
       "entry_date": "2024-08-02",
-      "entry_price": 521.92,
+      "entry_price": 520.58,
       "fwd_returns_pct": {
         "5d": 0.02,
         "10d": 4.02,
@@ -182,7 +182,7 @@
         60
       ],
       "entry_date": "2024-09-03",
-      "entry_price": 540.7,
+      "entry_price": 539.31,
       "fwd_returns_pct": {
         "5d": -0.6,
         "10d": 1.99,
@@ -205,7 +205,7 @@
         60
       ],
       "entry_date": "2024-09-06",
-      "entry_price": 529.22,
+      "entry_price": 527.86,
       "fwd_returns_pct": {
         "5d": 4.01,
         "10d": 5.48,
@@ -228,7 +228,7 @@
         60
       ],
       "entry_date": "2024-10-03",
-      "entry_price": 557.82,
+      "entry_price": 556.39,
       "fwd_returns_pct": {
         "5d": 1.46,
         "10d": 2.56,
@@ -251,7 +251,7 @@
         60
       ],
       "entry_date": "2024-10-07",
-      "entry_price": 557.8,
+      "entry_price": 556.37,
       "fwd_returns_pct": {
         "5d": 2.91,
         "10d": 2.79,
@@ -274,7 +274,7 @@
         60
       ],
       "entry_date": "2024-10-15",
-      "entry_price": 569.57,
+      "entry_price": 568.11,
       "fwd_returns_pct": {
         "5d": 0.61,
         "10d": 0.34,
@@ -297,7 +297,7 @@
         60
       ],
       "entry_date": "2024-10-25",
-      "entry_price": 568.85,
+      "entry_price": 567.38,
       "fwd_returns_pct": {
         "5d": -1.38,
         "10d": 3.31,
@@ -320,7 +320,7 @@
         60
       ],
       "entry_date": "2024-10-30",
-      "entry_price": 569.8,
+      "entry_price": 568.33,
       "fwd_returns_pct": {
         "5d": 1.9,
         "10d": 2.96,
@@ -343,7 +343,7 @@
         60
       ],
       "entry_date": "2024-12-18",
-      "entry_price": 575.96,
+      "entry_price": 574.48,
       "fwd_returns_pct": {
         "5d": 2.91,
         "10d": 1.31,
@@ -366,7 +366,7 @@
         60
       ],
       "entry_date": "2025-02-27",
-      "entry_price": 576.68,
+      "entry_price": 575.2,
       "fwd_returns_pct": {
         "5d": -2.11,
         "10d": -5.75,
@@ -389,7 +389,7 @@
         60
       ],
       "entry_date": "2025-03-03",
-      "entry_price": 575.42,
+      "entry_price": 573.94,
       "fwd_returns_pct": {
         "5d": -3.97,
         "10d": -2.85,
@@ -412,7 +412,7 @@
         60
       ],
       "entry_date": "2025-03-28",
-      "entry_price": 549.36,
+      "entry_price": 547.95,
       "fwd_returns_pct": {
         "5d": -9.07,
         "10d": -3.91,
@@ -435,7 +435,7 @@
         60
       ],
       "entry_date": "2025-04-10",
-      "entry_price": 518.63,
+      "entry_price": 517.3,
       "fwd_returns_pct": {
         "5d": 0.35,
         "10d": 4.97,
@@ -458,7 +458,7 @@
         60
       ],
       "entry_date": "2025-04-14",
-      "entry_price": 533.01,
+      "entry_price": 531.64,
       "fwd_returns_pct": {
         "5d": -2.2,
         "10d": 2.82,
@@ -481,7 +481,7 @@
         60
       ],
       "entry_date": "2025-05-21",
-      "entry_price": 576.25,
+      "entry_price": 574.77,
       "fwd_returns_pct": {
         "5d": 1.23,
         "10d": 1.75,
@@ -504,7 +504,7 @@
         60
       ],
       "entry_date": "2025-05-23",
-      "entry_price": 572.55,
+      "entry_price": 571.08,
       "fwd_returns_pct": {
         "5d": 2.35,
         "10d": 3.55,
@@ -527,7 +527,7 @@
         60
       ],
       "entry_date": "2025-06-13",
-      "entry_price": 590.23,
+      "entry_price": 588.72,
       "fwd_returns_pct": {
         "5d": 0.82,
         "10d": 3.8,
@@ -550,7 +550,7 @@
         60
       ],
       "entry_date": "2025-06-17",
-      "entry_price": 590.76,
+      "entry_price": 589.24,
       "fwd_returns_pct": {
         "5d": 1.91,
         "10d": 4.14,
@@ -573,7 +573,7 @@
         60
       ],
       "entry_date": "2025-06-20",
-      "entry_price": 589.28,
+      "entry_price": 587.77,
       "fwd_returns_pct": {
         "5d": 3.47,
         "10d": 4.44,
@@ -596,7 +596,7 @@
         60
       ],
       "entry_date": "2025-10-10",
-      "entry_price": 649.32,
+      "entry_price": 647.65,
       "fwd_returns_pct": {
         "5d": 1.74,
         "10d": 3.71,
@@ -619,7 +619,7 @@
         60
       ],
       "entry_date": "2025-10-14",
-      "entry_price": 658.48,
+      "entry_price": 656.79,
       "fwd_returns_pct": {
         "5d": 1.37,
         "10d": 3.75,
@@ -642,7 +642,7 @@
         60
       ],
       "entry_date": "2025-11-17",
-      "entry_price": 661.9,
+      "entry_price": 660.2,
       "fwd_returns_pct": {
         "5d": 0.46,
         "10d": 2.38,
@@ -665,7 +665,7 @@
         60
       ],
       "entry_date": "2026-02-05",
-      "entry_price": 675.77,
+      "entry_price": 674.04,
       "fwd_returns_pct": {
         "5d": 0.54,
         "10d": 1.74,
@@ -688,7 +688,7 @@
         60
       ],
       "entry_date": "2026-02-12",
-      "entry_price": 679.41,
+      "entry_price": 677.67,
       "fwd_returns_pct": {
         "5d": 1.2,
         "10d": 0.69,
@@ -711,7 +711,7 @@
         60
       ],
       "entry_date": "2026-02-19",
-      "entry_price": 682.62,
+      "entry_price": 680.86,
       "fwd_returns_pct": {
         "5d": 0.7,
         "10d": -0.46,
@@ -734,7 +734,7 @@
         60
       ],
       "entry_date": "2026-02-23",
-      "entry_price": 680.53,
+      "entry_price": 678.78,
       "fwd_returns_pct": {
         "5d": 0.58,
         "10d": -0.6,
@@ -757,7 +757,7 @@
         60
       ],
       "entry_date": "2026-03-02",
-      "entry_price": 684.51,
+      "entry_price": 682.75,
       "fwd_returns_pct": {
         "5d": -1.18,
         "10d": -2.53,
