@@ -1,52 +1,30 @@
 {
-  "run_at": "2026-06-13T10:27:03+00:00",
+  "run_at": "2026-06-20T10:31:21+00:00",
   "model": "claude-sonnet-4-6",
   "lookback": 5,
   "min_days": 2,
   "candidates": [
     {
-      "ticker": "T",
-      "name": "AT&T",
-      "days_flagged": 3,
-      "return_5d": -7.83,
-      "zscore": -2.63,
-      "pct_from_high": -21.1,
-      "verdict": "WAIT",
-      "reason": "Oppenheimer Starlink-threat downgrade plus Supreme Court FCC fine ruling",
-      "thesis": "The Starlink competitive re-rating narrative is only ~10 days old \u2014 too fresh for seller exhaustion. The SpaceX IPO has now listed, keeping the threat permanently on the public-market tape as a recurring headwind. Near-term fundamentals (FCF reaffirmed, Q4 beat) are intact and valuation at P/E 7.8x / 4.8% yield is attractive, but the analyst downgrade cycle may not be complete and peers are recovering faster. Watch the Mizuho CFO transcript (June 9), SPCX post-IPO price action, and any follow-on analyst cuts before the July 22 earnings date provides the next fundamental clearing event."
-    },
-    {
-      "ticker": "HON",
-      "name": "Honeywell",
-      "days_flagged": 3,
-      "return_5d": -8.3,
-      "zscore": -2.57,
-      "pct_from_high": -12.6,
-      "verdict": "ENTER",
-      "reason": "Aerospace spin-off mechanics and RemainCo EPS outlook disappointment ahead of June 29 separation",
-      "thesis": "The HON selloff is mechanical and structural \u2014 not a new fundamental impairment. Forced institutional selling ahead of the June 15 record date, index rebalancing, and mandate-driven exits have compressed the stock ~10% on news that was pre-announced and only mildly below consensus. Analysts remain bullish on a sum-of-the-parts basis with implied upside of 15\u201335% across both entities, and the GE Aerospace/GE Vernova breakup analogue is widely cited. Research priority: build a SOTP model for HONA and HON Technologies separately using the June 3 and June 11 investor day materials, assess whether the automation RemainCo's 2-3% near-term growth guide is transitory, and monitor the HON/HONIV spread opening Monday June 15 as the real-time market valuation of the aerospace spinoff."
-    },
-    {
       "ticker": "ADBE",
       "name": "Adobe",
       "days_flagged": 2,
-      "return_5d": -18.86,
-      "zscore": -3.69,
-      "pct_from_high": -50.7,
+      "return_5d": -15.9,
+      "zscore": -3.01,
+      "pct_from_high": -49.9,
       "verdict": "WAIT",
-      "reason": "Organic ARR guidance cut ~$480M and surprise CFO departure alongside ongoing CEO search",
-      "thesis": "The AI disruption narrative is months old and the valuation at ~12x earnings is genuinely compressed, but June 11 earnings introduced fresh negative information: an organic ARR guidance cut of ~$480M and a surprise CFO departure that together triggered a wave of fresh analyst downgrades still in progress. The freemium-to-paid conversion bet is unquantified and unproven for at least two more quarters. Watch for a second leg toward Wolfe's $165-$210 bear case floor \u2014 that exhaustion print, combined with insider buying or a named CEO, would be the ENTER trigger."
+      "reason": "CFO surprise exit + organic ARR guide-down, dual C-suite vacant post-earnings",
+      "thesis": "The AI disruption narrative is stale and the valuation at ~11x forward P/E is extreme for Adobe's quality, but the organic ARR guide-down and surprise CFO departure are genuinely fresh information from June 11, and analyst downgrades were still arriving as of June 19 \u2014 the repricing cycle is not yet complete. The freemium pivot introduces a 12\u201318 month uncertainty window with no hard catalyst to end it, unlike the classic capitulation template. Watch for the last analyst cuts to clear, the $190 52-week floor to hold on volume, and any CEO announcement \u2014 that would be the specific entry trigger to act on."
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft",
+      "ticker": "SLB",
+      "name": "SLB",
       "days_flagged": 2,
-      "return_5d": -10.59,
-      "zscore": -2.97,
-      "pct_from_high": -23.6,
+      "return_5d": -14.12,
+      "zscore": -2.91,
+      "pct_from_high": -17.1,
       "verdict": "WAIT",
-      "reason": "Xbox division reset memo, layoffs, hardware crisis, and macro CPI shock",
-      "thesis": "The AI-discount and Xbox restructuring narratives have been in press for months, and fundamentals (Azure +40%, AI $37B run rate, PEG 16% below decade median) are genuinely strong \u2014 the selloff is likely overcooked. However, Xbox layoff headlines will hit again in early July, and the Q4 FY26 earnings report on July 28 is the natural clearing event where the bull case either gets validated or broken. The stock has been grinding, not capitulating, and the 40-day low hasn't been retested \u2014 wait for either a flush to that level or a post-earnings catalyst before entering."
+      "reason": "US-Iran peace deal confirmed; Strait of Hormuz reopening collapses oil war premium",
+      "thesis": "This is the second or third leg of a known macro trade \u2014 the Iran peace deal and Hormuz reopening were telegraphed for weeks, so this is not first-leg selling. However, oil has not yet found its new equilibrium, sell-side consensus has not capitulated (still overwhelmingly Buy-rated at $59+ targets vs. $48 stock), and Q2 earnings in late July carry real guidance-cut risk. The contrarian case is compelling \u2014 a $58B post-war reconstruction cycle and a growing digital segment are being ignored \u2014 but the entry point is not yet confirmed. Monitor for: oil price floor establishment, insider buying, or a final Q2 earnings washout in the $43-45 zone."
     }
   ],
   "sent": true
