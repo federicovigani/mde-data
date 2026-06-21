@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-20",
-  "generated_at": "2026-06-20T05:06:16.580253+00:00",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T05:06:21.015135+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,13 +14,14 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": -0.375,
-  "btc_pct_below_1yr_high": -49.59,
+  "btc_zscore": -0.595,
+  "btc_pct_below_1yr_high": -49.1,
   "btc_rv30": 35.9,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
   "fear_greed": 23,
+  "days_in_state": 2,
   "tier": "A",
-  "brief": "Realized volatility improved 0.4pp closer to the 40% threshold, but the 1yr-high gap worsened 1.2pp further below -35%, now at -49.6%. Signal would flip only on a crisis z-score below -3.0 or a recovery above the 200d MA to exit the bear regime.",
+  "brief": "RV30 unchanged at 36% (4.1pp below threshold); 1yr-high gap improved 49bp to -49.1% (still 14.1pp below structural risk floor). Crisis entry requires z below -3.0; regime flip needs price above 200d MA to exit BEAR phase.",
   "outliers": []
 }
