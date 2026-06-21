@@ -1,6 +1,19 @@
 {
   "equity": [
     {
+      "week_end": "2026-06-20",
+      "article_count": 6,
+      "dominant_theme": "central bank policy shock meets real economy deterioration",
+      "tone": "escalating",
+      "key_signals": [
+        "BoJ hikes to 1% and halts QT - first time in 31 years, global credit shock",
+        "US housing starts collapse 15.4% MoM to COVID lows - recession signal",
+        "BMW margin crashes from 6% to 1% - corporate earnings deterioration accelerating"
+      ],
+      "narrative": "The week delivered a significant escalation across multiple dimensions simultaneously - the BoJ rate hike to 1% with a halt to QT is a structural shift in global funding conditions that could reprice carry trades and pressure dollar credit markets in ways not yet visible in spreads. Simultaneously, US housing starts collapsed to COVID lows and BMW issued a radical earnings cut, both confirming that the real economy and corporate earnings are deteriorating faster than public credit markets are acknowledging. Four weeks of sequential escalation from ECB warnings through private credit gating to public funding cracks now culminates in a central bank policy shock layered on top of hard data recession signals - the equity engine sitting at business as usual with a score of 20 is a textbook equity-credit divergence that historically resolves through spread widening rather than equity complacency being vindicated.",
+      "generated_at": "2026-06-21T12:14:53+00:00"
+    },
+    {
       "week_end": "2026-06-13",
       "article_count": 3,
       "dominant_theme": "funding market stress",
@@ -39,5 +52,32 @@
       "generated_at": "2026-06-14T12:04:45+00:00"
     }
   ],
-  "crypto": []
+  "crypto": [
+    {
+      "week_end": "2026-06-20",
+      "article_count": 16,
+      "dominant_theme": "crypto liquidity stress under hawkish Fed pressure - mining economics deteriorate and ETF flows reverse",
+      "tone": "escalating",
+      "key_signals": [
+        "Bitcoin ETF and Ether ETF combined outflows hit $111m as rate-cut hopes fade",
+        "JPMorgan flags BTC trading below miner production cost as difficulty drops 10%",
+        "Binance faces potential EU service halt adding exchange-level regulatory overhang"
+      ],
+      "narrative": "The dominant move this week was a hawkish Fed repricing killing near-term rate-cut expectations and hitting crypto directly - BTC slipped below $64,000, ETF flows turned sharply negative, and JPMorgan confirmed mining economics are now underwater relative to production cost. The mining stress is notable because it compounds last week's quantum infrastructure warning with an immediate cash-flow squeeze, raising the prospect of forced miner selling or distressed balance sheets among publicly listed operators. Binance's potential EU client suspension adds a separate but meaningful exchange-level risk that could accelerate retail outflows if it materialises next month.",
+      "generated_at": "2026-06-21T12:15:07+00:00"
+    },
+    {
+      "week_end": "2026-06-13",
+      "article_count": 1,
+      "dominant_theme": "crypto infrastructure systemic vulnerability - quantum threat to bitcoin cold wallet security",
+      "tone": "cautionary",
+      "key_signals": [
+        "Coinbase report: millions of bitcoin exposed via address reuse quantum attack vector",
+        "Exchange cold wallets flagged as vulnerable - custodial systemic risk implied",
+        "Quantum threat narrative re-emerges with named institutional infrastructure at risk"
+      ],
+      "narrative": "Coinbase published a quantum computing vulnerability report flagging exchange cold wallets and millions of bitcoin exposed through address reuse as potential targets. While quantum attacks at this scale remain a forward risk rather than an immediate one, the significance is that a major regulated custodian is now formally acknowledging infrastructure-level exposure. This warrants monitoring for any credit or liquidity stress in crypto-adjacent balance sheets should the narrative accelerate or trigger retail confidence concerns.",
+      "generated_at": "2026-06-21T12:15:00+00:00"
+    }
+  ]
 }
