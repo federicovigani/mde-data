@@ -1,20 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
-      "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
-      "source": "The Block",
-      "what_moved": "Millions of BTC in exchange cold wallets exposed via address reuse vulnerability",
-      "surfaced_at": "2026-06-14T18:13:24.985467+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
-      "source": "The Block",
-      "what_moved": "Bitcoin mining difficulty down 10%; miner economics remain underwater at current price",
-      "surfaced_at": "2026-06-15T00:10:35.074319+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/404748/tom-lee-sees-early-stages-crypto-spring-as-bitmine-buys-76881-eth",
       "title": "Tom Lee sees 'early stages of crypto spring' as Bitmine buys another 76,881 ETH",
       "source": "The Block",
@@ -118,86 +104,148 @@
       "source": "The Block",
       "what_moved": "Franklin Templeton files for two new dividend-reinvestment-to-BTC ETFs, effective Sept 1, 2026",
       "surfaced_at": "2026-06-20T18:12:45.352171+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
+      "title": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself",
+      "source": "The Block",
+      "what_moved": "US spot BTC ETFs: $227M net outflows, sixth consecutive week",
+      "surfaced_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405505/toss-solana-partnership?utm_source=rss&utm_medium=rss",
+      "title": "South Korea's Toss Bank to test blockchain-based financial infrastructure on Solana",
+      "source": "The Block",
+      "what_moved": "Toss Bank & Solana: proof-of-concept for remittances/payments on SOL mainnet",
+      "surfaced_at": "2026-06-22T10:38:49.278728+00:00"
     }
   ],
   "rejected": [
     {
-      "url": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
-      "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
+      "url": "https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss",
+      "title": "Bank of Korea advances CBDC deposit token initiative to test real-world usage: report",
       "source": "The Block",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/405446/td-cowen-cme-upper-hand-cftc-lawsuit-crypto-perpetual-futures?utm_source=rss&utm_medium=rss",
-      "title": "TD Cowen says CME has the upper hand in lawsuit against CFTC over crypto perpetual futures",
+      "url": "https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss",
+      "title": "Ethereum \u2018tax\u2019 debate erupts over proposal to redirect portion of staking rewards to ecosystem funding",
       "source": "The Block",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&utm_medium=rss",
-      "title": "Two Texas brothers admit to $8 million crypto robbery after holding family at gunpoint, face up to 20 years in prison",
+      "url": "https://www.theblock.co/post/405507/bitget-us-stock-purchases-crypto?utm_source=rss&utm_medium=rss",
+      "title": "Bitget enables direct US stock purchases using crypto",
       "source": "The Block",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard?utm_source=rss&utm_medium=rss",
-      "title": "Base targets June 25 mainnet launch for Beryl upgrade and new B20 token standard",
+      "url": "https://www.theblock.co/learn/405498/how-does-tether-make-money?utm_source=rss&utm_medium=rss",
+      "title": "How Does Tether Make Money? Understanding the Business Model Behind USDT",
       "source": "The Block",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/405406/strive-ceo-strc-sata?utm_source=rss&utm_medium=rss",
-      "title": "\u2018Most difficult day in the history of digital credit\u2019: Strive CEO says leverage liquidation drove STRC and SATA selloff",
+      "url": "https://www.theblock.co/post/405489/japan-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss",
+      "title": "Japan\u2019s corporate pension fund plans to allocate 1% of assets to crypto: reports",
       "source": "The Block",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor?utm_source=rss&utm_medium=rss",
-      "title": "Ethereum could face core development \u2018funding crisis\u2019 within nine months, says former EF contributor",
+      "url": "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&utm_medium=rss",
+      "title": "Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds",
       "source": "The Block",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin?utm_source=rss&utm_medium=rss",
-      "title": "Franklin Templeton files for ETFs that reinvest stock dividends into bitcoin",
-      "source": "The Block",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
-      "title": "AI is making crypto security cheaper, faster and harder to ignore",
+      "url": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
+      "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
       "source": "CoinDesk",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
-      "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+      "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
+      "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
       "source": "CoinDesk",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
-      "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
+      "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-price-may-be-headed-to-usd54-000-says-analyst-who-forecast-october-s-all-time-high",
+      "title": "Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high",
       "source": "CoinDesk",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
-      "title": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
+      "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
+      "title": "Live markets: Friday's biggest bitcoin options expiry of the year puts $60,000 in focus",
       "source": "CoinDesk",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
-      "title": "Franklin Templeton proposes new ETFs that turn corporate dividends into bitcoin",
+      "url": "https://www.coindesk.com/tech/2026/06/22/bitcoin-developers-want-to-fix-the-replace-this-transaction-with-a-higher-fee-button-here-s-why",
+      "title": "Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why",
       "source": "CoinDesk",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day",
-      "title": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day",
+      "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal",
+      "title": "Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal",
       "source": "CoinDesk",
-      "seen_at": "2026-06-20T18:12:45.352171+00:00"
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/22/xrp-briefly-loses-usd1-14-support-before-buyers-drive-sharp-rebound",
+      "title": "XRP briefly loses $1.14 support before buyers drive sharp rebound",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally",
+      "title": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue \u2018recovery tokens\u2019 in wake of $295m hack",
+      "source": "DL News",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-22T10:38:49.278728+00:00"
     }
   ]
 }
