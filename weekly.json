@@ -1,24 +1,14 @@
 {
-  "week_ending": "2026-06-13",
-  "week_starting": "2026-06-09",
+  "week_ending": "2026-06-20",
+  "week_starting": "2026-06-16",
   "quadrant_arc": "BUSINESS AS USUAL: 5 days",
-  "narrative": "What is happening this week\n\nJune 16th, Monday:\n\n\\* Bank of Japan rate decision: watch whether a hawkish surprise triggers yen carry unwind pressure that leaks into cross-asset credit spreads, as any forced deleveraging in that trade would be the kind of exogenous shock capable of breaking the current calm regime.\n\nJune 17th, Tuesday:\n\n\\* FOMC rate decision: the primary question for the thesis is whether the statement or press conference shifts the tone on credit conditions - any signal of renewed tightening bias would test whether current HY spread levels reflect genuine fundamental comfort or simply low vol complacency.\n\nJune 18th, Wednesday:\n\n\\* Bank of England rate decision: watch for any divergence in BoE language relative to the FOMC signal from the prior day, as a split in major central bank stances could introduce basis volatility in GBP credit that may ripple into broader IG spreads and pressure the current equilibrium.\n\n---\n\nThe week's pattern was stable throughout but not in a way that warrants confidence. The brief score elevation mid-week, while not enough to shift the regime, coincided with an EEM dislocation signal that is worth noting - emerging market stress of that kind, even transient, tends to surface when underlying risk appetite is thinner than headline equity levels suggest, and it deserves monitoring as a canary for the credit-equity framework.\n\nCredit offered a broadly constructive but uninspiring read this week. HY spreads held a tight range across the five sessions, with IG following suit and VIX remaining subdued, all of which kept the regime anchored in business as usual. The consistency of spread levels confirms that credit did not contradict equity, but the absence of any compression also means credit offered no endorsement of further equity upside from here.\n\n- ADBE: persistent deep value signal across multiple sessions with z-scores deteriorating to -3.69 by week's end, suggesting equity has detached meaningfully from credit-implied fair value and the dislocation is strengthening rather than mean-reverting.\n- HON: flagged early in the week with a z-score of -3.25, worth monitoring for whether the signal persists or fades as the central bank calendar resolves.\n- EEM: mid-week dislocation with a score of 50, a cross-asset warning that emerging market credit-equity alignment broke down temporarily - context matters heading into a week with three major central bank decisions.",
+  "narrative": "Regime Assessment\n\nThe week held in a stable configuration throughout, with no meaningful intraweek spike that would force a reassessment of the thesis. The brief mid-week widening in HY spreads did not cascade, which is worth noting - not because it threatened the regime, but because the quick reversion suggests the credit market is absorbing noise without repricing risk structurally. That kind of contained volatility is consistent with a regime where dislocation opportunities remain episodic rather than systemic.\n\nCredit and Volatility\n\nHY spreads oscillated in a roughly 23bp range across the week, touching 278bp mid-week before settling back toward the low end of the weekly range at 261bp, and the pattern suggests credit is neither confirming a risk-on breakout nor signalling early stress. The spread levels remain in a historically contained percentile context, which means the one deep value name surfacing on most sessions is a function of idiosyncratic dislocation rather than broad market cheapening. Credit and equity were broadly aligned, with no meaningful divergence that would activate the core dislocation signal at the index level.\n\nWhat is happening this week\n\nJune 26th, Friday:\n\n\\* Euro CPI flash: watch whether the print comes in below consensus and reopens ECB cut pricing, which would matter for whether IG spreads tighten further and compress the relative value between European credit and equity volatility implied premiums.",
   "earnings": [],
   "events": [
     {
-      "name": "BoJ",
-      "date": "2026-06-16",
-      "type": "CB"
-    },
-    {
-      "name": "FOMC",
-      "date": "2026-06-17",
-      "type": "CB"
-    },
-    {
-      "name": "BoE",
-      "date": "2026-06-18",
-      "type": "CB"
+      "name": "Euro CPI flash",
+      "date": "2026-06-26",
+      "type": "DATA"
     }
   ],
   "model": "claude-sonnet-4-6",
