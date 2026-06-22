@@ -118,6 +118,20 @@
       "source": "The Block",
       "what_moved": "Toss Bank & Solana: proof-of-concept for remittances/payments on SOL mainnet",
       "surfaced_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/22/strategy-added-usd35-million-in-bitcoin-usd300-million-in-cash-reserves-last-week",
+      "title": "Strategy added $35 million in bitcoin, $300 million in cash reserves last week",
+      "source": "CoinDesk",
+      "what_moved": "Strategy accumulates $35M BTC + $300M cash reserves during BEAR phase drawdown",
+      "surfaced_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring",
+      "title": "Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'",
+      "source": "CoinDesk",
+      "what_moved": "Bitmine accumulates $92M ETH in single week during BEAR drawdown phase",
+      "surfaced_at": "2026-06-22T15:52:15.097421+00:00"
     }
   ],
   "rejected": [
@@ -246,6 +260,90 @@
       "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
       "source": "DL News",
       "seen_at": "2026-06-22T10:38:49.278728+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss",
+      "title": "Crypto industry groups urge Congress to pass tax staking and mining bill unchanged",
+      "source": "The Block",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405602/bitcoin-treasury-strives-shares-jump-as-companys-holdings-near-20000-btc?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin treasury Strive\u2019s shares jump as company\u2019s holdings near 20,000 BTC",
+      "source": "The Block",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405595/tom-lee-says-best-years-for-crypto-remain-ahead-as-bitmine-buys-another-52203-eth?utm_source=rss&utm_medium=rss",
+      "title": "Tom Lee says \u2018best years for crypto remain ahead\u2019 as Bitmine buys another 52,203 ETH",
+      "source": "The Block",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405578/tokenized-rwa-market-cap-rises-51-billion-industry-races-define-equity-tokenization-model-bernstein?utm_source=rss&utm_medium=rss",
+      "title": "Tokenized RWA market cap rises 40% to top $51 billion as industry races to define equity tokenization model: Bernstein",
+      "source": "The Block",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405581/benchmark-reiterates-570-target-on-strategy-after-strc-selloff-says-preferred-stock-is-not-a-stablecoin?utm_source=rss&utm_medium=rss",
+      "title": "Benchmark reiterates $570 target on Strategy after STRC selloff, says preferred stock is \u2018not a stablecoin\u2019",
+      "source": "The Block",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss",
+      "title": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B",
+      "source": "The Block",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments?utm_source=rss&utm_medium=rss",
+      "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
+      "source": "The Block",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405565/michael-saylor-strategy-buys-more-bitcoin-despite-strc-slide?utm_source=rss&utm_medium=rss",
+      "title": "Michael Saylor\u2019s Strategy buys another 520 BTC for $35 million, adds to USD reserve despite STRC slide",
+      "source": "The Block",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
+      "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
+      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/22/okx-and-nyse-partner-to-bridge-tradfi-and-crypto-markets-in-joint-venture-led-by-andrew-cuomo",
+      "title": "OKX and NYSE partner to bridge tradfi and crypto markets in joint venture led by Andrew Cuomo",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-mining-network-becoming-more-sensitive-to-price-swings-jpmorgan-says",
+      "title": "Bitcoin mining network becoming more sensitive to price swings, JPMorgan says",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny",
+      "title": "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens",
+      "title": "Bitcoin ETF outflow pain eases just as another headwind gathers strength",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-22T15:52:15.097421+00:00"
     }
   ]
 }
