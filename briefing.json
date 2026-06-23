@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-23",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 20.3,
-  "tier": 1,
-  "narrative": "The most striking feature in this morning's data is the divergence between energy and broad emerging markets: XLE has shed 5.9% over five days while EEM has gained 5.4%, suggesting capital is rotating away from commodity-linked exposure and toward EM growth names, with Japan (EWJ +5.0%) and tech (XLK +4.5%) adding to that risk-on tilt in a broadly calm environment. The stress score's rise from 13 to 20 is modest but worth noting as the one sign of incremental friction beneath an otherwise orderly surface. Watch whether crude prices stabilise or extend their decline, as a continued move lower would test whether the EM rally can hold without the commodity tailwind that has historically supported it.",
+  "score": 41.2,
+  "tier": 2,
+  "narrative": "The stress score sits at 41 out of 100, placing the market in cautious territory within a business-as-usual quadrant. Credit markets offer little alarm \u2014 high-yield spreads at 259 basis points and investment-grade at 72 basis points both carry negative z-scores, indicating spreads remain compressed relative to recent history \u2014 but the equity picture has grown more mixed, with five of eleven sectors in the red over five days and today's session seeing communication services and consumer discretionary lead the downside.\n\nThe standout move today is the continued weakness in communication services, with XLC down 2.1% on the day after already losing 4.0% over the past five sessions, suggesting the prior week's rotation has now extended into a more sustained sector-level repositioning rather than noise. A decisive break of the VIX above 20, or a widening in high-yield spreads beyond their recent range toward a positive z-score, would signal that the cautious reading is hardening into something that warrants a reassessment of the current business-as-usual regime.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }
