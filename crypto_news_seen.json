@@ -111,6 +111,13 @@
       "source": "CoinDesk",
       "what_moved": "ETH: Ethereum Foundation announces 40% budget reduction and structural reorganization",
       "surfaced_at": "2026-06-23T19:09:05.691197+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-s-og-investors-have-slowed-selling-in-a-bitcoin-sign-for-the-market",
+      "title": "Bitcoin's 'OG' investors have slowed selling in a bullish sign for the market",
+      "source": "CoinDesk",
+      "what_moved": "Early Bitcoin investor cohort reduced selling activity, signaling reduced capitulation pressure",
+      "surfaced_at": "2026-06-24T08:21:59.465402+00:00"
     }
   ],
   "rejected": [
@@ -197,6 +204,144 @@
       "title": "Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator",
       "source": "CoinDesk",
       "seen_at": "2026-06-23T19:09:05.691197+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss",
+      "title": "Cboe launches prediction market suite with binary option contracts on S&P 500",
+      "source": "The Block",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&utm_medium=rss",
+      "title": "CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director",
+      "source": "The Block",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&utm_medium=rss",
+      "title": "Crypto PAC-backed Adrian Boafo secures victory in Maryland Democratic primary",
+      "source": "The Block",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405915/anti-cbdc-housing-bill-passes-congress?utm_source=rss&utm_medium=rss",
+      "title": "Congress sends anti-CBDC housing bill to Trump\u2019s desk for final approval",
+      "source": "The Block",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405902/senate-democrats-urge-republicans-to-hold-hearings-on-trump-family-crypto-ties-to-abu-dhabi-royalty?utm_source=rss&utm_medium=rss",
+      "title": "Senate Democrats urge Republicans to hold hearings on Trump family crypto ties to Abu Dhabi royalty",
+      "source": "The Block",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405893/trump-directing-government-dollars-time-quantum-security-could-boon-bitcoin?utm_source=rss&utm_medium=rss",
+      "title": "Trump directing \u2018government dollars and time\u2019 to quantum security could be a boon for bitcoin",
+      "source": "The Block",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405885/cryptoquant-strategy-should-pause-bitcoin-purchases-rebuild-cash-reserves?utm_source=rss&utm_medium=rss",
+      "title": "CryptoQuant says Strategy should pause bitcoin purchases and rebuild cash reserves",
+      "source": "The Block",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405867/barry-silberts-zcash-miner-proposes-merger-nasdaq-stock-soaring-rough-month-zec?utm_source=rss&utm_medium=rss",
+      "title": "Barry Silbert\u2019s Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC",
+      "source": "The Block",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/strategy-should-pause-its-bitcoin-buying-and-rebuild-cash-cryptoquant-says",
+      "title": "CryptoQuant says Michael Saylor's Strategy should halt its bitcoin buying",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/24/trump-lands-in-senate-s-crosshairs-over-usd500-million-uae-investment-in-his-crypto-venture",
+      "title": "Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-s-og-investors-have-slowed-selling-in-a-bullish-sign-for-the-market",
+      "title": "Bitcoin\u2019s \u2018OG\u2019 investors have slowed selling in a bullish sign for the market",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
+      "title": "Live markets: Bitcoin could drop to $59,000 in the short-term as liquidity dries up",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day",
+      "title": "Bitcoin drops toward $62,000 as the chip selloff deepens for a second day",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
+      "title": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
+      "title": "AI chipmaker Cerebras down 11% after first public earnings report",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
+      "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue \u2018recovery tokens\u2019 in wake of $295m hack",
+      "source": "DL News",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-24T08:21:59.465402+00:00"
     }
   ]
 }
