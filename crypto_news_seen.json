@@ -118,6 +118,20 @@
       "source": "CoinDesk",
       "what_moved": "Early Bitcoin investor cohort reduced selling activity, signaling reduced capitulation pressure",
       "surfaced_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/the-runes-revival-bitcoin-traffic-hits-a-two-year-high-as-transactions-blast-past-820-000",
+      "title": "The Runes revival: Bitcoin traffic hits a two-year high as transactions blast past 820,000",
+      "source": "CoinDesk",
+      "what_moved": "Bitcoin daily transactions exceed 820,000, reaching two-year high",
+      "surfaced_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/22/yzi-labs-nears-settlement-in-activist-campaign-at-bnb-treasury-firm-cea-industries",
+      "title": "YZi Labs ends proxy war with BNB treasury company CEA Industries",
+      "source": "CoinDesk",
+      "what_moved": "BNB governance conflict resolved; activist campaign settlement completed",
+      "surfaced_at": "2026-06-24T13:23:05.718180+00:00"
     }
   ],
   "rejected": [
@@ -342,6 +356,72 @@
       "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
       "source": "DL News",
       "seen_at": "2026-06-24T08:21:59.465402+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
+      "title": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
+      "source": "The Block",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405960/21shares-says-bitcoins-post-halving-price-action-still-looks-familiar-but-sees-recovery-toward-100000-by-year-end?utm_source=rss&utm_medium=rss",
+      "title": "21Shares says bitcoin\u2019s post-halving price action \u2018still looks familiar,\u2019 but sees recovery toward $100,000 by year-end",
+      "source": "The Block",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc?utm_source=rss&utm_medium=rss",
+      "title": "SBI Group launches Japan\u2019s first trust bank-backed stablecoin JPYSC",
+      "source": "The Block",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405945/law-enforcement-groups-warn-clarity-act?utm_source=rss&utm_medium=rss",
+      "title": "Law enforcement groups warn Clarity Act could hinder crypto crime investigations",
+      "source": "The Block",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405937/mark-cuban-dallas-mavericks-face-appeal-over-dismissed-voyager-crypto-case?utm_source=rss&utm_medium=rss",
+      "title": "Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case",
+      "source": "The Block",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher",
+      "title": "CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/23/cz-binance-founder-wants-to-clear-up-misunderstandings-about-who-he-is",
+      "title": "CZ, Binance founder, wants to clear up 'misunderstandings' about who he is",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/aave-could-soar-to-usd3-500-by-2030-on-defi-revival-says-stanchart",
+      "title": "Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/06/24/this-forgotten-coin-could-surprise-everyone-before-its-next-halving",
+      "title": "This forgotten coin could surprise everyone before its next halving",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-clings-to-usd62-500-as-bears-tighten-grip-on-crypto-market",
+      "title": "Bitcoin clings to $62,500 as bears tighten grip on crypto market",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/24/cboe-revives-s-and-p-500-binary-options-chasing-a-market-popularized-by-polymarket-kalshi",
+      "title": "Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-24T13:23:05.718180+00:00"
     }
   ]
 }
