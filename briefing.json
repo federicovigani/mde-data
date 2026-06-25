@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 18.1,
+  "score": 25.3,
   "tier": 2,
-  "narrative": "The stress score has dropped sharply from 41 to 18, moving the regime firmly into calm territory, driven primarily by credit markets where high-yield spreads at 266 basis points and investment-grade at 72 basis points both sit at deeply negative z-scores, reflecting continued spread compression rather than any sign of distress. VIX at 19.5 with a contango term structure reinforces that options markets are pricing orderly conditions despite the softer equity tape.\n\nThe standout development today is the abrupt single-session weakness in emerging markets, with EEM down 5.7% and EWJ falling 4.3%, a move that sits in contrast to the calm credit backdrop and raises the question of whether this is idiosyncratic positioning or an early read on broader risk appetite deterioration outside the United States. A sustained widening in high-yield spreads toward a positive z-score, or a break of EEM below its recent range on continued volume, would be the clearest signal that today's EM pressure is migrating into systemic stress rather than remaining confined to a single session.",
+  "narrative": "The stress score has risen from 18 to 25, a meaningful single-session shift driven by continued equity softness, with SPY down 2.0% over five days at a z-score of -1.11 and four of eleven sectors in the red. Credit markets remain composed, with high-yield spreads at 284 basis points and investment-grade at 77 basis points both carrying negative z-scores, suggesting the equity pressure has not yet translated into broader risk-off positioning.\n\nThe most notable development today is FXI extending its five-day loss to -6.4% while adding another -1.4% in today's session, pointing to persistent and accelerating selling pressure in Chinese equities that stands out against an otherwise mixed global picture. A break of high-yield spreads toward a positive z-score, or FXI losses broadening into wider EM deterioration beyond the current four of eight markets in the red, would be the clearest trigger for upgrading the regime assessment toward elevated stress.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }

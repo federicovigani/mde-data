@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "pattern_fired": false,
   "pattern_type": null,
   "notify_suppressed": false,
   "suppression_reason": "",
-  "score_today": 18.1,
-  "delta_1d": -23.1,
-  "delta_3d": 5.2,
+  "score_today": 25.3,
+  "delta_1d": 7.2,
+  "delta_3d": 5.0,
   "scores_last_6d": [
+    25.3,
     18.1,
     41.2,
     20.3,
     12.9,
-    26.1,
-    11.8
+    26.1
   ],
   "dates_last_6d": [
+    "2026-06-25",
     "2026-06-24",
     "2026-06-23",
     "2026-06-20",
     "2026-06-19",
-    "2026-06-18",
-    "2026-06-17"
+    "2026-06-18"
   ]
 }
