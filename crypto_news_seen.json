@@ -1,20 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/405055/long-term-holders-are-hodling-k33-says-record-supply-metric-suggests-bear-market-nearing-end?utm_source=rss&utm_medium=rss",
-      "title": "'Long-term holders are hodling': K33 says record supply metric suggests bear market may be nearing an end",
-      "source": "The Block",
-      "what_moved": "Bitcoin long-term holder supply at record levels with declining selling pressure",
-      "surfaced_at": "2026-06-17T14:26:31.695856+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham",
-      "title": "Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham",
-      "source": "The Block",
-      "what_moved": "Bhutan transferred 533 BTC ($34.5M) to Binance; state holdings fell below 1,750 BTC",
-      "surfaced_at": "2026-06-17T19:25:50.766832+00:00"
-    },
-    {
       "url": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
       "title": "Live markets: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
       "source": "CoinDesk",
@@ -132,93 +118,16 @@
       "source": "CoinDesk",
       "what_moved": "BNB governance conflict resolved; activist campaign settlement completed",
       "surfaced_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
+      "source": "The Block",
+      "what_moved": "20% of Bitcoin miners now unprofitable; miner revenue below production costs",
+      "surfaced_at": "2026-06-25T00:14:11.413110+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/405868/clarity-act-new-opposition-catholic-leaders-weakened-safeguards-against-illicit-finance?utm_source=rss&utm_medium=rss",
-      "title": "Nearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking",
-      "source": "The Block",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405850/new-york-man-sentenced-1-4-million-crypto-fraud-scheme-bogus-influencer-accounts?utm_source=rss&utm_medium=rss",
-      "title": "New York man sentenced for $1.4 million crypto fraud scheme using bogus influencer accounts",
-      "source": "The Block",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405831/quarter-end-catalyst-consolidation-bitcoin-below-63000-etf-outflows-10-6-billion-options-expiry?utm_source=rss&utm_medium=rss",
-      "title": "\u2018Quarter-end catalyst or consolidation?\u2019: Bitcoin below $63,000 amid ETF outflows, $10.6 billion options expiry",
-      "source": "The Block",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405838/meta-zuckerberg-to-build-prediction-market-app-polymarket-kalshi-nyt?utm_source=rss&utm_medium=rss",
-      "title": "Meta\u2019s Zuckerberg wants to build prediction market app like Polymarket and Kalshi: NYT",
-      "source": "The Block",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405834/doj-seizes-huione-group-account-launder-billions?utm_source=rss&utm_medium=rss",
-      "title": "DOJ seizes Huione Group cloud computing account used to launder billions in fraud proceeds",
-      "source": "The Block",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405825/goldfinch-set-shutter-prime-community-vote-backs-wind-down-proposal?utm_source=rss&utm_medium=rss",
-      "title": "Goldfinch set to shutter Prime after community vote backs wind-down proposal",
-      "source": "The Block",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405819/tether-backed-oobit-brings-usdt-170-million-users-brazils-pix-payment-network?utm_source=rss&utm_medium=rss",
-      "title": "Tether-backed Oobit brings USDT to nearly 170 million users of Brazil\u2019s PIX payment network",
-      "source": "The Block",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss",
-      "title": "Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape",
-      "source": "The Block",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
-      "title": "Meta is developing a prediction market app called \u2018Arena\u2019 as sector booms: NYT",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/23/bny-sees-fomo-driving-asset-managers-into-tokenized-funds",
-      "title": "BNY sees 'FOMO' driving asset managers into tokenized funds",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
-      "title": "Bitcoin's recent drop below $60,000 signals Fed, ETF and AI pressures: Deutsche Bank",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief",
-      "title": "The SEC delayed tokenizing stocks, and here\u2019s why that\u2019s a relief",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
-      "title": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-may-need-to-plunge-15-or-more-to-mark-bottom-according-to-this-long-time-indicator",
-      "title": "Bitcoin may need to plunge 15% or more to mark bottom, according to this long-time indicator",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-23T19:09:05.691197+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss",
       "title": "Cboe launches prediction market suite with binary option contracts on S&P 500",
@@ -422,6 +331,96 @@
       "title": "Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi",
       "source": "CoinDesk",
       "seen_at": "2026-06-24T13:23:05.718180+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
+      "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed \u2018skinny accounts\u2019 for crypto and fintech firms",
+      "source": "The Block",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406039/pump-fun-offers-up-5-million-salary-chief-legal-officer-role?utm_source=rss&utm_medium=rss",
+      "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
+      "source": "The Block",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
+      "title": "Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
+      "source": "The Block",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
+      "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
+      "source": "The Block",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
+      "title": "Prediction market polls find US voters prefer federal rules over state patchwork",
+      "source": "The Block",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
+      "title": "Binance co-CEO remains \u2018committed\u2019 to securing EU license after exchange withdraws Greece bid",
+      "source": "The Block",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405997/sports-betting-app-onyx-odds-raises-20-million-in-round-led-by-kraken-parent-payward?utm_source=rss&utm_medium=rss",
+      "title": "Sports-based prediction markets app Onyx Odds raises $20 million in round led by Kraken parent Payward",
+      "source": "The Block",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
+      "title": "Upheaval at the Ethereum Foundation has some of crypto\u2019s biggest names feeling bullish",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
+      "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+      "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
+      "title": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
+      "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
+      "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/24/trump-refuses-to-sign-law-with-u-s-cbdc-ban-demands-approval-of-elections-bill",
+      "title": "Trump's refusal to sign housing bill could delay Congress and imperil Clarity Act",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
+      "title": "Ex-FCA policy insider explains the \u2018great divide\u2019 in the UK\u2019s crypto ambition",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-25T00:14:11.413110+00:00"
     }
   ]
 }
