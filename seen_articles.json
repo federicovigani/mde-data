@@ -111,6 +111,13 @@
       "source": "ZeroHedge",
       "relevance": "Private credit fund gating signals emerging funding market stress and potential credit dislocation not yet reflected in calm HY OAS at 259bp.",
       "surfaced_at": "2026-06-23T08:41:37.049707+00:00"
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+      "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+      "source": "Federal Reserve",
+      "relevance": "Bank stress test results under new Fed Chair Warsh signal capital adequacy and credit resilience amid housing crash and geoeconomic stress.",
+      "surfaced_at": "2026-06-25T08:34:04.260403+00:00"
     }
   ],
   "rejected": []
