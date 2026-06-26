@@ -1,27 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/405213/bitcoin-slips-below-64000-as-hawkish-fed-overshadows-signs-of-onchain-repair?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair",
-      "source": "The Block",
-      "what_moved": "BTC ETFs posted $82.2 million net outflow; Glassnode signals improving liquidity forming floor",
-      "surfaced_at": "2026-06-18T14:11:12.411100+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost",
-      "title": "JPMorgan says bitcoin mining economics have 'worsened' as BTC trades below production cost",
-      "source": "The Block",
-      "what_moved": "Bitcoin trading $62,500 vs JPMorgan's $78,000 production cost estimate",
-      "surfaced_at": "2026-06-18T19:29:05.391016+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405268/bitcoin-miners-bitdeer-cleanspark-and-more-report-mixed-may-output-as-ai-buildouts-impact-hashrate-growth-treasury-models",
-      "title": "Bitcoin miners Bitdeer, CleanSpark and more report mixed May output as AI buildouts impact hashrate growth, treasury models",
-      "source": "The Block",
-      "what_moved": "Major miners reporting 1,859 BTC combined May output with diverging treasury strategies amid hashrate compression",
-      "surfaced_at": "2026-06-18T19:29:05.391016+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss",
       "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
       "source": "The Block",
@@ -139,75 +118,23 @@
       "source": "CoinDesk",
       "what_moved": "Bitcoin supply in loss 10.83M BTC at record high; MVRV ratio at multi-month extreme",
       "surfaced_at": "2026-06-25T13:20:02.244389+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406225/bitcoin-miners-face-deepening-margin-squeeze-revenue-falls-below-production-costs",
+      "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
+      "source": "The Block",
+      "what_moved": "Bitcoin miner revenue falls below production costs, margin compression intensifies",
+      "surfaced_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoins-og-investors-have-slowed-selling-in-a-bullish-sign-for-the-market",
+      "title": "Bitcoin's 'OG' investors have slowed selling in a bullish sign for the market",
+      "source": "CoinDesk",
+      "what_moved": "Long-term Bitcoin holder selling velocity decelerates during BEAR drawdown phase",
+      "surfaced_at": "2026-06-26T00:10:03.799875+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
-      "title": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
-      "source": "The Block",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405960/21shares-says-bitcoins-post-halving-price-action-still-looks-familiar-but-sees-recovery-toward-100000-by-year-end?utm_source=rss&utm_medium=rss",
-      "title": "21Shares says bitcoin\u2019s post-halving price action \u2018still looks familiar,\u2019 but sees recovery toward $100,000 by year-end",
-      "source": "The Block",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc?utm_source=rss&utm_medium=rss",
-      "title": "SBI Group launches Japan\u2019s first trust bank-backed stablecoin JPYSC",
-      "source": "The Block",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405945/law-enforcement-groups-warn-clarity-act?utm_source=rss&utm_medium=rss",
-      "title": "Law enforcement groups warn Clarity Act could hinder crypto crime investigations",
-      "source": "The Block",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405937/mark-cuban-dallas-mavericks-face-appeal-over-dismissed-voyager-crypto-case?utm_source=rss&utm_medium=rss",
-      "title": "Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case",
-      "source": "The Block",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher",
-      "title": "CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/06/23/cz-binance-founder-wants-to-clear-up-misunderstandings-about-who-he-is",
-      "title": "CZ, Binance founder, wants to clear up 'misunderstandings' about who he is",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/24/aave-could-soar-to-usd3-500-by-2030-on-defi-revival-says-stanchart",
-      "title": "Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/daybook-us/2026/06/24/this-forgotten-coin-could-surprise-everyone-before-its-next-halving",
-      "title": "This forgotten coin could surprise everyone before its next halving",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-clings-to-usd62-500-as-bears-tighten-grip-on-crypto-market",
-      "title": "Bitcoin clings to $62,500 as bears tighten grip on crypto market",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/24/cboe-revives-s-and-p-500-binary-options-chasing-a-market-popularized-by-polymarket-kalshi",
-      "title": "Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-24T13:23:05.718180+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
       "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed \u2018skinny accounts\u2019 for crypto and fintech firms",
@@ -387,6 +314,102 @@
       "title": "Crypto relief rally fails to shake persistent bearish derivatives signal",
       "source": "CoinDesk",
       "seen_at": "2026-06-25T13:20:02.244389+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid?utm_source=rss&utm_medium=rss",
+      "title": "Aave founder Stani Kulechov says AAVE isn\u2019t for sale \u2018at a 70% discount\u2019 following report of Payward bid",
+      "source": "The Block",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss",
+      "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
+      "source": "The Block",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
+      "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
+      "source": "The Block",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss",
+      "title": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an \u2018everything exchange\u2019",
+      "source": "The Block",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss",
+      "title": "Coinbase-incubated Base suffers mainnet chain stall interrupting block production",
+      "source": "The Block",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss",
+      "title": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
+      "source": "The Block",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406185/bitcoin-rout-strategy-strc-slides-26-below-par-mstr-shares-16-month-low?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin rout leads Strategy\u2019s STRC to slide 26% below par as MSTR shares hits 16-month low",
+      "source": "The Block",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss",
+      "title": "Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone",
+      "source": "The Block",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
+      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
+      "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
+      "title": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
+      "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
+      "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI\u2019s global copyright headache",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
+      "title": "BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo",
+      "title": "Strategy has a 10-month cash runway for dividends, but retail investors are losing faith",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/25/quant-fund-says-bitcoin-is-near-a-major-inflection-point-as-rare-onchain-signals-align",
+      "title": "Quant fund says bitcoin is near a major inflection point as rare onchain signals align",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T00:10:03.799875+00:00"
     }
   ]
 }
