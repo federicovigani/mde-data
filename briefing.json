@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 25.3,
+  "score": 26.3,
   "tier": 2,
-  "narrative": "The stress score has risen from 18 to 25, a meaningful single-session shift driven by continued equity softness, with SPY down 2.0% over five days at a z-score of -1.11 and four of eleven sectors in the red. Credit markets remain composed, with high-yield spreads at 284 basis points and investment-grade at 77 basis points both carrying negative z-scores, suggesting the equity pressure has not yet translated into broader risk-off positioning.\n\nThe most notable development today is FXI extending its five-day loss to -6.4% while adding another -1.4% in today's session, pointing to persistent and accelerating selling pressure in Chinese equities that stands out against an otherwise mixed global picture. A break of high-yield spreads toward a positive z-score, or FXI losses broadening into wider EM deterioration beyond the current four of eight markets in the red, would be the clearest trigger for upgrading the regime assessment toward elevated stress.",
+  "narrative": "The stress score edged up one point to 26, a modest move that reflects a modest broadening of caution rather than any sharp deterioration. Equity weakness has narrowed considerably, with only one of eleven sectors in the red over five days compared to four yesterday, yet the continued drift lower in SPY keeps mild pressure on the score. Credit remains well-behaved, with high-yield spreads at 285 basis points and investment-grade at 77 basis points both holding negative z-scores, offering no amplifying signal from that channel.\n\nThe standout today is the rotation into defensives, with utilities and healthcare each adding over one and a half percent in today's session while consumer discretionary slips another 1.5%, a pattern that suggests investors are quietly repositioning within equities rather than exiting risk altogether. A sustained move in high-yield spreads toward a neutral or positive z-score would be the clearest signal that this internal rotation is giving way to something more broadly defensive and would warrant a regime reassessment.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }
