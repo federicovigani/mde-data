@@ -1,27 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss",
-      "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
-      "source": "The Block",
-      "what_moved": "Morgan Stanley ETH and SOL ETF amendments filed, lowest-fee products signaling SEC approval progress",
-      "surfaced_at": "2026-06-19T09:28:33.890316+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss",
-      "title": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
-      "source": "The Block",
-      "what_moved": "Bitcoin microtransactions (<0.01 BTC) surged from 44% (2023) to 80% of daily volume",
-      "surfaced_at": "2026-06-19T09:28:33.890316+00:00"
-    },
-    {
-      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
-      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
-      "source": "DL News",
-      "what_moved": "Uniswap DAO reclaims $42M UNI governance tokens from delegates, consolidating voting power",
-      "surfaced_at": "2026-06-19T09:28:33.890316+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin",
       "title": "Franklin Templeton files for ETFs that reinvest stock dividends into bitcoin",
       "source": "The Block",
@@ -132,99 +111,23 @@
       "source": "CoinDesk",
       "what_moved": "Long-term Bitcoin holder selling velocity decelerates during BEAR drawdown phase",
       "surfaced_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+      "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+      "source": "CoinDesk",
+      "what_moved": "Binance exits EU market; MiCA compliance failure triggers service withdrawal",
+      "surfaced_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406284/bitcoin-slides-below-59000",
+      "title": "Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower",
+      "source": "The Block",
+      "what_moved": "Bitcoin fell below $59,000 on macro and Asian equity sell-off; z-score movement deeper into drawdown tier",
+      "surfaced_at": "2026-06-26T13:12:07.905692+00:00"
     }
   ],
   "rejected": [
-    {
-      "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
-      "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed \u2018skinny accounts\u2019 for crypto and fintech firms",
-      "source": "The Block",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406039/pump-fun-offers-up-5-million-salary-chief-legal-officer-role?utm_source=rss&utm_medium=rss",
-      "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
-      "source": "The Block",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
-      "title": "Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
-      "source": "The Block",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
-      "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
-      "source": "The Block",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
-      "title": "Prediction market polls find US voters prefer federal rules over state patchwork",
-      "source": "The Block",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
-      "title": "Binance co-CEO remains \u2018committed\u2019 to securing EU license after exchange withdraws Greece bid",
-      "source": "The Block",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405997/sports-betting-app-onyx-odds-raises-20-million-in-round-led-by-kraken-parent-payward?utm_source=rss&utm_medium=rss",
-      "title": "Sports-based prediction markets app Onyx Odds raises $20 million in round led by Kraken parent Payward",
-      "source": "The Block",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
-      "title": "Upheaval at the Ethereum Foundation has some of crypto\u2019s biggest names feeling bullish",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
-      "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
-      "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
-      "title": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
-      "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
-      "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/06/24/trump-refuses-to-sign-law-with-u-s-cbdc-ban-demands-approval-of-elections-bill",
-      "title": "Trump's refusal to sign housing bill could delay Congress and imperil Clarity Act",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
-      "title": "Ex-FCA policy insider explains the \u2018great divide\u2019 in the UK\u2019s crypto ambition",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-25T00:14:11.413110+00:00"
-    },
     {
       "url": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration?utm_source=rss&utm_medium=rss",
       "title": "Spark, Uniswap build stablecoin \u2018FX Layer\u2019 seeded with $150 million liquidity migration",
@@ -410,6 +313,96 @@
       "title": "Quant fund says bitcoin is near a major inflection point as rare onchain signals align",
       "source": "CoinDesk",
       "seen_at": "2026-06-26T00:10:03.799875+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
+      "title": "Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics",
+      "source": "The Block",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406340/bitcoins-fragile-floor-cracks-as-fed-hawks-circle-and-etf-investors-keep-pulling-out-analysts?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin\u2019s fragile floor cracks as Fed hawks circle and ETF investors keep pulling out: analysts",
+      "source": "The Block",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406336/base-delays-beryl-hard-fork-over-b20-registry-timing-issue?utm_source=rss&utm_medium=rss",
+      "title": "Base delays Beryl hard fork over B20 registry timing issue",
+      "source": "The Block",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/learn/406279/bitcoin-etf-flows-explained?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin ETF Flows Explained: What ETF Inflows and Outflows Mean for Investors",
+      "source": "The Block",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/learn/406283/why-public-companies-hold-bitcoin?utm_source=rss&utm_medium=rss",
+      "title": "Corporate Bitcoin Treasuries Explained: Why Public Companies Hold Bitcoin",
+      "source": "The Block",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/learn/406286/what-is-the-genius-act?utm_source=rss&utm_medium=rss",
+      "title": "What Is the GENIUS Act? A Guide to U.S. Stablecoin Law",
+      "source": "The Block",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/learn/406288/how-pension-funds-invest-in-crypto?utm_source=rss&utm_medium=rss",
+      "title": "How Pension Funds Invest in Crypto",
+      "source": "The Block",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406284/bitcoin-slides-below-59000?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower",
+      "source": "The Block",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
+      "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
+      "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
+      "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
+      "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
+      "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million",
+      "title": "Japanese financial services giant SBI Holdings to buy Bitbank for $289 million",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/26/grant-cardone-says-he-will-keep-buying-bitcoin-using-real-estate-cash-flows",
+      "title": "Grant Cardone says he will keep buying bitcoin using real estate cash flows",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-26T13:12:07.905692+00:00"
     }
   ]
 }
