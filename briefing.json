@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 26.3,
-  "tier": 2,
-  "narrative": "The stress score edged up one point to 26, a modest move that reflects a modest broadening of caution rather than any sharp deterioration. Equity weakness has narrowed considerably, with only one of eleven sectors in the red over five days compared to four yesterday, yet the continued drift lower in SPY keeps mild pressure on the score. Credit remains well-behaved, with high-yield spreads at 285 basis points and investment-grade at 77 basis points both holding negative z-scores, offering no amplifying signal from that channel.\n\nThe standout today is the rotation into defensives, with utilities and healthcare each adding over one and a half percent in today's session while consumer discretionary slips another 1.5%, a pattern that suggests investors are quietly repositioning within equities rather than exiting risk altogether. A sustained move in high-yield spreads toward a neutral or positive z-score would be the clearest signal that this internal rotation is giving way to something more broadly defensive and would warrant a regime reassessment.",
+  "score": 23.8,
+  "tier": 1,
+  "narrative": "Healthcare's single-day gain of 3.0 percent places it among the stronger defensive moves of recent weeks, and combined with real estate adding 1.5 percent today, the rotation out of technology and China-exposed equities is now reinforcing itself across both the five-day and one-day timeframes rather than fading. FXI has shed nearly 6 percent over the past five sessions and extended that loss by another 2.1 percent today, making China the most consistent source of pressure in an otherwise composed market. Watch whether FXI stabilises or breaks to a fresh five-day low, as a continuation would test whether the defensive rotation remains contained or begins to pull broader EM sentiment with it.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }
