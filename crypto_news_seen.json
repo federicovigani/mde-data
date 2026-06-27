@@ -125,284 +125,106 @@
       "source": "The Block",
       "what_moved": "Bitcoin fell below $59,000 on macro and Asian equity sell-off; z-score movement deeper into drawdown tier",
       "surfaced_at": "2026-06-26T13:12:07.905692+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
+      "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
+      "source": "The Block",
+      "what_moved": "Spot bitcoin ETF outflows $444.51M Friday, seven consecutive weeks negative",
+      "surfaced_at": "2026-06-27T18:04:05.894528+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
+      "title": "Coinbase and OKX try to lure in Binance's EU users after it failed to secure a MiCA license",
+      "source": "CoinDesk",
+      "what_moved": "Binance exits EU; Coinbase/OKX compete for 450M user migration",
+      "surfaced_at": "2026-06-27T18:04:05.894528+00:00"
     }
   ],
   "rejected": [
     {
-      "url": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration?utm_source=rss&utm_medium=rss",
-      "title": "Spark, Uniswap build stablecoin \u2018FX Layer\u2019 seeded with $150 million liquidity migration",
+      "url": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&utm_medium=rss",
+      "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
       "source": "The Block",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406112/waiting-for-buyers-bitcoin-holds-fragile-60k-floor-ahead-of-10-6b-quarterly-expiry?utm_source=rss&utm_medium=rss",
-      "title": "\u2018Waiting for buyers\u2019: Bitcoin holds fragile $60K floor ahead of $10.6B quarterly expiry",
+      "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
+      "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
       "source": "The Block",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406105/sbi-holdings-agrees-to-acquire-japanese-crypto-exchange-bitbank-in-288-6-million-deal?utm_source=rss&utm_medium=rss",
-      "title": "SBI Holdings agrees to acquire Japanese crypto exchange Bitbank in $288.6 million deal",
+      "url": "https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9?utm_source=rss&utm_medium=rss",
+      "title": "Solana DAT stocks climb double digits as SOL jumps 9%",
       "source": "The Block",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406099/half-of-uk-wealth-advisors-say-most-clients-crypto-sits-outside-their-oversight-as-61-of-european-peers-face-firm-restrictions-coinshares?utm_source=rss&utm_medium=rss",
-      "title": "Half of UK wealth advisors say most clients\u2019 crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares",
+      "url": "https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss",
+      "title": "Base suffers second mainnet stall in two days",
       "source": "The Block",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406054/kraken-expands-otc-lending-onchain-warehouse-facility-maple?utm_source=rss&utm_medium=rss",
-      "title": "Kraken expands OTC lending through an onchain warehouse facility with Maple",
+      "url": "https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss",
+      "title": "Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal",
       "source": "The Block",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406090/thailand-issues-arrest-warrant-chinese-businessman-mining-power-theft?utm_source=rss&utm_medium=rss",
-      "title": "Thailand issues arrest warrant for Chinese businessman tied to $28 million illegal crypto mining probe: report",
+      "url": "https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss",
+      "title": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report",
       "source": "The Block",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406082/south-korea-bithumb-information-penalty?utm_source=rss&utm_medium=rss",
-      "title": "South Korea fines Bithumb for sharing user data overseas without consent",
+      "url": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
+      "title": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
       "source": "The Block",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406073/coinex-iran-trm-labs?utm_source=rss&utm_medium=rss",
-      "title": "CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs",
-      "source": "The Block",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises",
-      "title": "CoinDesk 20 performance update: AAVE gains 10.1% as index rises",
+      "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
+      "title": "What Robinhood\u2019s recent layoffs say about the current state of crypto investments",
       "source": "CoinDesk",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
-      "title": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
+      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
+      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
       "source": "CoinDesk",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
-      "title": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
+      "url": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
+      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
       "source": "CoinDesk",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan",
-      "title": "Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan",
+      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
       "source": "CoinDesk",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.coindesk.com/daybook-us/2026/06/25/bitcoin-derivatives-signal-panic-a-weak-core-pce-reading-could-trigger-snapback",
-      "title": "Bitcoin derivatives signal panic. A weak core PCE reading could trigger snapback.",
+      "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
+      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
       "source": "CoinDesk",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms",
-      "title": "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
+      "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
+      "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
       "source": "CoinDesk",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/25/crypto-relief-rally-fails-to-shake-persistent-bearish-derivatives-signal",
-      "title": "Crypto relief rally fails to shake persistent bearish derivatives signal",
+      "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+      "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
       "source": "CoinDesk",
-      "seen_at": "2026-06-25T13:20:02.244389+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid?utm_source=rss&utm_medium=rss",
-      "title": "Aave founder Stani Kulechov says AAVE isn\u2019t for sale \u2018at a 70% discount\u2019 following report of Payward bid",
-      "source": "The Block",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss",
-      "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
-      "source": "The Block",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
-      "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
-      "source": "The Block",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss",
-      "title": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an \u2018everything exchange\u2019",
-      "source": "The Block",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss",
-      "title": "Coinbase-incubated Base suffers mainnet chain stall interrupting block production",
-      "source": "The Block",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss",
-      "title": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
-      "source": "The Block",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406185/bitcoin-rout-strategy-strc-slides-26-below-par-mstr-shares-16-month-low?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin rout leads Strategy\u2019s STRC to slide 26% below par as MSTR shares hits 16-month low",
-      "source": "The Block",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss",
-      "title": "Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone",
-      "source": "The Block",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
-      "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
-      "title": "Strategy's yield-generating STRC stock is more correlated with BTC than ever",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
-      "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
-      "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI\u2019s global copyright headache",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
-      "title": "BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo",
-      "title": "Strategy has a 10-month cash runway for dividends, but retail investors are losing faith",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/25/quant-fund-says-bitcoin-is-near-a-major-inflection-point-as-rare-onchain-signals-align",
-      "title": "Quant fund says bitcoin is near a major inflection point as rare onchain signals align",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T00:10:03.799875+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
-      "title": "Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics",
-      "source": "The Block",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406340/bitcoins-fragile-floor-cracks-as-fed-hawks-circle-and-etf-investors-keep-pulling-out-analysts?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin\u2019s fragile floor cracks as Fed hawks circle and ETF investors keep pulling out: analysts",
-      "source": "The Block",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406336/base-delays-beryl-hard-fork-over-b20-registry-timing-issue?utm_source=rss&utm_medium=rss",
-      "title": "Base delays Beryl hard fork over B20 registry timing issue",
-      "source": "The Block",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/learn/406279/bitcoin-etf-flows-explained?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin ETF Flows Explained: What ETF Inflows and Outflows Mean for Investors",
-      "source": "The Block",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/learn/406283/why-public-companies-hold-bitcoin?utm_source=rss&utm_medium=rss",
-      "title": "Corporate Bitcoin Treasuries Explained: Why Public Companies Hold Bitcoin",
-      "source": "The Block",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/learn/406286/what-is-the-genius-act?utm_source=rss&utm_medium=rss",
-      "title": "What Is the GENIUS Act? A Guide to U.S. Stablecoin Law",
-      "source": "The Block",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/learn/406288/how-pension-funds-invest-in-crypto?utm_source=rss&utm_medium=rss",
-      "title": "How Pension Funds Invest in Crypto",
-      "source": "The Block",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/406284/bitcoin-slides-below-59000?utm_source=rss&utm_medium=rss",
-      "title": "Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower",
-      "source": "The Block",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
-      "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
-      "title": "With crypto ending the first half in the red, bitcoin's solace is it beat Strategy",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
-      "title": "Bitcoin bounces from $58,000 as derivatives signal more pain in the pipeline",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
-      "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
-      "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million",
-      "title": "Japanese financial services giant SBI Holdings to buy Bitbank for $289 million",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/26/grant-cardone-says-he-will-keep-buying-bitcoin-using-real-estate-cash-flows",
-      "title": "Grant Cardone says he will keep buying bitcoin using real estate cash flows",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-26T13:12:07.905692+00:00"
+      "seen_at": "2026-06-27T18:04:05.894528+00:00"
     }
   ]
 }
