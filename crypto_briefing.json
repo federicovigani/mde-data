@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-26",
-  "generated_at": "2026-06-26T05:06:18.455724+00:00",
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T05:06:17.546782+00:00",
   "cycle_phase": "BEAR",
   "transition_zone": false,
   "composite_action_code": "NO_ACTION",
@@ -14,14 +14,14 @@
   "structural_risk": false,
   "structural_reasons": [],
   "btc_drawdown_tier": "NONE",
-  "btc_zscore": -0.742,
-  "btc_pct_below_1yr_high": -51.18,
+  "btc_zscore": -1.365,
+  "btc_pct_below_1yr_high": -52.14,
   "btc_rv30": 36.1,
   "eth_drawdown_tier": "NONE",
   "sol_drawdown_tier": "NONE",
-  "fear_greed": 13,
-  "days_in_state": 7,
+  "fear_greed": 15,
+  "days_in_state": 8,
   "tier": "A",
-  "brief": "BTC remains 16.2pp below the -35% structural threshold (worsening) and realised volatility sits 3.9pp short of the 40% floor (improving). A crisis signal requires z-score below -3.0 in BEAR phase, or price recovery above the 200d MA to shift regime and unlock tactical edge.",
+  "brief": "BTC remains 17pp of depth below the structural filter at -35% drawdown (worsening trajectory), while realized volatility sits 4pp above the 40% threshold (static). A crisis entry would require z-score below -3.0 in current bear conditions; alternatively, price recovery above the 200d MA would shift regime and enable tactical signals.",
   "outliers": []
 }
