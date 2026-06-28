@@ -1,6 +1,19 @@
 {
   "equity": [
     {
+      "week_end": "2026-06-27",
+      "article_count": 2,
+      "dominant_theme": "private credit stress versus public market complacency",
+      "tone": "cautionary",
+      "key_signals": [
+        "Apollo gates private credit fund as 17% of investors rush to exit",
+        "HY OAS at 259bp shows no stress while private credit bleeds",
+        "Fed stress tests pass but bank resilience framing contradicts surrounding signals"
+      ],
+      "narrative": "Apollo's second consecutive quarter of gating private credit investors is the fifth week running of redemption pressure spreading through the illiquid credit complex, and the gap between that stress and a calm HY OAS of 259bp is widening rather than closing. The Fed stress test pass looks reassuring on the surface but the benign framing sits uneasily alongside a housing crash scenario and four weeks of sequential deterioration in funding markets, real economy data, and central bank posture. The equity engine holding at 23 with public spreads unmoved is precisely the divergence that has preceded forced credit repricing in prior cycles - the coiled spring is tighter, not looser, this week.",
+      "generated_at": "2026-06-28T11:52:08+00:00"
+    },
+    {
       "week_end": "2026-06-20",
       "article_count": 6,
       "dominant_theme": "central bank policy shock meets real economy deterioration",
@@ -53,6 +66,19 @@
     }
   ],
   "crypto": [
+    {
+      "week_end": "2026-06-27",
+      "article_count": 19,
+      "dominant_theme": "bitcoin market structure breakdown - miner insolvency risk, record underwater supply, and ETF capitulation accelerating",
+      "tone": "escalating",
+      "key_signals": [
+        "BTC supply in loss hits record 10.83M coins as price breaks below $59K",
+        "Bitcoin ETFs cap second-worst week on record, average IBIT holder down 40%",
+        "Miners revenue falls below production cost for third consecutive week"
+      ],
+      "narrative": "The crypto stress that began with hawkish Fed repricing three weeks ago is now metastasising into a full market structure breakdown - BTC has broken below $59,000, a record 10.83 million coins are underwater, and spot ETF holders are sitting on average losses of 40% after the second-worst weekly outflow on record. Miner economics remain deeply negative for a third consecutive week, raising the near-term probability of forced liquidations and balance sheet distress among listed mining operators. The combination of retail ETF capitulation, miner cash-flow insolvency, and Binance losing its EU operating license creates a compounding pressure stack that warrants active monitoring for spillover into crypto-adjacent credit and equity positions.",
+      "generated_at": "2026-06-28T11:52:15+00:00"
+    },
     {
       "week_end": "2026-06-20",
       "article_count": 16,
