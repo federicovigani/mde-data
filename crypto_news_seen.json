@@ -1,20 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.coindesk.com/markets/2026/06/22/strategy-added-usd35-million-in-bitcoin-usd300-million-in-cash-reserves-last-week",
-      "title": "Strategy added $35 million in bitcoin, $300 million in cash reserves last week",
-      "source": "CoinDesk",
-      "what_moved": "Strategy accumulates $35M BTC + $300M cash reserves during BEAR phase drawdown",
-      "surfaced_at": "2026-06-22T15:52:15.097421+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring",
-      "title": "Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'",
-      "source": "CoinDesk",
-      "what_moved": "Bitmine accumulates $92M ETH in single week during BEAR drawdown phase",
-      "surfaced_at": "2026-06-22T15:52:15.097421+00:00"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
       "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
       "source": "CoinDesk",
@@ -146,6 +132,13 @@
       "source": "The Block",
       "what_moved": "USDT trading at +8.5% premium in India due to regulatory supply squeeze",
       "surfaced_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu",
+      "title": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
+      "source": "CoinDesk",
+      "what_moved": "Binance EU exit + MiCA compliance deadline creates 10M user displacement risk",
+      "surfaced_at": "2026-06-29T19:04:59.216612+00:00"
     }
   ],
   "rejected": [
@@ -352,6 +345,78 @@
       "title": "Saylor's Strategy initiates buybacks and bitcoin monetization program, lifts STRC dividend",
       "source": "CoinDesk",
       "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406604/arkham-launches-ranking-system-for-prediction-market-traders?utm_source=rss&utm_medium=rss",
+      "title": "Arkham launches ranking system for prediction market traders",
+      "source": "The Block",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking?utm_source=rss&utm_medium=rss",
+      "title": "JPMorgan execs draw comparison between yield stablecoins and \u2018shadow banking\u2019",
+      "source": "The Block",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss",
+      "title": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC",
+      "source": "The Block",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406568/strategy-mstr-strc-shares-recover-after-brutal-week-saylor-unveils-new-buyback-plans?utm_source=rss&utm_medium=rss",
+      "title": "Strategy\u2019s MSTR, STRC shares recover after brutal week as Saylor unveils new buyback plans",
+      "source": "The Block",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss",
+      "title": "Binance founder CZ says MiCA application was \u2018fully compliant\u2019 and near approval before political forces intervened",
+      "source": "The Block",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank",
+      "title": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
+      "title": "JPMorgan backs U.S. crypto bill but warns of risks in digital asset framework",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done",
+      "title": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/29/white-house-to-speak-with-law-enforcement-groups-to-push-crypto-s-clarity-act",
+      "title": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments",
+      "title": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing",
+      "title": "Crypto analytics firm Chainalysis proposes standards for blockchain tracing",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/29/emb-3-pm-utc-ripple-wants-institutions-to-borrow-against-tokenized-assets-on-xrpl",
+      "title": "Ripple wants institutions to borrow against tokenized assets on XRPL",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T19:04:59.216612+00:00"
     }
   ]
 }
