@@ -1,13 +1,24 @@
 {
-  "week_ending": "2026-06-20",
-  "week_starting": "2026-06-16",
+  "week_ending": "2026-06-27",
+  "week_starting": "2026-06-23",
   "quadrant_arc": "BUSINESS AS USUAL: 5 days",
-  "narrative": "Regime Assessment\n\nThe week held in a stable configuration throughout, with no meaningful intraweek spike that would force a reassessment of the thesis. The brief mid-week widening in HY spreads did not cascade, which is worth noting - not because it threatened the regime, but because the quick reversion suggests the credit market is absorbing noise without repricing risk structurally. That kind of contained volatility is consistent with a regime where dislocation opportunities remain episodic rather than systemic.\n\nCredit and Volatility\n\nHY spreads oscillated in a roughly 23bp range across the week, touching 278bp mid-week before settling back toward the low end of the weekly range at 261bp, and the pattern suggests credit is neither confirming a risk-on breakout nor signalling early stress. The spread levels remain in a historically contained percentile context, which means the one deep value name surfacing on most sessions is a function of idiosyncratic dislocation rather than broad market cheapening. Credit and equity were broadly aligned, with no meaningful divergence that would activate the core dislocation signal at the index level.\n\nWhat is happening this week\n\nJune 26th, Friday:\n\n\\* Euro CPI flash: watch whether the print comes in below consensus and reopens ECB cut pricing, which would matter for whether IG spreads tighten further and compress the relative value between European credit and equity volatility implied premiums.",
-  "earnings": [],
+  "narrative": "Regime Assessment\n\nThe week's pattern is more interesting than its calm surface suggests. Monday's elevated reading stood apart from the rest of the week, and the subsequent rapid compression back to quiet conditions is worth examining carefully. That kind of intraweek spike followed by a swift normalisation can indicate genuine resilience, but it can also reflect a market that is not processing stress so much as ignoring it. The fact that HY spreads widened noticeably across the week even as regime scores settled suggests the credit side did not fully share equity's composure, which is the kind of divergence this thesis is built to exploit.\n\nCredit and Volatility\n\nHY spreads drifted wider through the week, closing near the top of the weekly range, which sits in a zone that historically corresponds to mild but not acute stress. The credit market's reluctance to compress alongside stabilising equity conditions is the key observation here - credit was not confirming the calm that equity implied. Whether VIX was compressing or holding steady, the spread behaviour introduces a degree of scepticism about how durable the current equilibrium is.\n\nWhat is happening this week\n\nJuly 1st, Wednesday:\n\n\\* ISM Manufacturing PMI: watch whether a sub-50 print widens the current credit-equity divergence further, specifically whether HY spreads reprice contraction risk while equity holds - that gap is where the strategy's positioning becomes actionable.\n\nJune 30th, Tuesday:\n\n\\* NKE earnings: watch for margin guidance and any commentary on consumer demand softness, as a miss here would test whether credit markets had already priced deterioration that equity had not.\n\nJuly 3rd, Friday:\n\n\\* US NFP: watch whether a weak print forces a reassessment of rate expectations in a way that either validates or closes the spread widening seen this week - a labour market crack arriving alongside elevated HY levels would shift the regime assessment materially.",
+  "earnings": [
+    {
+      "ticker": "NKE",
+      "date": "2026-06-30",
+      "eps_estimate": null
+    }
+  ],
   "events": [
     {
-      "name": "Euro CPI flash",
-      "date": "2026-06-26",
+      "name": "ISM Manufacturing PMI",
+      "date": "2026-07-01",
+      "type": "DATA"
+    },
+    {
+      "name": "US NFP",
+      "date": "2026-07-03",
       "type": "DATA"
     }
   ],
