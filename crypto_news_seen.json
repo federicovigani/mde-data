@@ -1,20 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
-      "title": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself",
-      "source": "The Block",
-      "what_moved": "US spot BTC ETFs: $227M net outflows, sixth consecutive week",
-      "surfaced_at": "2026-06-22T10:38:49.278728+00:00"
-    },
-    {
-      "url": "https://www.theblock.co/post/405505/toss-solana-partnership?utm_source=rss&utm_medium=rss",
-      "title": "South Korea's Toss Bank to test blockchain-based financial infrastructure on Solana",
-      "source": "The Block",
-      "what_moved": "Toss Bank & Solana: proof-of-concept for remittances/payments on SOL mainnet",
-      "surfaced_at": "2026-06-22T10:38:49.278728+00:00"
-    },
-    {
       "url": "https://www.coindesk.com/markets/2026/06/22/strategy-added-usd35-million-in-bitcoin-usd300-million-in-cash-reserves-last-week",
       "title": "Strategy added $35 million in bitcoin, $300 million in cash reserves last week",
       "source": "CoinDesk",
@@ -146,6 +132,20 @@
       "source": "CoinDesk",
       "what_moved": "BitMEX removes C-suite leadership (CEO, CFO, growth head) simultaneously",
       "surfaced_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406516/bitcoin-clings-to-key-support-level-as-weekly-us-spot-etf-outflows-hit-1-8b-and-fed-rate-hike-bets-mount-analysts?utm_source=rss&utm_medium=rss",
+      "title": "Bitcoin clings to key support level as weekly US spot ETF outflows hit $1.8B and Fed rate hike bets mount: analysts",
+      "source": "The Block",
+      "what_moved": "Bitcoin spot ETF weekly outflows hit $1.79B amid macro pressure",
+      "surfaced_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406502/indias-usdt-premium-tops-8-5-as-crypto-remittance-crackdown-squeezes-stablecoin-supply-report?utm_source=rss&utm_medium=rss",
+      "title": "India's USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report",
+      "source": "The Block",
+      "what_moved": "USDT trading at +8.5% premium in India due to regulatory supply squeeze",
+      "surfaced_at": "2026-06-29T14:48:09.665169+00:00"
     }
   ],
   "rejected": [
@@ -274,6 +274,84 @@
       "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
       "source": "DL News",
       "seen_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss",
+      "title": "Bitmine lifts Ethereum treasury to 5.7 million ETH through \u2018challenging\u2019 weekly slide, joins Russell 1000",
+      "source": "The Block",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406520/bernstein-says-prediction-market-infrastructure-rush-could-spark-wave-of-ma-across-consumer-platforms?utm_source=rss&utm_medium=rss",
+      "title": "Bernstein says prediction-market infrastructure rush could spark wave of M&A across consumer platforms",
+      "source": "The Block",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde?utm_source=rss&utm_medium=rss",
+      "title": "BlackRock\u2019s Aladdin platform adds deeper support for Ethena\u2019s stablecoin products",
+      "source": "The Block",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406512/strategy-buys-btc-mstr-strc-collapse-bitcoin-holdings-underwater?utm_source=rss&utm_medium=rss",
+      "title": "Strategy pauses bitcoin buys, establishes $1B digital credit repurchase program as USD reserve tops $2.5B",
+      "source": "The Block",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406506/vitalik-buterin-calls-obfuscation-cryptographys-final-boss-but-says-current-approaches-remain-wildly-impractical?utm_source=rss&utm_medium=rss",
+      "title": "Vitalik Buterin calls obfuscation cryptography\u2019s \u2018final boss,\u2019 but says current approaches remain wildly impractical",
+      "source": "The Block",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
+      "title": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/29/strategy-opens-the-door-to-selling-bitcoin-under-new-capital-plan-here-s-what-it-means",
+      "title": "Strategy opens the door to selling bitcoin under new capital plan. Here's what it means",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/ukraine-transfers-usd8-3-million-in-seized-crypto-amid-potential-plans-for-strategic-reserve",
+      "title": "Ukraine transfers $8.3 million in seized crypto amid potential plans for strategic reserve",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/blackrock-pushes-deeper-into-defi-with-ethena-integration-sending-ena-up-8",
+      "title": "BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/kalshi-and-polymarket-could-become-m-and-a-targets-as-prediction-markets-consolidate-bernstein",
+      "title": "Kalshi and Polymarket could become M&A targets as prediction markets consolidate: Bernstein",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth",
+      "title": "Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/jpmorgan-sees-limited-institutional-demand-for-perpetual-futures",
+      "title": "JPMorgan sees limited institutional demand for perpetual futures",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/29/saylor-s-strategy-initiates-buybacks-bitcoin-monetization-program-lifts-strc-dividend",
+      "title": "Saylor's Strategy initiates buybacks and bitcoin monetization program, lifts STRC dividend",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-29T14:48:09.665169+00:00"
     }
   ]
 }
