@@ -1,13 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin",
-      "title": "Franklin Templeton files for ETFs that reinvest stock dividends into bitcoin",
-      "source": "The Block",
-      "what_moved": "Franklin Templeton files for two new dividend-reinvestment-to-BTC ETFs, effective Sept 1, 2026",
-      "surfaced_at": "2026-06-20T18:12:45.352171+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
       "title": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself",
       "source": "The Block",
@@ -139,92 +132,148 @@
       "source": "CoinDesk",
       "what_moved": "Binance exits EU; Coinbase/OKX compete for 450M user migration",
       "surfaced_at": "2026-06-27T18:04:05.894528+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/29/usd4-billion-gone-spot-bitcoin-etfs-are-on-track-for-their-worst-month-on-record",
+      "title": "$4 billion gone. Spot bitcoin ETFs are on track for their worst month on record",
+      "source": "CoinDesk",
+      "what_moved": "Spot BTC ETF net outflow $4B in single month, worst on record",
+      "surfaced_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/crypto-exchange-bitmex-removes-ceo-cfo-and-head-of-growth",
+      "title": "Crypto exchange BitMEX removes CEO, CFO and head of growth",
+      "source": "CoinDesk",
+      "what_moved": "BitMEX removes C-suite leadership (CEO, CFO, growth head) simultaneously",
+      "surfaced_at": "2026-06-29T09:26:25.417366+00:00"
     }
   ],
   "rejected": [
     {
-      "url": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&utm_medium=rss",
-      "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
+      "url": "https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss",
+      "title": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
       "source": "The Block",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
-      "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
+      "url": "https://www.theblock.co/post/406492/loopring-sunsets-dex?utm_source=rss&utm_medium=rss",
+      "title": "Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption",
       "source": "The Block",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9?utm_source=rss&utm_medium=rss",
-      "title": "Solana DAT stocks climb double digits as SOL jumps 9%",
+      "url": "https://www.theblock.co/post/406470/kiwoom-securities-bithumb?utm_source=rss&utm_medium=rss",
+      "title": "South Korea\u2019s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report",
       "source": "The Block",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss",
-      "title": "Base suffers second mainnet stall in two days",
+      "url": "https://www.theblock.co/post/406472/the-funding-why-crypto-vcs-are-expanding-beyond-crypto?utm_source=rss&utm_medium=rss",
+      "title": "The Funding: Why crypto VCs are expanding beyond crypto",
       "source": "The Block",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss",
-      "title": "Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal",
+      "url": "https://www.theblock.co/post/406466/bis-says-stablecoins-fall-short-as-money-warns-of-emerging-market-risks-in-annual-report?utm_source=rss&utm_medium=rss",
+      "title": "BIS says stablecoins fall short as money, warns of emerging-market risks in annual report",
       "source": "The Block",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss",
-      "title": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report",
+      "url": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater?utm_source=rss&utm_medium=rss",
+      "title": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
       "source": "The Block",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
-      "title": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
+      "url": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss",
+      "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
       "source": "The Block",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
-      "title": "What Robinhood\u2019s recent layoffs say about the current state of crypto investments",
+      "url": "https://www.coindesk.com/markets/2026/06/29/new-mica-regime-in-europe-u-s-jobs-report-for-june-crypto-week-ahead",
+      "title": "New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead",
       "source": "CoinDesk",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
-      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+      "url": "https://www.coindesk.com/markets/2026/06/29/bis-warns-stablecoins-are-more-like-etfs-than-actual-money-and-they-re-creating-fx-risk",
+      "title": "BIS warns stablecoins are more like ETFs than actual money, and they're creating FX risk",
       "source": "CoinDesk",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
-      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
+      "url": "https://www.coindesk.com/markets/2026/06/29/south-korea-s-usd518-billion-ai-chip-push-shows-crypto-is-still-losing-the-capital-race",
+      "title": "South Korea\u2019s $518 billion AI chip push shows crypto is still losing the capital race",
       "source": "CoinDesk",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
+      "url": "https://www.coindesk.com/tech/2026/06/29/bitcoin-dips-to-usd59-700-as-iran-de-escalation-lifts-stocks-but-not-crypto",
+      "title": "Bitcoin dips to $59,700 as Iran de-escalation lifts stocks but not crypto",
       "source": "CoinDesk",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
-      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
+      "url": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto",
+      "title": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
       "source": "CoinDesk",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
-      "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+      "url": "https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided",
+      "title": "Samson Mow says bitcoin bottom is in despite skepticism from analysts",
       "source": "CoinDesk",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     },
     {
-      "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
-      "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
-      "source": "CoinDesk",
-      "seen_at": "2026-06-27T18:04:05.894528+00:00"
+      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue \u2018recovery tokens\u2019 in wake of $295m hack",
+      "source": "DL News",
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
+      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
+      "source": "DL News",
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-06-29T09:26:25.417366+00:00"
     }
   ]
 }
