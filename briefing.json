@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-30",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 23.8,
+  "score": 21.7,
   "tier": 1,
-  "narrative": "Healthcare's single-day gain of 3.0 percent places it among the stronger defensive moves of recent weeks, and combined with real estate adding 1.5 percent today, the rotation out of technology and China-exposed equities is now reinforcing itself across both the five-day and one-day timeframes rather than fading. FXI has shed nearly 6 percent over the past five sessions and extended that loss by another 2.1 percent today, making China the most consistent source of pressure in an otherwise composed market. Watch whether FXI stabilises or breaks to a fresh five-day low, as a continuation would test whether the defensive rotation remains contained or begins to pull broader EM sentiment with it.",
+  "narrative": "Consumer discretionary and technology each added 2.4 percent today, a notable one-day reversal that pushes back against the defensive tone that has dominated the five-day picture, where healthcare, utilities, and staples have been the clear leaders. With only one of eleven sectors in the red and credit spreads sitting at historically tight levels, the session reads as a tentative reassertion of growth appetite rather than a sustained shift. Watch whether discretionary and technology can hold these gains into the week's close, as a fade back toward defensives would suggest today's move is positioning noise rather than the start of a genuine rotation.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }
