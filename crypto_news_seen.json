@@ -139,6 +139,27 @@
       "source": "CoinDesk",
       "what_moved": "Binance EU exit + MiCA compliance deadline creates 10M user displacement risk",
       "surfaced_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles",
+      "title": "Live updates: BlackRock's IBIT sheds $300 million as bitcoin demand dwindles",
+      "source": "CoinDesk",
+      "what_moved": "BlackRock IBIT spot BTC ETF outflow $300M single day",
+      "surfaced_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory",
+      "title": "Bitcoin's 52-week correlation with USD/JPY hits -0.90, undercutting 'carry trade' theory",
+      "source": "CoinDesk",
+      "what_moved": "BTC/USD-JPY 52-week correlation inverted to -0.90",
+      "surfaced_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
+      "title": "Tether trades at 7% to 10% premium in India. Exchanges say it's just supply and demand",
+      "source": "CoinDesk",
+      "what_moved": "USDT premium in India widens to 7\u201310% above parity",
+      "surfaced_at": "2026-06-30T08:30:31.193047+00:00"
     }
   ],
   "rejected": [
@@ -417,6 +438,72 @@
       "title": "Ripple wants institutions to borrow against tokenized assets on XRPL",
       "source": "CoinDesk",
       "seen_at": "2026-06-29T19:04:59.216612+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406639/chinese-billionaire-sentenced-30-years?utm_source=rss&utm_medium=rss",
+      "title": "Self-exiled Chinese billionaire sentenced to 30 years for fraud involving crypto",
+      "source": "The Block",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406634/securitize-nyse-debut-thursday?utm_source=rss&utm_medium=rss",
+      "title": "Securitize to debut on NYSE this Thursday after gaining final nod for merger",
+      "source": "The Block",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&utm_medium=rss",
+      "title": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
+      "source": "The Block",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=rss&utm_medium=rss",
+      "title": "UK sets capital, market abuse rules in landmark crypto framework",
+      "source": "The Block",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss",
+      "title": "TD Cowen says crypto market structure bill passage \u2018far from assured\u2019 before midterm election",
+      "source": "The Block",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406613/sec-wraps-up-nanobit-crypto-fraud-case-final-judgment-ordering-5-million-fines?utm_source=rss&utm_medium=rss",
+      "title": "SEC wraps up NanoBit crypto fraud case in final judgment, ordering over $5 million in fines",
+      "source": "The Block",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe",
+      "title": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/30/xrp-holds-usd1-support-as-network-activity-rises-and-leverage-clears-out",
+      "title": "XRP holds $1 support as network activity rises and leverage clears out",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+      "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar",
+      "title": "Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/06/29/securitize-heads-to-nyse-debut-after-investors-approve-spac-merger",
+      "title": "Securitize heads to NYSE debut after investors approve SPAC merger",
+      "source": "CoinDesk",
+      "seen_at": "2026-06-30T08:30:31.193047+00:00"
     }
   ]
 }
