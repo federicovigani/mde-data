@@ -1,20 +1,6 @@
 {
   "surfaced": [
     {
-      "url": "https://www.coindesk.com/markets/2026/06/24/the-runes-revival-bitcoin-traffic-hits-a-two-year-high-as-transactions-blast-past-820-000",
-      "title": "The Runes revival: Bitcoin traffic hits a two-year high as transactions blast past 820,000",
-      "source": "CoinDesk",
-      "what_moved": "Bitcoin daily transactions exceed 820,000, reaching two-year high",
-      "surfaced_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
-      "url": "https://www.coindesk.com/business/2026/06/22/yzi-labs-nears-settlement-in-activist-campaign-at-bnb-treasury-firm-cea-industries",
-      "title": "YZi Labs ends proxy war with BNB treasury company CEA Industries",
-      "source": "CoinDesk",
-      "what_moved": "BNB governance conflict resolved; activist campaign settlement completed",
-      "surfaced_at": "2026-06-24T13:23:05.718180+00:00"
-    },
-    {
       "url": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
       "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
       "source": "The Block",
@@ -153,6 +139,20 @@
       "source": "CoinDesk",
       "what_moved": "Spot BTC ETF outflows hit record $4.5B in June with sustained institutional exit",
       "surfaced_at": "2026-07-01T08:49:56.861248+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath",
+      "title": "Ark Invest bought more than $75 million of crypto shares during June bloodbath",
+      "source": "CoinDesk",
+      "what_moved": "Ark Invest accumulated $75M+ crypto shares during June drawdown period",
+      "surfaced_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
+      "title": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
+      "source": "CoinDesk",
+      "what_moved": "MiCA rulebook rewrite underway post-July 1 deadline; regulatory framework now in flux",
+      "surfaced_at": "2026-07-01T13:34:07.068980+00:00"
     }
   ],
   "rejected": [
@@ -239,6 +239,138 @@
       "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
       "source": "CoinDesk",
       "seen_at": "2026-07-01T08:49:56.861248+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406888/bullish-on-morpho-standard-chartered-sees-token-at-60-by-2030-outperforming-bitcoin-ether?utm_source=rss&utm_medium=rss",
+      "title": "\u2018We are bullish on Morpho\u2019: Standard Chartered sees token at $60 by 2030, outperforming bitcoin and ether",
+      "source": "The Block",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
+      "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
+      "source": "The Block",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406877/bernstein-sees-203-upside-for-circle-even-as-new-stablecoin-rival-ousd-debuts?utm_source=rss&utm_medium=rss",
+      "title": "Bernstein sees 203% upside for Circle even as new stablecoin rival OUSD debuts",
+      "source": "The Block",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406198/the-cross-asset-frontier-tokenized-equities-and-stock-trading-on-crypto-platforms?utm_source=rss&utm_medium=rss",
+      "title": "The Cross-Asset Frontier: Tokenized Equities and Stock Trading on Crypto Platforms",
+      "source": "The Block",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406862/symbiotic-officially-pivots-to-collateral-markets-with-core-v2-launch?utm_source=rss&utm_medium=rss",
+      "title": "Symbiotic officially pivots to collateral markets with Core V2 launch",
+      "source": "The Block",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406854/crypto-hack-theft-falls-7-in-june-to-76-million-as-humanity-protocol-tops-list-peckshield?utm_source=rss&utm_medium=rss",
+      "title": "Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield",
+      "source": "The Block",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406766/europes-mica-crypto-regime-is-fully-in-force-heres-who-wins-and-loses?utm_source=rss&utm_medium=rss",
+      "title": "Europe\u2019s MiCA crypto regime is fully in force: Here\u2019s who wins and loses",
+      "source": "The Block",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406851/ripple-coinbase-election-donations?utm_source=rss&utm_medium=rss",
+      "title": "Ripple, Coinbase among top donors in crypto\u2019s $189 million election spending: report",
+      "source": "The Block",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/people-culture/dl-news-is-closing/",
+      "title": "DL News is closing",
+      "source": "DL News",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/opinion/opinion-lord-kulveer-ranger-on-digital-assets/",
+      "title": "Lord Kulveer Ranger on digital assets, digital pound, and stablecoins",
+      "source": "DL News",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/drift-to-issue-recovery-tokens-in-wake-of-295m-hack/",
+      "title": "Drift to issue \u2018recovery tokens\u2019 in wake of $295m hack",
+      "source": "DL News",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/defi-rides-pokemon-trading-card-boom/",
+      "title": "DeFi rides Pok\u00e9mon trading card boom as onchain marketplaces bring in $11m",
+      "source": "DL News",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/coinbase-cuts-jobs-and-blames-artificial-intelligence/",
+      "title": "Coinbase shares pop as CEO Brian Armstrong cuts 700 jobs and blames AI",
+      "source": "DL News",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/defi/uniswap-dao-votes-to-take-back-loaned-uni-tokens/",
+      "title": "Uniswap DAO votes to take back $42m of governance tokens loaned to delegates",
+      "source": "DL News",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/hyperliquid-launches-prediction-markets-for-bitcoin/",
+      "title": "Hyperliquid takes aim at Kalshi, Polymarket targeting $24bn prediction markets",
+      "source": "DL News",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-price-and-strategy-shares-soar-ahead-of-earnings/",
+      "title": "Strategy shares soar 50% in a month as Bitcoin tops $80,000 ahead of Q1 earnings call",
+      "source": "DL News",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit",
+      "title": "Tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/06/30/what-s-next-for-bitcoin-and-stocks-analysts-see-a-volatile-second-half",
+      "title": "What's next for Bitcoin and stocks? Analysts see a volatile second half",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
+      "title": "Mysterious Solana project World unveiled as fully onchain prediction market",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-opens-the-third-quarter-in-a-dangerous-historical-red-zone-after-rare-losing-first-half",
+      "title": "Bitcoin opens the third quarter in an historical red zone after rare losing first half",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2026/07/01/xrp-hype-funds-are-the-bright-spots-as-investors-flee-bitcoin-ether-etfs",
+      "title": "XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-options-traders-load-up-on-usd50-000-puts-and-gold-futures-flash-a-death-cross",
+      "title": "Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T13:34:07.068980+00:00"
     }
   ]
 }
