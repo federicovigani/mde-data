@@ -1,9 +1,9 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 21.7,
-  "tier": 1,
-  "narrative": "Consumer discretionary and technology each added 2.4 percent today, a notable one-day reversal that pushes back against the defensive tone that has dominated the five-day picture, where healthcare, utilities, and staples have been the clear leaders. With only one of eleven sectors in the red and credit spreads sitting at historically tight levels, the session reads as a tentative reassertion of growth appetite rather than a sustained shift. Watch whether discretionary and technology can hold these gains into the week's close, as a fade back toward defensives would suggest today's move is positioning noise rather than the start of a genuine rotation.",
+  "score": 12.0,
+  "tier": 2,
+  "narrative": "The stress score dropped sharply from 22 to 12 overnight, moving the regime firmly into calm territory as equity breadth improved and credit remained historically tight, with high-yield spreads at just the 6th percentile of their five-year range. With only one of eleven sectors in the red and no equity dislocations flagged, the data presents a clean, low-friction environment for risk assets.\n\nToday's standout is the divergence between technology, which gained 2.8 percent on the session, and real estate, which fell 2.0 percent, suggesting the market is quietly repricing rate-sensitive assets even as the broader tone stays constructive. A move in the VIX back above the 20 level, or a meaningful widening in high-yield spreads beyond 300 basis points, would be the clearest signal that the current calm is giving way to renewed stress.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }
