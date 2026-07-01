@@ -153,6 +153,13 @@
       "source": "CoinDesk",
       "what_moved": "MiCA rulebook rewrite underway post-July 1 deadline; regulatory framework now in flux",
       "surfaced_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down",
+      "title": "Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down",
+      "source": "CoinDesk",
+      "what_moved": "Bitcoin breaks above $60,000 on Fed inflation signal reversal",
+      "surfaced_at": "2026-07-01T18:59:24.347658+00:00"
     }
   ],
   "rejected": [
@@ -371,6 +378,78 @@
       "title": "Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross",
       "source": "CoinDesk",
       "seen_at": "2026-07-01T13:34:07.068980+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406918/robinhood-chain-goes-live-mainnet-alongside-24-7-tokenized-stocks-lighter-perps-planned-crypto-agentic-trading?utm_source=rss&utm_medium=rss",
+      "title": "Robinhood Chain goes live on mainnet alongside 24/7 tokenized stocks, Lighter perps and planned crypto agentic trading",
+      "source": "The Block",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406934/venice-ai-funding-equity-valuation-dragonfly?utm_source=rss&utm_medium=rss",
+      "title": "Venice AI raises $65 million Series A at $1 billion equity valuation led by Dragonfly",
+      "source": "The Block",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit?utm_source=rss&utm_medium=rss",
+      "title": "\u2018An honest, neutral counterpart:\u2019 Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit",
+      "source": "The Block",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol?utm_source=rss&utm_medium=rss",
+      "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
+      "source": "The Block",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches?utm_source=rss&utm_medium=rss",
+      "title": "Solana-based prediction market app on Phantom wallet launches",
+      "source": "The Block",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
+      "title": "Robinhood rolls out public blockchain as it expands deeper into crypto",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide",
+      "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
+      "title": "Cantor says bitcoin bear market may be entering final stretch",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case",
+      "title": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years",
+      "title": "EthLabs launches as Ethereum undergoes its biggest leadership transition in years",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
+      "title": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
+      "source": "CoinDesk",
+      "seen_at": "2026-07-01T18:59:24.347658+00:00"
     }
   ]
 }
