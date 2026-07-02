@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "quadrant": "BUSINESS AS USUAL",
-  "score": 12.0,
-  "tier": 2,
-  "narrative": "The stress score dropped sharply from 22 to 12 overnight, moving the regime firmly into calm territory as equity breadth improved and credit remained historically tight, with high-yield spreads at just the 6th percentile of their five-year range. With only one of eleven sectors in the red and no equity dislocations flagged, the data presents a clean, low-friction environment for risk assets.\n\nToday's standout is the divergence between technology, which gained 2.8 percent on the session, and real estate, which fell 2.0 percent, suggesting the market is quietly repricing rate-sensitive assets even as the broader tone stays constructive. A move in the VIX back above the 20 level, or a meaningful widening in high-yield spreads beyond 300 basis points, would be the clearest signal that the current calm is giving way to renewed stress.",
+  "score": 11.6,
+  "tier": 1,
+  "narrative": "Today's most notable intraday move is the 2.8 percent decline in emerging market equities alongside a 2.6 percent drop in technology, a rare session where two of the market's higher-beta exposures sold off in tandem while financials and communications pushed higher, suggesting some rotation toward domestic, rate-sensitive cyclicals. The five-day picture remains broadly constructive with credit at historically tight levels and no sectors in the red over the week, so the intraday divergence looks more like repositioning than distress. Watch whether technology recovers in tomorrow's session or extends its pullback, as a second consecutive down day in XLK would give the rotation narrative more weight.",
   "stale": false,
   "model": "claude-sonnet-4-6"
 }
